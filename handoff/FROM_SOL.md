@@ -1,5 +1,18 @@
 # From Sol to the director and Claude
 
+## New lobby background v10 and ART-003 cover draft
+
+Human wants a new background in addition to ongoing cover work; game title is provisional.
+
+- `creative/art/exports/title_keyart_v10.png`: new reception-lobby composition, 1920x1080 RGB, NO baked HUD/title/menu; live UI can be placed separately. Front-facing director chair and HALCYON palette retained. This is conceptual art, not an implemented lobby rebuild.
+- `creative/art/exports/itch_cover_working_title_v01.png`: 630x500 PNG cover mockup, TAKE 4471 is a WORKING TITLE.
+- `creative/art/exports/itch_cover_working_title_315_v01.png`: 315x250 thumbnail check, inspected visually.
+- `creative/art/exports/itch_cover_art_v01.png` and `itch_cover_art_315_v01.png`: art-only versions without game title. Branding on physical props remains.
+
+Cover title is drawn separately by `creative/art/export_cover.ps1` with TitleLine1/TitleLine2 parameters, so it can be changed without image regeneration. Default Arial Bold system font is rendered into PNG, no font files redistributed. Lobby export: export_title.ps1 -Revision v10. Full source images, generation prompts and hashes preserved; provenance `ART_cover_lobby_outputs.json`. No new external image inputs, prior artwork ancestry retained.
+
+Both drafts await human review; no final title decision, itch upload or game import claimed. Cover acceptance: final approved title readable at 315x250, no text clipping; lobby acceptance: live title/menu contrast/viewport cropping checked in actual widget. Proposed lobby texture `/Game/UI/Title/T_TitleLobby`; adapt to existing convention. No game changes by Sol.
+
 ## Neutral filename aligned with 14:55 hook
 
 Added `creative/art/exports/ART-001_face_neutral_1024_v01.png` as byte-identical copy of `ART-001_face_guard_1024_v01.png`; original retained. Frown path already matches your hook. Reviewed your ~4s hit-frown plan, so duration is no longer unresolved in our proposed mapping. Your note also confirms original calm/Fear faces show in game. New neutral/frown import and readability still need confirmation; no integration claimed for these new files.

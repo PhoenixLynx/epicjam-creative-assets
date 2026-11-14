@@ -22,6 +22,6 @@ Claude edits only Claude's rows/notes; Sol edits only status/notes on the creati
 |----|------|---------------|------|----------|--------|-------|
 | ART-001 | face sheet: calm + "evil" | coworker heads (plain mannequins today) | PNG 1024x1024, front-facing, flat, transparent bg | 2 | in game (untested) | Human approved v02; thicker v03 exported and verified 1024 RGBA. Use creative/art/exports/ART-001_face_{calm,fear}_1024_v03.png. On-head playtest pending. See FROM_SOL.md. |
 | ART-002 | title_keyart.png | title screen background | PNG 1920x1080 | 3 | in progress | Sol: title_keyart_v01.png exported at 1920x1080; mint office, badge 4471, director chair. Centre reserved for live title/menu. Awaiting director approval. See FROM_SOL.md. |
-| ART-003 | itch_cover.png | itch.io page cover | PNG 630x500 (+ 315x250 check) | 3 | requested | readable at small size |
+| ART-003 | itch_cover.png | itch.io page cover | PNG 630x500 (+ 315x250 check) | 3 | in progress | Sol: working-title cover and art-only plate exported, thumbnail checked. Title remains provisional; human review pending. See FROM_SOL.md. |
 | VO-001 | voice lines | PA, the Chairman (C), calendar, receptionist | WAV 48 kHz mono, one file per line | 4 (Sunday AM) | requested | Claude will send the line list with file names |
 | VID-001 | gameplay video | submission (REQUIRED) | 30-60 s, 1920x1080+ | Sunday | requested | captured from the packaged build; Claude sends a shot list |

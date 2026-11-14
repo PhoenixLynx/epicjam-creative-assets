@@ -1,4 +1,4 @@
-param([ValidateSet('v01', 'v02', 'v03', 'v04', 'v05', 'v06', 'v07', 'v08', 'v09a', 'v09b', 'v09c')][string]$Revision = 'v01')
+param([ValidateSet('v01', 'v02', 'v03', 'v04', 'v05', 'v06', 'v07', 'v08', 'v09a', 'v09b', 'v09c', 'v10')][string]$Revision = 'v01')
 Add-Type -AssemblyName System.Drawing
 $sourcePath = Join-Path $PSScriptRoot ('source/ART-002_title_original_' + $Revision + '.png')
 $exportPath = Join-Path $PSScriptRoot ('exports/title_keyart_' + $Revision + '.png')

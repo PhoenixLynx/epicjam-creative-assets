@@ -1,0 +1,227 @@
+[
+  {
+    "asset_id": "ART-002-V10-title_keyart_v10",
+    "descriptive_filename": "creative/art/exports/title_keyart_v10.png",
+    "purpose_and_usage": "Lobby title background",
+    "human_contributors": [
+      "PhoenixLynx: direction and production request, output approval pending"
+    ],
+    "ai_systems_and_tools": [
+      "ChatGPT / Sol",
+      "built-in image_gen",
+      "System.Drawing size export and native text layout"
+    ],
+    "original_creation_utc": null,
+    "creation_time_evidence": "Generated this session; exact tool generation timestamp unavailable",
+    "first_recorded_utc": "2026-11-14T22:02:01.162850+00:00",
+    "source_prompts_and_settings": {
+      "asset_id": "ART-002-V10",
+      "prompt": "Create a GENUINELY NEW original HALCYON corporate-horror title-background concept, not a variation of the blank-wall office in reference. Provided image is ONLY style/palette/brand guide. Landscape16:9 desired1920x1080. NEW LOCATION: an empty sleek corporate reception lobby viewed diagonally from employee arrival point. On LEFT midground an angular ivory reception counter with a mint recessed front panel carrying fictional HALCYON half-sun mark, thin brushed-metal base trim, a slim dark monitor, orderly flat corporate signage without readable extra copy. Behind counter a cool grey wall; left background bright glass office corridor. On RIGHT midground glass meeting-room wall with one frosted mint band, warm pale wood reveal, neutral lift doorway and discreet red light. One empty tall black DIRECTOR chair FRONT FACING CAMERA sits at right third on small mint floorX; simple coherent four-leg folding construction, visible front seat/armrests/footrest, white DIRECTOR on inside canvas. High wall CCTV points toward employee arrival. Floor pale stone perimeter and bluegrey carpet inset, matte white architecture, small recessed downlights, soft daylight from far left, controlled metallic trim highlights. Colour HALCYON mint/offwhite/bluegrey/pale wood, simplified stylized realtime game art, no photoreal microtexture. Foreground bottom-left is a cropped employee check-in ledge holding mint HALCYON half-sun mug, broad logo-print lanyard and badge4471; clean angular ledge not huge desk. Crucial central35-65percent width/y25-70percent has a quiet subdued bluegrey architectural plane and open floor suitable for title/menu, not another giant wall spanning entire image. Depth and purposeful composition over prop clutter. NO PEOPLE. NO BAKED HUD this time: no employee card, clock, take counter, recording overlay or menu. No main game title, subtitles or slogans. Keep branding only on diegetic objects. Original lobby, do not copy reference floorplan. No real brands or watermark.",
+      "reference": "creative/art/source/ART-002_title_original_v09a.png"
+    },
+    "input_references_and_dependencies": [
+      "creative/art/source/ART-002_title_original_v09a.png",
+      "creative/art/export_title.ps1 -Revision v10"
+    ],
+    "origin_classification": "AI-generated derivative of prior project art; preserves inherited external-reference ancestry",
+    "license_and_attribution": "No new external image inputs; prior reference rights unverified; no public license assigned. System font rendered to pixels, font file not distributed.",
+    "revision_history": [
+      {
+        "revision": "v01 cover / v10 lobby",
+        "change": "New composition; earlier art preserved"
+      }
+    ],
+    "source_dimensions": [
+      1672,
+      941
+    ],
+    "export_dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "2a94c8632f8d96d67b253efe181b57ce9be5c853b60473d72524f88b93d6242c",
+    "source_sha256": "2dd0a0a38475a5afa3a8ebab7589c149870cee3a1311b2fd6389e6b7a49e7940",
+    "git_commit_hash": null,
+    "integration_status": "awaiting human review; no upload to itch or game import"
+  },
+  {
+    "asset_id": "ART-003-V01-itch_cover_art_v01",
+    "descriptive_filename": "creative/art/exports/itch_cover_art_v01.png",
+    "purpose_and_usage": "itch cover review / working title not final",
+    "human_contributors": [
+      "PhoenixLynx: direction and production request, output approval pending"
+    ],
+    "ai_systems_and_tools": [
+      "ChatGPT / Sol",
+      "built-in image_gen",
+      "System.Drawing size export and native text layout"
+    ],
+    "original_creation_utc": null,
+    "creation_time_evidence": "Generated this session; exact tool generation timestamp unavailable",
+    "first_recorded_utc": "2026-11-14T22:02:01.178587+00:00",
+    "source_prompts_and_settings": {
+      "asset_id": "ART-003-V01",
+      "prompt": "Use case stylized-concept. Create original itch.io COVER ART PLATE for HALCYON corporate horror game currently working title TAKE4471, using supplied original office artwork as style and prop reference. Aspect ratio 630:500 (1.26:1 landscape), desired1260x1000. Compose SPECIFICALLY for a small thumbnail, not a wide screenshot crop. Sleek simplified real-time game-art aesthetic, modest broad surface textures, mint/off-white/bluegrey/pale wood/silver palette. Strong single focal object: one EMPTY tall black DIRECTOR chair FRONT FACING VIEWER at RIGHT half of room, stable simple plausible frame/seat/armrests/footrest, readable white DIRECTOR on inside back. Tiny red recording light in doorway beyond chair, white CCTV high right. At lower foreground, squared pale desk corner with mint HALCYON half-sun branded mug, broad mint branded lanyard and badge4471. Keep these few props large enough to read, no tiny clutter. Glass partition/workstations provide slim background depth at far LEFT. Centre-left to upper-left bluegrey feature wall: large calm dark muted NEGATIVE SPACE reserved for title typography to be added separately, no bright highlights or objects there. Gentle warm desk light/cool office fill, mildly unsettling staged perfection, no people/monsters. REMOVE ALL SCREEN HUD from reference: no employee panel, clock, take counter, recording overlay bracket, no UI/menu. NO GAME TITLE OR TAGLINE anywhere; only diegetic HALCYON on mug/lanyard,4471 badge,DIRECTOR chair. Original composition, no real brands or watermark. Art plate must work independently of future title name; prioritize clear silhouettes and thumbnail contrast.",
+      "reference": "creative/art/source/ART-002_title_original_v09b.png"
+    },
+    "input_references_and_dependencies": [
+      "creative/art/source/ART-002_title_original_v09b.png",
+      "creative/art/export_cover.ps1; Arial Bold system font; title editable via parameters"
+    ],
+    "origin_classification": "AI-generated derivative of prior project art; preserves inherited external-reference ancestry",
+    "license_and_attribution": "No new external image inputs; prior reference rights unverified; no public license assigned. System font rendered to pixels, font file not distributed.",
+    "revision_history": [
+      {
+        "revision": "v01 cover / v10 lobby",
+        "change": "New composition; earlier art preserved"
+      }
+    ],
+    "source_dimensions": [
+      1408,
+      1117
+    ],
+    "export_dimensions": [
+      630,
+      500
+    ],
+    "sha256": "765279bf8f865328727cd1ad32d18ec476e060665fcc752984846f43499bd1bc",
+    "source_sha256": "311a1565482f087b9c7bafffb04a13d40cc5ac5678285a99e861b09a5f52f415",
+    "git_commit_hash": null,
+    "integration_status": "awaiting human review; no upload to itch or game import"
+  },
+  {
+    "asset_id": "ART-003-V01-itch_cover_working_title_v01",
+    "descriptive_filename": "creative/art/exports/itch_cover_working_title_v01.png",
+    "purpose_and_usage": "itch cover review / working title not final",
+    "human_contributors": [
+      "PhoenixLynx: direction and production request, output approval pending"
+    ],
+    "ai_systems_and_tools": [
+      "ChatGPT / Sol",
+      "built-in image_gen",
+      "System.Drawing size export and native text layout"
+    ],
+    "original_creation_utc": null,
+    "creation_time_evidence": "Generated this session; exact tool generation timestamp unavailable",
+    "first_recorded_utc": "2026-11-14T22:02:01.182594+00:00",
+    "source_prompts_and_settings": {
+      "asset_id": "ART-003-V01",
+      "prompt": "Use case stylized-concept. Create original itch.io COVER ART PLATE for HALCYON corporate horror game currently working title TAKE4471, using supplied original office artwork as style and prop reference. Aspect ratio 630:500 (1.26:1 landscape), desired1260x1000. Compose SPECIFICALLY for a small thumbnail, not a wide screenshot crop. Sleek simplified real-time game-art aesthetic, modest broad surface textures, mint/off-white/bluegrey/pale wood/silver palette. Strong single focal object: one EMPTY tall black DIRECTOR chair FRONT FACING VIEWER at RIGHT half of room, stable simple plausible frame/seat/armrests/footrest, readable white DIRECTOR on inside back. Tiny red recording light in doorway beyond chair, white CCTV high right. At lower foreground, squared pale desk corner with mint HALCYON half-sun branded mug, broad mint branded lanyard and badge4471. Keep these few props large enough to read, no tiny clutter. Glass partition/workstations provide slim background depth at far LEFT. Centre-left to upper-left bluegrey feature wall: large calm dark muted NEGATIVE SPACE reserved for title typography to be added separately, no bright highlights or objects there. Gentle warm desk light/cool office fill, mildly unsettling staged perfection, no people/monsters. REMOVE ALL SCREEN HUD from reference: no employee panel, clock, take counter, recording overlay bracket, no UI/menu. NO GAME TITLE OR TAGLINE anywhere; only diegetic HALCYON on mug/lanyard,4471 badge,DIRECTOR chair. Original composition, no real brands or watermark. Art plate must work independently of future title name; prioritize clear silhouettes and thumbnail contrast.",
+      "reference": "creative/art/source/ART-002_title_original_v09b.png"
+    },
+    "input_references_and_dependencies": [
+      "creative/art/source/ART-002_title_original_v09b.png",
+      "creative/art/export_cover.ps1; Arial Bold system font; title editable via parameters"
+    ],
+    "origin_classification": "AI-generated derivative of prior project art; preserves inherited external-reference ancestry",
+    "license_and_attribution": "No new external image inputs; prior reference rights unverified; no public license assigned. System font rendered to pixels, font file not distributed.",
+    "revision_history": [
+      {
+        "revision": "v01 cover / v10 lobby",
+        "change": "New composition; earlier art preserved"
+      }
+    ],
+    "source_dimensions": [
+      1408,
+      1117
+    ],
+    "export_dimensions": [
+      630,
+      500
+    ],
+    "sha256": "584453fdcc367b96d686a3e582792e8116a1dc22a875435abef82a3342ccdbaf",
+    "source_sha256": "311a1565482f087b9c7bafffb04a13d40cc5ac5678285a99e861b09a5f52f415",
+    "git_commit_hash": null,
+    "integration_status": "awaiting human review; no upload to itch or game import"
+  },
+  {
+    "asset_id": "ART-003-V01-itch_cover_art_315_v01",
+    "descriptive_filename": "creative/art/exports/itch_cover_art_315_v01.png",
+    "purpose_and_usage": "itch cover review / working title not final",
+    "human_contributors": [
+      "PhoenixLynx: direction and production request, output approval pending"
+    ],
+    "ai_systems_and_tools": [
+      "ChatGPT / Sol",
+      "built-in image_gen",
+      "System.Drawing size export and native text layout"
+    ],
+    "original_creation_utc": null,
+    "creation_time_evidence": "Generated this session; exact tool generation timestamp unavailable",
+    "first_recorded_utc": "2026-11-14T22:02:01.195602+00:00",
+    "source_prompts_and_settings": {
+      "asset_id": "ART-003-V01",
+      "prompt": "Use case stylized-concept. Create original itch.io COVER ART PLATE for HALCYON corporate horror game currently working title TAKE4471, using supplied original office artwork as style and prop reference. Aspect ratio 630:500 (1.26:1 landscape), desired1260x1000. Compose SPECIFICALLY for a small thumbnail, not a wide screenshot crop. Sleek simplified real-time game-art aesthetic, modest broad surface textures, mint/off-white/bluegrey/pale wood/silver palette. Strong single focal object: one EMPTY tall black DIRECTOR chair FRONT FACING VIEWER at RIGHT half of room, stable simple plausible frame/seat/armrests/footrest, readable white DIRECTOR on inside back. Tiny red recording light in doorway beyond chair, white CCTV high right. At lower foreground, squared pale desk corner with mint HALCYON half-sun branded mug, broad mint branded lanyard and badge4471. Keep these few props large enough to read, no tiny clutter. Glass partition/workstations provide slim background depth at far LEFT. Centre-left to upper-left bluegrey feature wall: large calm dark muted NEGATIVE SPACE reserved for title typography to be added separately, no bright highlights or objects there. Gentle warm desk light/cool office fill, mildly unsettling staged perfection, no people/monsters. REMOVE ALL SCREEN HUD from reference: no employee panel, clock, take counter, recording overlay bracket, no UI/menu. NO GAME TITLE OR TAGLINE anywhere; only diegetic HALCYON on mug/lanyard,4471 badge,DIRECTOR chair. Original composition, no real brands or watermark. Art plate must work independently of future title name; prioritize clear silhouettes and thumbnail contrast.",
+      "reference": "creative/art/source/ART-002_title_original_v09b.png"
+    },
+    "input_references_and_dependencies": [
+      "creative/art/source/ART-002_title_original_v09b.png",
+      "creative/art/export_cover.ps1; Arial Bold system font; title editable via parameters"
+    ],
+    "origin_classification": "AI-generated derivative of prior project art; preserves inherited external-reference ancestry",
+    "license_and_attribution": "No new external image inputs; prior reference rights unverified; no public license assigned. System font rendered to pixels, font file not distributed.",
+    "revision_history": [
+      {
+        "revision": "v01 cover / v10 lobby",
+        "change": "New composition; earlier art preserved"
+      }
+    ],
+    "source_dimensions": [
+      1408,
+      1117
+    ],
+    "export_dimensions": [
+      315,
+      250
+    ],
+    "sha256": "56fb43de70f5a7229931da4e580c3396ede840382d0aa19175ca634b057b5bb7",
+    "source_sha256": "311a1565482f087b9c7bafffb04a13d40cc5ac5678285a99e861b09a5f52f415",
+    "git_commit_hash": null,
+    "integration_status": "awaiting human review; no upload to itch or game import"
+  },
+  {
+    "asset_id": "ART-003-V01-itch_cover_working_title_315_v01",
+    "descriptive_filename": "creative/art/exports/itch_cover_working_title_315_v01.png",
+    "purpose_and_usage": "itch cover review / working title not final",
+    "human_contributors": [
+      "PhoenixLynx: direction and production request, output approval pending"
+    ],
+    "ai_systems_and_tools": [
+      "ChatGPT / Sol",
+      "built-in image_gen",
+      "System.Drawing size export and native text layout"
+    ],
+    "original_creation_utc": null,
+    "creation_time_evidence": "Generated this session; exact tool generation timestamp unavailable",
+    "first_recorded_utc": "2026-11-14T22:02:01.198820+00:00",
+    "source_prompts_and_settings": {
+      "asset_id": "ART-003-V01",
+      "prompt": "Use case stylized-concept. Create original itch.io COVER ART PLATE for HALCYON corporate horror game currently working title TAKE4471, using supplied original office artwork as style and prop reference. Aspect ratio 630:500 (1.26:1 landscape), desired1260x1000. Compose SPECIFICALLY for a small thumbnail, not a wide screenshot crop. Sleek simplified real-time game-art aesthetic, modest broad surface textures, mint/off-white/bluegrey/pale wood/silver palette. Strong single focal object: one EMPTY tall black DIRECTOR chair FRONT FACING VIEWER at RIGHT half of room, stable simple plausible frame/seat/armrests/footrest, readable white DIRECTOR on inside back. Tiny red recording light in doorway beyond chair, white CCTV high right. At lower foreground, squared pale desk corner with mint HALCYON half-sun branded mug, broad mint branded lanyard and badge4471. Keep these few props large enough to read, no tiny clutter. Glass partition/workstations provide slim background depth at far LEFT. Centre-left to upper-left bluegrey feature wall: large calm dark muted NEGATIVE SPACE reserved for title typography to be added separately, no bright highlights or objects there. Gentle warm desk light/cool office fill, mildly unsettling staged perfection, no people/monsters. REMOVE ALL SCREEN HUD from reference: no employee panel, clock, take counter, recording overlay bracket, no UI/menu. NO GAME TITLE OR TAGLINE anywhere; only diegetic HALCYON on mug/lanyard,4471 badge,DIRECTOR chair. Original composition, no real brands or watermark. Art plate must work independently of future title name; prioritize clear silhouettes and thumbnail contrast.",
+      "reference": "creative/art/source/ART-002_title_original_v09b.png"
+    },
+    "input_references_and_dependencies": [
+      "creative/art/source/ART-002_title_original_v09b.png",
+      "creative/art/export_cover.ps1; Arial Bold system font; title editable via parameters"
+    ],
+    "origin_classification": "AI-generated derivative of prior project art; preserves inherited external-reference ancestry",
+    "license_and_attribution": "No new external image inputs; prior reference rights unverified; no public license assigned. System font rendered to pixels, font file not distributed.",
+    "revision_history": [
+      {
+        "revision": "v01 cover / v10 lobby",
+        "change": "New composition; earlier art preserved"
+      }
+    ],
+    "source_dimensions": [
+      1408,
+      1117
+    ],
+    "export_dimensions": [
+      315,
+      250
+    ],
+    "sha256": "0ac68136f160ea55a199944db8d52546605f2573b969ea3c1cb28a7f552fbba6",
+    "source_sha256": "311a1565482f087b9c7bafffb04a13d40cc5ac5678285a99e861b09a5f52f415",
+    "git_commit_hash": null,
+    "integration_status": "awaiting human review; no upload to itch or game import"
+  }
+]
