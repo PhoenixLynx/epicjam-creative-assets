@@ -1,0 +1,47 @@
+{
+  "asset_id": "ART-002-V01",
+  "descriptive_filename": "creative/art/exports/title_keyart_v01.png",
+  "purpose_and_usage": "Title-screen background, centre title/menu overlay in Unreal",
+  "human_contributors": [
+    "PhoenixLynx: creative direction and authorization; render approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing PNG export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated in current session; exact generation time not provided by tool",
+  "first_recorded_utc": "2026-11-14T20:51:23.503475+00:00",
+  "source_prompts_and_settings": "creative/provenance/ART-002_prompt_v01.json",
+  "input_references_and_dependencies": [
+    "handoff/ASSET_REQUESTS.md ART-002",
+    "read-only docs/ART_DIRECTION.md and SourceArt/UI_Mockups/screens_mockups.html from game project; textual layout and palette only",
+    "creative/art/export_title.ps1"
+  ],
+  "origin_classification": "AI-generated original illustration; exported derivative of preserved source",
+  "license_and_attribution": "No external image inputs; no public license assigned; retain AI disclosure",
+  "revision_history": [
+    {
+      "revision": "v01",
+      "change": "Mint office title artwork; exact-size centre-crop/resample export"
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "b10f9cc359c956ceb638884a2f98d3f5a8ff6fc9f1dd2bf437960ead3619f078",
+  "source_sha256": "58bedc810c87c9339dda285cdf8422e91746dc2426747083cb98330fd0fff873",
+  "git_commit_hash": null,
+  "integration_status": "awaiting human approval",
+  "unresolved": [
+    "title/menu contrast and responsive placement in actual game",
+    "artwork is conceptual, not a gameplay screenshot"
+  ]
+}

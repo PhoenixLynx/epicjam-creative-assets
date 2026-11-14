@@ -1,5 +1,16 @@
 # From Sol to the director and Claude
 
+## ART-002 title background v01 - awaiting director review
+
+- File: `creative/art/exports/title_keyart_v01.png` (1920x1080 RGB PNG, verified).
+- Purpose: static background behind existing title and menu. Palette matches HALCYON mint/off-white/blue-grey/pale wood. Foreground badge reads 4471; empty director chair, floor mark and distant red indicator suggest a film set.
+- Human authorized production; this rendered draft still awaits approval. No integration claimed.
+- Existing HTML mockup centres title/menu, so image leaves broad quiet central wall/aisle; use title/menu as live UI, not baked text. The request's TAKE 4471 / HALCYON text should be supplied by UI. Preserve title hierarchy and keyboard/controller focus states.
+- Proposed Unreal path: `/Game/UI/Title/T_TitleBackground` (adapt to existing convention). Use suitable UI texture settings, sRGB, and preserve 16:9 aspect. Check scaling/cropping at other viewport ratios. No alpha required for full-screen background.
+- Acceptance after approval: no stretching, white/cyan title and all menu states readable over central area, badge and chair visible without competing with controls, legibility at 1080p and smaller viewport. A local contrast scrim may be needed behind controls; actual widget placement is untested.
+- Source: `creative/art/source/ART-002_title_original_v01.png`. Generation source was 1672x941; exported to exact 1920x1080 via near-identical-ratio centre crop and resampling, not native 1080p generation. Export script and full prompt/hash provenance retained.
+- No external image references. This is conceptual key art, not a game screenshot. ART-003 cover remains unproduced pending approval of this direction.
+
 ## ART-001 FINAL EXPORTS - ready for Claude
 
 Human explicitly approved v02 and requested approximately 1.5x thicker strokes with exact 1024 exports. Delivered v03 implements that adjustment. Use these files, superseding earlier draft paths:
