@@ -1,0 +1,44 @@
+{
+  "asset_id": "ART-001-FEAR-V01",
+  "descriptive_filename": "creative/art/source/ART-001_face_fear_original.png",
+  "purpose_and_usage": "Mannequin face review draft",
+  "human_contributors": [
+    "PhoenixLynx: creative direction and request; approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated during this session; exact generation timestamp not supplied by tool",
+  "first_recorded_utc": "2026-11-14T20:22:23.302771+00:00",
+  "source_prompt": "Use case: precise-object-edit. Asset ART-001 Fear face texture, matching the provided calm face. Change only facial expression: the same corporate mannequin becomes quietly malicious, staring with smaller cold mint pupils, lowered inward-slanting brows, and an unnaturally wide closed-lip predatory smile. No blood, wounds, gore or fangs. Keep the same flat dark blue-grey and mint palette, exact same facial placement, eye centres, nose, overall scale, line style, front-on symmetry, image canvas size, and transparent background. Facial features only, no skin/head silhouette/hair/neck. Keep all outside empty pixels truly transparent. One face only. Suitable for a teen corporate horror game. Output 1024x1024 RGBA PNG.",
+  "settings": {
+    "transparent_background": true,
+    "requested_dimensions": [
+      1024,
+      1024
+    ],
+    "actual_dimensions": [
+      1254,
+      1254
+    ]
+  },
+  "input_references_and_dependencies": [
+    "ART-001 calm generated image as edit target",
+    "handoff/ASSET_REQUESTS.md ART-001",
+    "existing mannequin mapping pending"
+  ],
+  "origin_classification": "Derivative of ART-001 calm draft using image_gen",
+  "license_and_attribution": "No external reference used; no public license assigned; record AI tool use",
+  "revision_history": [
+    {
+      "revision": "v01",
+      "status": "review draft"
+    }
+  ],
+  "git_commit_hash": null,
+  "sha256": "e07bc4460c729eed22a331e82cc1157e76665f359f52132a8c5089aef0578e65",
+  "integration_status": "awaiting human review; dimensions require final export",
+  "human_approval": null
+}

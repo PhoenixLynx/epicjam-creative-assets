@@ -1,0 +1,43 @@
+{
+  "asset_id": "ART-001-CALM-V01",
+  "descriptive_filename": "creative/art/source/ART-001_face_calm_original.png",
+  "purpose_and_usage": "Mannequin face review draft",
+  "human_contributors": [
+    "PhoenixLynx: creative direction and request; approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated during this session; exact generation timestamp not supplied by tool",
+  "first_recorded_utc": "2026-11-14T20:22:23.302771+00:00",
+  "source_prompt": "Use case: stylized-concept. Asset ART-001 calm face texture for HALCYON corporate horror game TAKE 4471. Generate a single square 1024x1024 PNG with genuinely transparent background. Flat front-facing facial FEATURES ONLY for applying to a smooth faceless mannequin head in Unreal. No head silhouette, no skin fill, no ears, hair, neck, body, text or frame. Centered symmetrical minimalist stylized dark blue-grey eyes, subtle brows, tiny simple nose marks, and a polite closed-mouth corporate smile. Pleasant but slightly too perfectly rehearsed. Clean rounded shapes, refined corporate illustration, readable from several metres in a game. Restrained dark blue-grey with tiny pale mint accents; no realistic skin, no lighting or cast shadows. Feature cluster stays within central 60 percent width and 55 percent height with generous transparent margins. Two eyes aligned, understated closed lips. This is ONE face, no contact sheet. Preserve useful antialiased alpha edges.",
+  "settings": {
+    "transparent_background": true,
+    "requested_dimensions": [
+      1024,
+      1024
+    ],
+    "actual_dimensions": [
+      1254,
+      1254
+    ]
+  },
+  "input_references_and_dependencies": [
+    "handoff/ASSET_REQUESTS.md ART-001",
+    "existing mannequin mapping pending"
+  ],
+  "origin_classification": "AI-generated original",
+  "license_and_attribution": "No external reference used; no public license assigned; record AI tool use",
+  "revision_history": [
+    {
+      "revision": "v01",
+      "status": "review draft"
+    }
+  ],
+  "git_commit_hash": null,
+  "sha256": "1ba82e58b4ceffbd00c089f90bccf81f569c4fdcbff2ff35b8d9068b026771a2",
+  "integration_status": "awaiting human review; dimensions require final export",
+  "human_approval": null
+}
