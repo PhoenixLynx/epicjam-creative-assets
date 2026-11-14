@@ -1,0 +1,71 @@
+{
+  "asset_id": "ART-002-V03",
+  "descriptive_filename": "creative/art/exports/title_keyart_v03.png",
+  "purpose_and_usage": "Title-screen background, centre title/menu overlay in Unreal",
+  "human_contributors": [
+    "PhoenixLynx: creative direction and authorization; render approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing PNG export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated in current session; exact generation time not provided by tool",
+  "first_recorded_utc": "2026-11-14T21:07:00.180440+00:00",
+  "source_prompts_and_settings": "creative/provenance/ART-002_prompt_v03.json",
+  "input_references_and_dependencies": [
+    {
+      "path": "C:\\Users\\casse\\Downloads\\ThisTypeOfArt_Target.webp",
+      "sha256": "95b74abb061eb97d16abe04af56c592cccc5a547423923e0c9c677ada7b9dcd9",
+      "rights_status": "User supplied; authorship and license unverified; reference only"
+    },
+    {
+      "path": "C:\\Users\\casse\\Downloads\\Office_pic_forreference2.webp",
+      "sha256": "fd3ad7f711488e20925255872b946bf6cfacb17ddd80b0b7e2f296a4fbd8e3e9",
+      "rights_status": "User supplied; authorship and license unverified; reference only"
+    },
+    {
+      "path": "C:\\Users\\casse\\Downloads\\controlgame_reference.jpg",
+      "sha256": "723bd1aeb3d475fa26e3936d242510de6405cc573e9cd4151fadebe6c3208acb",
+      "rights_status": "User supplied; authorship and license unverified; reference only"
+    },
+    "creative/art/source/ART-002_title_original_v02.png",
+    "creative/art/export_title.ps1 -Revision v03"
+  ],
+  "origin_classification": "AI-generated derivative of v02 with user-supplied external visual style references",
+  "license_and_attribution": "External references are reference-only, with unverified ownership/license; no reference files redistributed here; generated output not asserted to clear all rights",
+  "revision_history": [
+    {
+      "revision": "v01",
+      "change": "Mint office title artwork; exact-size centre-crop/resample export"
+    },
+    {
+      "revision": "v02",
+      "change": "Human requested mug company logo, HUD accents and flatter corporate style using devlog screenshots. Existing source versions preserved."
+    },
+    {
+      "revision": "v03",
+      "change": "Human requested sleek architecture, primary target office image; smooth materials, frosted glass and continuous ceiling; existing layout/branding/HUD retained"
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "c1c077608e19057cf7f2f62b8203d088369c6911e2bbf7cd177ad1ac92da0a63",
+  "source_sha256": "0f00db5c805c7c47a40a189f79befd8c262f561d20c90bccf8c28313a4256657",
+  "git_commit_hash": null,
+  "integration_status": "awaiting human review",
+  "unresolved": [
+    "human approval",
+    "static HUD versus live UI clean plate",
+    "concept art is not gameplay footage",
+    "reference rights remain unverified"
+  ]
+}

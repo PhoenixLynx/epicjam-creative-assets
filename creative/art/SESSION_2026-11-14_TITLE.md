@@ -16,3 +16,11 @@
 - Built-in imagegen revision adds flatter forms, logo-guided mug print and corner badge/clock/take details. Generated source and exact 1920x1080 export saved separately from v01.
 - Preserved prompt, reference/output hashes, dependencies and source files. HUD currently baked into review image; handoff explicitly flags live-UI duplication issue and pending clean plate decision.
 - Awaiting director review. No approval/integration claimed. Next: review v02, then determine static decoration versus live HUD treatment.
+
+## v03 sleek architectural direction
+
+- Human supplied Control mood reference and two architectural office references; explicitly prioritized ThisTypeOfArt_Target.webp for possible in-game style.
+- Inspected supplied pictures and v02; generated sleek v03 via built-in imagegen. Preserved identity/composition/HUD while simplifying ceiling and adding restrained smooth materials/glass.
+- Preserved generated original and exact-size 1920x1080 PNG export, full prompt, hashes, reference provenance and rights uncertainties. External source images remain outside repository.
+- Wrote HALCYON_SLEEK_DIRECTION.md: proposed small material/lighting pass for Claude, no office rebuild or new system. Updated Sol handoff.
+- Render and in-game scope await human review; prior versions preserved. No game changes. Next: review aesthetic and decide scope before title finalization/cover adaptation.

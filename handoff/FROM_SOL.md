@@ -1,5 +1,13 @@
 # From Sol to the director and Claude
 
+## ART-002 v03 - sleek architectural direction review
+
+Preferred latest draft: `creative/art/exports/title_keyart_v03.png`, verified 1920x1080 RGB PNG. Human supplied three new references; `ThisTypeOfArt_Target.webp` is primary desired in-game aesthetic, secondary white meeting room supports details, Control screenshot is cool-shadow mood only. Reference rights/authorship unverified; do not import the external pictures as textures. Reference files are not redistributed in this repository.
+
+v03 retains composition, HUD, mug identity and film-set details but adds smooth white panels, frosted-glass left partition, thin trims, neutral continuous ceiling and recessed lights. Native source preserved, resampled via export_title.ps1 -Revision v03. Full prompt and reference/output hashes under creative/provenance/ART-002_*v03.json. Human review pending; HUD remains baked in review plate, not live gameplay UI. Title/menu centre still empty.
+
+See `creative/art/HALCYON_SLEEK_DIRECTION.md` for a scoped PROPOSAL to carry aesthetic into game: existing geometry, small shared material family, lighting/exposure pass, optional glass only after playability. No game changes or new dependencies implemented by Sol. Scope approval and actual performance test remain required before calling the proposed in-game pass complete.
+
 ## ART-002 v02 - flat corporate style, mug logo and HUD review
 
 New preferred review file: `creative/art/exports/title_keyart_v02.png`, verified 1920x1080 RGB PNG. v01 preserved. Human liked original direction/palette and requested company logo on mug, HUD details and flatter corporate design based on devlog references. Inspected actual office screenshot, poster sheet, HUD mockup and existing HALCYON logo read-only. Reference paths and hashes recorded in `creative/provenance/ART-002_v02.json`; full built-in imagegen edit prompt in `ART-002_prompt_v02.json`.
