@@ -1,0 +1,57 @@
+{
+  "asset_id": "ART-002-V09A",
+  "descriptive_filename": "creative/art/exports/title_keyart_v09a.png",
+  "purpose_and_usage": "title review draft",
+  "human_contributors": [
+    "PhoenixLynx: direction and request; output approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing exact-size export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact original time not supplied by tool",
+  "first_recorded_utc": "2026-11-14T21:45:11.253524+00:00",
+  "source_prompt": {
+    "name": "Wide office",
+    "prompt": "Original HALCYON corporate horror game title mockup, 16:9 desired1920x1080. Provided image is style/brand/prop reference, not fixed camera. New OFFICE camera composition. Sleek simplified real-time game art, modest texture detail, white architectural panels, bluegrey carpet/wall, mint accents, thin silver glass frames and metallic baseboard, soft daylight, no photoreal microfibres. Required familiar props: square pale desk/white keyboard, mint half-sun HALCYON mug, wide mint logo-repeat lanyard with steel clip and badge4471, small high-wall CCTV and red doorway light. EMPTY tall black DIRECTOR chair FRONT FACING CAMERA, visible coherent front seat/armrests/footrest, simple physically plausible four-leg frame, mint tapeX beneath. Never chair facing away or showing conflicting front/back views. Quiet wall area centre for live menu, no main title text. Preserve HUD corner treatment: upper-left HALCYON EMPLOYEE4471 CONTINUITY ASSOCIATE slots01/02/03; upper-right08:59 TAKE01; lower-left small recording dot/bracket. No people, watermark or real brands. VARIATION A WIDE OFFICE: camera farther back and slightly elevated, looking diagonally across an airy open office with repeated orderly workstations receding LEFT, glass meeting-room frontage RIGHT, broad muted bluegrey partition in centre. Director chair is small-to-medium at RIGHT third, fully visible front-facing and grounded, not foreground dominant. Desk props occupy only lower-left corner; foreground is mostly clean carpet, central wall a natural architectural partition not giant floating rectangle. Light feels fresh morning, compositional breathing room. Distinct wider view than reference, coherent two-point perspective."
+  },
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-002_title_original_v08.png",
+    "creative/art/export_title.ps1 -Revision v09a"
+  ],
+  "origin_classification": "AI-generated derivative of preserved prior project art",
+  "license_and_attribution": "No public license assigned. Preserve prior source provenance; title ancestry includes user-supplied external references with unverified rights. No new external image inputs this revision.",
+  "revision_history": [
+    {
+      "revision": "ART-002-V06",
+      "change": "Human-requested title simplification/chair correction or new neutral/frown face variant"
+    },
+    {
+      "revision": "v07",
+      "change": "Human accepts prior work provisionally; requests another chair perspective. Generated direct rear-view alternative; not final submission approval."
+    },
+    {
+      "revision": "v08",
+      "change": "Human clarified requested perspective change is OFFICE, not chair. New diagonal room viewpoint, foreground desk left, chair faces viewer."
+    },
+    {
+      "revision": "v09a",
+      "change": "Wide office exploratory office composition, front-facing director chair"
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "d93a1cc308d945b10c52e0fa5ff1010fdf1b81625e04ca0e3546e92af05e7548",
+  "source_sha256": "29114293b4580264ce83a8a9f1504d6f3e7f64538694b72751933114f3350349",
+  "git_commit_hash": null,
+  "integration_status": "exploratory mockup awaiting human selection"
+}

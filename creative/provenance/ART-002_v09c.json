@@ -1,0 +1,57 @@
+{
+  "asset_id": "ART-002-V09C",
+  "descriptive_filename": "creative/art/exports/title_keyart_v09c.png",
+  "purpose_and_usage": "title review draft",
+  "human_contributors": [
+    "PhoenixLynx: direction and request; output approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing exact-size export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact original time not supplied by tool",
+  "first_recorded_utc": "2026-11-14T21:45:11.300495+00:00",
+  "source_prompt": {
+    "name": "Through glass",
+    "prompt": "Original HALCYON corporate horror game title mockup, 16:9 desired1920x1080. Provided image is style/brand/prop reference, not fixed camera. New OFFICE camera composition. Sleek simplified real-time game art, modest texture detail, white architectural panels, bluegrey carpet/wall, mint accents, thin silver glass frames and metallic baseboard, soft daylight, no photoreal microfibres. Required familiar props: square pale desk/white keyboard, mint half-sun HALCYON mug, wide mint logo-repeat lanyard with steel clip and badge4471, small high-wall CCTV and red doorway light. EMPTY tall black DIRECTOR chair FRONT FACING CAMERA, visible coherent front seat/armrests/footrest, simple physically plausible four-leg frame, mint tapeX beneath. Never chair facing away or showing conflicting front/back views. Quiet wall area centre for live menu, no main title text. Preserve HUD corner treatment: upper-left HALCYON EMPLOYEE4471 CONTINUITY ASSOCIATE slots01/02/03; upper-right08:59 TAKE01; lower-left small recording dot/bracket. No people, watermark or real brands. VARIATION C THROUGH THE GLASS: camera just OUTSIDE a glass conference-room threshold looking diagonally through CLEAR glass toward the director chair and bluegrey feature wall. Thin silver vertical glass frame at far LEFT and narrow frosted mint ribbon only in lower-left peripheral glass, NOT crossing chair or menu area. Open glass doorway gives unobstructed view into room. Reflection is very faint and plausible, no reflected duplicate chair or ghost objects. Director chair FRONT FACES CAMERA in right third, medium-sized, fully visible. Desk with branded props occupies lower RIGHT foreground on camera side of glass; compact, no major occlusion. LEFT background shows orderly cubicles beyond another glass wall. Quiet cool daylight, slightly deeper cool shadows than A, intentional dramatic game composition, still reassuring white/mint corporate environment. Centre-left wall reserved for title. Preserve HUD in screen space over scene. More layered framing and suspense than original; coherent perspective and simple chair frame."
+  },
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-002_title_original_v08.png",
+    "creative/art/export_title.ps1 -Revision v09c"
+  ],
+  "origin_classification": "AI-generated derivative of preserved prior project art",
+  "license_and_attribution": "No public license assigned. Preserve prior source provenance; title ancestry includes user-supplied external references with unverified rights. No new external image inputs this revision.",
+  "revision_history": [
+    {
+      "revision": "ART-002-V06",
+      "change": "Human-requested title simplification/chair correction or new neutral/frown face variant"
+    },
+    {
+      "revision": "v07",
+      "change": "Human accepts prior work provisionally; requests another chair perspective. Generated direct rear-view alternative; not final submission approval."
+    },
+    {
+      "revision": "v08",
+      "change": "Human clarified requested perspective change is OFFICE, not chair. New diagonal room viewpoint, foreground desk left, chair faces viewer."
+    },
+    {
+      "revision": "v09c",
+      "change": "Through glass exploratory office composition, front-facing director chair"
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "e41d2877634620583dacbc0e3c900a63b12b4219dc1b6021ad7f810b9c6e896c",
+  "source_sha256": "f110d3f9745a503bb55328147efbfdabee74f3d189c76303e13403c5342e4993",
+  "git_commit_hash": null,
+  "integration_status": "exploratory mockup awaiting human selection"
+}

@@ -1,5 +1,15 @@
 # From Sol to the director and Claude
 
+## ART-002 v09 A/B/C - office composition exploration
+
+Human authorized several variations. Three 1920x1080 RGB mockups, all retaining front-facing director chair, branding, corner HUD and title/menu space:
+
+- `creative/art/exports/title_keyart_v09a.png`: wide office, bright morning, smaller chair, long workstation depth and glass conference frontage.
+- `creative/art/exports/title_keyart_v09b.png`: desk-level viewpoint, warm side light, personal foreground, cooler room beyond.
+- `creative/art/exports/title_keyart_v09c.png`: glass threshold/frame, cool light and more enclosed observational atmosphere.
+
+All exploratory, awaiting director selection; no final implementation approval. Preserve earlier versions. Baked HUD caveat remains. Generated originals, exact-size export script revisions, full prompts and per-output source/export hashes saved under creative/. No new external image inputs (all based on v08); earlier reference ancestry retained. Do not rebuild level geometry to match exploration without human scope approval. Sol preference: A for clear title composition, B for grounded player viewpoint, C for unease.
+
 ## ART-002 v08 - corrected intent: new OFFICE viewpoint, chair faces viewer
 
 Human clarified requested perspective change was the OFFICE, not chair orientation. v07 rear-chair idea is superseded as a direction. New review: `creative/art/exports/title_keyart_v08.png`, 1920x1080 RGB. Room now viewed diagonally with left foreground employee desk, glass office depth left, receding blue-grey wall and right corner; director chair faces camera. Same palette, branding, HUD and simple surfaces retained.

@@ -1,0 +1,57 @@
+{
+  "asset_id": "ART-002-V09B",
+  "descriptive_filename": "creative/art/exports/title_keyart_v09b.png",
+  "purpose_and_usage": "title review draft",
+  "human_contributors": [
+    "PhoenixLynx: direction and request; output approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing exact-size export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact original time not supplied by tool",
+  "first_recorded_utc": "2026-11-14T21:45:11.281593+00:00",
+  "source_prompt": {
+    "name": "Desk level",
+    "prompt": "Original HALCYON corporate horror game title mockup, 16:9 desired1920x1080. Provided image is style/brand/prop reference, not fixed camera. New OFFICE camera composition. Sleek simplified real-time game art, modest texture detail, white architectural panels, bluegrey carpet/wall, mint accents, thin silver glass frames and metallic baseboard, soft daylight, no photoreal microfibres. Required familiar props: square pale desk/white keyboard, mint half-sun HALCYON mug, wide mint logo-repeat lanyard with steel clip and badge4471, small high-wall CCTV and red doorway light. EMPTY tall black DIRECTOR chair FRONT FACING CAMERA, visible coherent front seat/armrests/footrest, simple physically plausible four-leg frame, mint tapeX beneath. Never chair facing away or showing conflicting front/back views. Quiet wall area centre for live menu, no main title text. Preserve HUD corner treatment: upper-left HALCYON EMPLOYEE4471 CONTINUITY ASSOCIATE slots01/02/03; upper-right08:59 TAKE01; lower-left small recording dot/bracket. No people, watermark or real brands. VARIATION B EMPLOYEE DESK LEVEL: distinctly LOWER camera from seated employee eye height just above desk, looking obliquely across angular desktop foreground toward office RIGHT. Mug/lanyard/badge lower RIGHT in foreground, keyboard partially cropped lower edge. Table occupies lower25%, not whole picture; props not enormous. Director chair front faces viewer in RIGHT midground, entirely visible above/beyond desk edge including feet and floorX, never occluded by desk. LEFT has glass partition with one frosted ribbon and a doorway revealing repeated workstations. Broad soft muted bluegrey wall centre-left for menu. Slightly warmer late-afternoon side light across desk, cool grey room fill; more intimate subtly watched atmosphere, not dark horror. Coherent horizon and perspective. Retain bright upper HUD readability. New viewpoint not same as input."
+  },
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-002_title_original_v08.png",
+    "creative/art/export_title.ps1 -Revision v09b"
+  ],
+  "origin_classification": "AI-generated derivative of preserved prior project art",
+  "license_and_attribution": "No public license assigned. Preserve prior source provenance; title ancestry includes user-supplied external references with unverified rights. No new external image inputs this revision.",
+  "revision_history": [
+    {
+      "revision": "ART-002-V06",
+      "change": "Human-requested title simplification/chair correction or new neutral/frown face variant"
+    },
+    {
+      "revision": "v07",
+      "change": "Human accepts prior work provisionally; requests another chair perspective. Generated direct rear-view alternative; not final submission approval."
+    },
+    {
+      "revision": "v08",
+      "change": "Human clarified requested perspective change is OFFICE, not chair. New diagonal room viewpoint, foreground desk left, chair faces viewer."
+    },
+    {
+      "revision": "v09b",
+      "change": "Desk level exploratory office composition, front-facing director chair"
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "e78b439cbaf03815d2824a3aaead846ae78fb5c5defdff43c55878d5f7ee00dd",
+  "source_sha256": "2a15d487e9deabf6ca807e47a5b433a047fd343d73909b29ba68b76cc7037494",
+  "git_commit_hash": null,
+  "integration_status": "exploratory mockup awaiting human selection"
+}
