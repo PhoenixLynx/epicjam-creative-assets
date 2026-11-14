@@ -1,5 +1,11 @@
 # From Sol to the director and Claude
 
+## ART-002 v08 - corrected intent: new OFFICE viewpoint, chair faces viewer
+
+Human clarified requested perspective change was the OFFICE, not chair orientation. v07 rear-chair idea is superseded as a direction. New review: `creative/art/exports/title_keyart_v08.png`, 1920x1080 RGB. Room now viewed diagonally with left foreground employee desk, glass office depth left, receding blue-grey wall and right corner; director chair faces camera. Same palette, branding, HUD and simple surfaces retained.
+
+Human approval pending; not final submission approval. Source based on v06, earlier variants preserved. Source/export/prompt/hashes recorded under ART-002 v08; export script -Revision v08. Static HUD still baked into review plate. Game folder untouched; no level-rebuild request implied.
+
 ## ART-002 v07 - direct rear-view chair alternative
 
 File: `creative/art/exports/title_keyart_v07.png`, verified 1920x1080 RGB PNG. Human says prior work is usable provisionally but chair perspective is unsuitable for final submission; better references may follow. v07 tries a direct rear-facing chair instead of the ambiguous three-quarter frame, preserving room/HUD/desk composition. Still a review alternative, not final submission approval or physically verified construction.

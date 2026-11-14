@@ -1,0 +1,50 @@
+{
+  "asset_id": "ART-002-V08",
+  "descriptive_filename": "creative/art/exports/title_keyart_v08.png",
+  "purpose_and_usage": "title review draft",
+  "human_contributors": [
+    "PhoenixLynx: direction and request; output approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing exact-size export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact original time not supplied by tool",
+  "first_recorded_utc": "2026-11-14T21:35:29.536660+00:00",
+  "source_prompt": "creative/provenance/ART-002_prompt_v08.json",
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-002_title_original_v06.png",
+    "creative/art/export_title.ps1 -Revision v08"
+  ],
+  "origin_classification": "AI-generated derivative of preserved prior project art",
+  "license_and_attribution": "No public license assigned. Preserve prior source provenance; title ancestry includes user-supplied external references with unverified rights. No new external image inputs this revision.",
+  "revision_history": [
+    {
+      "revision": "ART-002-V06",
+      "change": "Human-requested title simplification/chair correction or new neutral/frown face variant"
+    },
+    {
+      "revision": "v07",
+      "change": "Human accepts prior work provisionally; requests another chair perspective. Generated direct rear-view alternative; not final submission approval."
+    },
+    {
+      "revision": "v08",
+      "change": "Human clarified requested perspective change is OFFICE, not chair. New diagonal room viewpoint, foreground desk left, chair faces viewer."
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "5abeaa440f193ba93533d8b52b89e688def4c585eef3057006a9bbbcfac0b6e1",
+  "source_sha256": "dd717133c9a713b618582599b476db39f46a296cb59e4eb2077c28056eb324a7",
+  "git_commit_hash": null,
+  "integration_status": "alternate office viewpoint with front-facing chair; awaiting review"
+}

@@ -5,3 +5,9 @@
 - Recorded full prompt, source/export hashes, source ancestry and review status; updated Sol handoff.
 - No final-submission approval claimed. Game folder unchanged.
 - Next: human compares rear view and supplies chair reference if needed before final art approval.
+
+## v08 clarification
+
+- Human clarified office perspective should change while chair continues facing viewer. Rear-view chair is not desired direction.
+- Generated diagonal room viewpoint from v06, keeping chair front-facing. Preserved all previous versions; exact 1920x1080 RGB export visually inspected and dimensions verified.
+- Saved original, complete prompt, hashes and updated Sol handoff. No game changes; human review pending.
