@@ -1,6 +1,6 @@
 {
   "asset_id": "MUS-001",
-  "descriptive_filename": "Halycion_Melody_Positive Project/Halycion_Melody_Positive.als",
+  "descriptive_filename": "Halycion Project/Halycion_Melody_Positive.als",
   "purpose_and_usage": "Human-created Ableton project; initial repository snapshot, not an approved finished music asset.",
   "human_contributors": ["PhoenixLynx"],
   "ai_systems_and_tools": ["ChatGPT / Sol: provenance documentation and Git setup only; no composition or project edits"],
@@ -12,7 +12,10 @@
   "input_references_and_dependencies": ["Ableton Live; version, plugins and sample dependencies not yet inspected"],
   "origin_classification": "User-supplied project; musical content and dependency provenance pending review",
   "license_and_attribution": "No public license granted; dependency rights pending review",
-  "revision_history": [{"date": "2026-11-14", "change": "Recorded saved project hash before initial Git staging; source file not modified by Sol"}],
+  "revision_history": [
+    {"date": "2026-11-14", "change": "Recorded saved project hash before initial Git staging; source file not modified by Sol"},
+    {"observed_utc": "2026-11-14T19:42:19.2204530Z", "change": "Human renamed containing folder from Halycion_Melody_Positive Project to Halycion Project to hold different moods. Set filename retained. SHA-256 verified unchanged."}
+  ],
   "git_commit_hash": "8436719a6c6b1d2a5e2413f8fe75b7c7996b8479",
   "commit_lookup": "Use git log --follow on descriptive_filename to identify the snapshot commit after commit creation",
   "sha256": "5c7da9e374475e6de4e3e92dc756967b3ebd4c07866739e2cc2acacde5420e31",

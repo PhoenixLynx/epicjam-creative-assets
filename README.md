@@ -18,6 +18,7 @@ Sol treats the separate `DirectorsCut_58` game folder as strictly read-only. Int
 - `creative/audio/source/`: proposed location for future original audio sources.
 - `creative/audio/exports/`: proposed location for reviewed audio deliverables.
 - Existing Ableton project folders remain in their current locations; no music is presumed composed merely because a project exists.
+- `Halycion Project/`: human's shared Ableton project folder for different moods; currently contains `Halycion_Melody_Positive.als`.
 
 Binary media and Ableton sets use Git LFS. Install LFS before cloning or adding media. Local recovery/backup folders are excluded from Git; preserve important milestones as explicitly named source versions outside those folders.
 
