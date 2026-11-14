@@ -1,0 +1,47 @@
+{
+  "asset_id": "ART-001-CALM-V02",
+  "descriptive_filename": "creative/art/source/ART-001_face_calm_v02.png",
+  "purpose_and_usage": "Mannequin face review revision: fresh twinkle",
+  "human_contributors": [
+    "PhoenixLynx: requested revision; final approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact timestamp not supplied by image tool",
+  "first_recorded_utc": "2026-11-14T20:25:41.582594+00:00",
+  "source_prompt": "Edit the supplied HALCYON calm mannequin facial-feature texture. Change only the eyes and immediately below them: replace the existing under-eye mint strokes with clean transparent empty space, giving a rested fresh-faced appearance. Add a small crisp pale mint-white four-point catchlight twinkle inside each dark iris, plus one tiny round secondary highlight. Keep highlights restrained and readable, not large floating stars. Preserve the exact eye/nose/mouth positions, canvas and scale, rounded blue-grey brows, polite closed smile, flat corporate illustration style and all genuinely transparent background pixels. No head, skin fill, neck, hair, text, or new objects. Facial features only on alpha transparency. Desired PNG 1024x1024. This is v02 cheerful expression.",
+  "settings": {
+    "transparent_background": true,
+    "requested_dimensions": [
+      1024,
+      1024
+    ]
+  },
+  "actual_dimensions": [
+    1254,
+    1254
+  ],
+  "actual_mode": "RGBA",
+  "alpha_extrema": [
+    0,
+    255
+  ],
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-001_face_calm_original.png"
+  ],
+  "origin_classification": "Derivative of original AI-generated draft",
+  "license_and_attribution": "No external likeness references; no public license assigned; retain AI provenance",
+  "revision_history": [
+    {
+      "revision": "v02",
+      "change": "Human-directed eye treatment revision; v01 preserved"
+    }
+  ],
+  "git_commit_hash": null,
+  "sha256": "6221301896509ea60a767fde09fe02e70ada5b415c230cea484eacc54c65de4b",
+  "integration_status": "awaiting human review and final technical export",
+  "human_approval": null
+}
