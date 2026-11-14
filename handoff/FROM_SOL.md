@@ -1,5 +1,11 @@
 # From Sol to the director and Claude
 
+## ART-002 v05 - branded lanyard, tailored props, metallic game-art finish
+
+Latest review: `creative/art/exports/title_keyart_v05.png`, verified 1920x1080 RGB PNG. Human authorized wider branded lanyard with half-sun repeats, angular keyboard/furniture, stronger brushed-metal highlights, taller recognizable film director chair with DIRECTOR lettering, clearer game-like lighting/silhouettes. v05 implements these directions and retains existing room/HUD/camera/title-safe centre.
+
+Human review pending; not marked ready. Baked-HUD/live-UI caveat remains. Camera/chair are title illustration props, no new gameplay requirements. Source master preserved, export script supports -Revision v05. Prompt plus reference/output SHA-256 records: `creative/provenance/ART-002_prompt_v05.json` and `ART-002_v05.json`. Two newly supplied office references used for materials/framing only; rights unverified, originals not redistributed. No game folder changes.
+
 ## ART-002 v04 - squared desk and security camera
 
 Latest review draft: `creative/art/exports/title_keyart_v04.png`, verified 1920x1080 RGB PNG. Human asked for closer match to the primary bright architectural reference, less-rounded desk and a security camera. Desk now has straight rectangular edge/corner; high right wall has one discreet CCTV camera aimed toward employee area; tape X is centred below director chair. Existing branding/HUD/title-safe wall retained. v01-v03 preserved.

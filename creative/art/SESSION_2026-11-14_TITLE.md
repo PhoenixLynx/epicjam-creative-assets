@@ -31,3 +31,10 @@
 - Built-in imagegen edit: squared desk edges, high wall-mounted CCTV camera, X beneath director chair, brighter architectural finish. Reviewed source and exact 1920x1080 export visually.
 - Saved original/output, full prompt, reference and output SHA-256 records; updated Sol handoff. Earlier versions retained.
 - Render approval pending; no gameplay camera system or game-folder edits. Next: human review before final title/background integration.
+
+## v05 approved refinement directions
+
+- Human approved trying wider branded lanyard, square keyboard/furniture, metallic shine, tall unmistakable director chair and stronger game-art lighting/silhouettes.
+- Generated v05 edit with built-in imagegen; exported exact 1920x1080 RGB PNG, visually reviewed full export. Existing versions preserved.
+- Recorded full prompt, user-supplied external reference roles/hashes and source/export hashes. Updated Sol handoff. Reference files not redistributed.
+- Render remains awaiting review, not integrated. No game edits. Next: director reviews v05 and determines title finalization / cover adaptation.

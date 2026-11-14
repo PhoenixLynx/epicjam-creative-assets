@@ -1,0 +1,74 @@
+{
+  "asset_id": "ART-002-V05",
+  "descriptive_filename": "creative/art/exports/title_keyart_v05.png",
+  "purpose_and_usage": "Title-screen background, centre title/menu overlay in Unreal",
+  "human_contributors": [
+    "PhoenixLynx: creative direction and authorization; render approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing PNG export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated in current session; exact generation time not provided by tool",
+  "first_recorded_utc": "2026-11-14T21:21:28.991959+00:00",
+  "source_prompts_and_settings": "creative/provenance/ART-002_prompt_v05.json",
+  "input_references_and_dependencies": [
+    {
+      "path": "C:\\Users\\casse\\Downloads\\20150114_54b6280d93d18.webp",
+      "sha256": "568533cf10bef6c753d756f53a5034bc0d0e04524c9bebdf3a9f07678754516f",
+      "rights_status": "User-supplied external reference only; rights unverified"
+    },
+    {
+      "path": "C:\\Users\\casse\\Downloads\\modern-business-office-space-with-lobby.webp",
+      "sha256": "5d8ab9cfc0b388f7c391719896ce0e91bf2edc2ff12ba5a9bfcdd39a03fe6b75",
+      "rights_status": "User-supplied external reference only; rights unverified"
+    },
+    "creative/art/source/ART-002_title_original_v04.png",
+    "creative/art/export_title.ps1 -Revision v05"
+  ],
+  "origin_classification": "AI-generated derivative of v02 with user-supplied external visual style references",
+  "license_and_attribution": "External references are reference-only, with unverified ownership/license; no reference files redistributed here; generated output not asserted to clear all rights",
+  "revision_history": [
+    {
+      "revision": "v01",
+      "change": "Mint office title artwork; exact-size centre-crop/resample export"
+    },
+    {
+      "revision": "v02",
+      "change": "Human requested mug company logo, HUD accents and flatter corporate style using devlog screenshots. Existing source versions preserved."
+    },
+    {
+      "revision": "v03",
+      "change": "Human requested sleek architecture, primary target office image; smooth materials, frosted glass and continuous ceiling; existing layout/branding/HUD retained"
+    },
+    {
+      "revision": "v04",
+      "change": "Human requested closer architectural feel, less-rounded desk corners and security camera; moved floor X beneath chair"
+    },
+    {
+      "revision": "v05",
+      "change": "Human authorized wider branded lanyard, angular keyboard/furniture, metallic highlights, tall director chair and heightened game-like lighting/silhouettes"
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "cc067d6f9845a0fe297d242d668bd29d4833ca4e854e0d62c981e82225cc0e8d",
+  "source_sha256": "f8b24d2a1674209feb9587f11a81c557aac1cd87b7afe00bc930081f6f58f2ed",
+  "git_commit_hash": null,
+  "integration_status": "awaiting human review",
+  "unresolved": [
+    "human approval",
+    "static HUD versus live UI clean plate",
+    "concept art is not gameplay footage",
+    "reference rights remain unverified"
+  ]
+}
