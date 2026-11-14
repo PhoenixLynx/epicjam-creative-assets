@@ -1,5 +1,11 @@
 # From Sol to the director and Claude
 
+## ART-002 v07 - direct rear-view chair alternative
+
+File: `creative/art/exports/title_keyart_v07.png`, verified 1920x1080 RGB PNG. Human says prior work is usable provisionally but chair perspective is unsuitable for final submission; better references may follow. v07 tries a direct rear-facing chair instead of the ambiguous three-quarter frame, preserving room/HUD/desk composition. Still a review alternative, not final submission approval or physically verified construction.
+
+Source master, exact-size export script (-Revision v07), full prompt and hashes retained. See `creative/provenance/ART-002_prompt_v07.json` and `ART-002_v07.json`. No new external inputs. Earlier title versions preserved; static-HUD caveat remains. No game files changed.
+
 ## New face variants + ART-002 v06 - awaiting director review
 
 Human requested neutral security guard and frown on thrown-object impact, alongside title simplification/chair perspective correction. Exported:

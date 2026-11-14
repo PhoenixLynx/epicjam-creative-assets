@@ -1,0 +1,46 @@
+{
+  "asset_id": "ART-002-V07",
+  "descriptive_filename": "creative/art/exports/title_keyart_v07.png",
+  "purpose_and_usage": "title review draft",
+  "human_contributors": [
+    "PhoenixLynx: direction and request; output approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing exact-size export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact original time not supplied by tool",
+  "first_recorded_utc": "2026-11-14T21:32:53.506455+00:00",
+  "source_prompt": "creative/provenance/ART-002_prompt_v07.json",
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-002_title_original_v06.png",
+    "creative/art/export_title.ps1 -Revision v07"
+  ],
+  "origin_classification": "AI-generated derivative of preserved prior project art",
+  "license_and_attribution": "No public license assigned. Preserve prior source provenance; title ancestry includes user-supplied external references with unverified rights. No new external image inputs this revision.",
+  "revision_history": [
+    {
+      "revision": "ART-002-V06",
+      "change": "Human-requested title simplification/chair correction or new neutral/frown face variant"
+    },
+    {
+      "revision": "v07",
+      "change": "Human accepts prior work provisionally; requests another chair perspective. Generated direct rear-view alternative; not final submission approval."
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "e3202f78b8b84b6a52de100a0579a0f0c1eca26b8ec903cfb90327dc3c753484",
+  "source_sha256": "a9339e5f3eb98bb220285a7dd9b7930ce17a5df637fcf73d1e42926cec9e757d",
+  "git_commit_hash": null,
+  "integration_status": "alternate rear-view chair draft; awaiting review"
+}

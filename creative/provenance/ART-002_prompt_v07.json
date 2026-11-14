@@ -1,0 +1,9 @@
+{
+  "asset_id": "ART-002-V07",
+  "tool": "built-in image_gen",
+  "transparent_background": false,
+  "prompt": "Precise edit of this HALCYON title background v06. CHANGE ONLY DIRECTOR CHAIR at right and its immediate floor contact shadow. Everything else unchanged: room camera, composition, central wall, palette, simplified texture level, metallic baseboard, CCTV, HUD text, branded mug/lanyard, badge4471, plants, desk, keyboard. Replace chair with SAME SIZE tall black film director chair seen DIRECTLY FROM BEHIND, fully facing AWAY from viewer toward back wall. Bilaterally symmetric rear elevation; back panel broad horizontal rectangle in one plane, DIRECTOR lettering readable white on rear canvas. We must see the BACK SIDE ONLY: no front-facing seat bowl or contradictory front armrest view. Two straight rear vertical uprights support back, seat mostly occluded below canvas; armrests point away from viewer, foreshortened and largely hidden. Simple physically plausible folding frame, visible rear legs and partly occluded front legs behind them, no doubled X silhouettes, no duplicated hinges, no impossible intersecting tubes. All feet contact one floor plane with coherent subtle shadow. Chair sits above existing mint floor tape X. Show ONE clear rear perspective, not three-quarter view. Leave negative space untouched. Clean stylized game art, not increased photoreal texture. Desired1920x1080 PNG.",
+  "input_references": [
+    "creative/art/source/ART-002_title_original_v06.png"
+  ]
+}
