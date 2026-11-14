@@ -1,0 +1,21 @@
+{
+  "asset_id": "MUS-001",
+  "descriptive_filename": "Halycion_Melody_Positive Project/Halycion_Melody_Positive.als",
+  "purpose_and_usage": "Human-created Ableton project; initial repository snapshot, not an approved finished music asset.",
+  "human_contributors": ["PhoenixLynx"],
+  "ai_systems_and_tools": ["ChatGPT / Sol: provenance documentation and Git setup only; no composition or project edits"],
+  "original_creation_utc": null,
+  "creation_time_evidence": "User reported starting the Ableton project during this session. Exact original creation time unverified.",
+  "first_observed_utc": null,
+  "hash_observation_utc": "2026-11-14T19:34:38.1934504Z",
+  "prompts_and_settings": [],
+  "input_references_and_dependencies": ["Ableton Live; version, plugins and sample dependencies not yet inspected"],
+  "origin_classification": "User-supplied project; musical content and dependency provenance pending review",
+  "license_and_attribution": "No public license granted; dependency rights pending review",
+  "revision_history": [{"date": "2026-11-14", "change": "Recorded saved project hash before initial Git staging; source file not modified by Sol"}],
+  "git_commit_hash": null,
+  "commit_lookup": "Use git log --follow on descriptive_filename to identify the snapshot commit after commit creation",
+  "sha256": "5c7da9e374475e6de4e3e92dc756967b3ebd4c07866739e2cc2acacde5420e31",
+  "integration_status": "source_in_progress",
+  "human_approval": "User supplied repository and authorized setup; no finished music approval"
+}

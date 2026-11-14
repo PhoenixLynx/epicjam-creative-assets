@@ -1,0 +1,20 @@
+{
+  "record_type": "template_not_an_asset",
+  "asset_id": null,
+  "descriptive_filename": null,
+  "purpose_and_usage": null,
+  "human_contributors": [],
+  "ai_systems_and_tools": [],
+  "original_creation_utc": null,
+  "creation_time_evidence": null,
+  "first_observed_utc": null,
+  "prompts_and_settings": [],
+  "input_references_and_dependencies": [],
+  "origin_classification": null,
+  "license_and_attribution": null,
+  "revision_history": [],
+  "git_commit_hash": null,
+  "sha256": null,
+  "integration_status": "proposed",
+  "human_approval": null
+}

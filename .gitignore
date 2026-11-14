@@ -1,0 +1,20 @@
+# Local credentials and machine settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Ableton generated analysis and recovery files (original projects are retained)
+*.asd
+**/Backup/
+**/Crash/
+**/Undo/
+
+# Temporary processing files
+creative/tmp/
+__pycache__/
+*.pyc
