@@ -1,0 +1,18 @@
+{
+  "tool": "built-in image_gen",
+  "title": {
+    "prompt": "Edit this HALCYON title background v05. Preserve overall composition, colour palette, empty central wall for menu, HUD text and layout, security camera, branded mint mug, wide logo lanyard, badge 4471, squared keyboard/desk and metallic baseboard. Two changes ONLY: (1) correct the tall DIRECTOR chair perspective: plausible three-quarter rear view, rectangular seat/back planes share consistent vanishing directions with room floor; exactly four ground-contact feet forming stable rectangle; two coherent folding side frames, no duplicated/interpenetrating diagonal bars or impossible hinges; proper footrest, back canvas reads DIRECTOR; sits naturally on carpet above aligned X. Tall real film director chair with restrained silver hardware. (2) REDUCE texture detail and photographic perfection across room: simplify carpet to broad matte blue-grey with barely visible weave, lanyard to simple woven suggestion not enlarged microfibres, reduce woodgrain, leaf veins and wall grain. Slight material roughness variation and restrained imperfect finish, clean stylized real-time game art with readable broad planes; NOT grungy, dirty, photoreal product render or flat cartoon. Keep metallic accents but soften mirror-like glints. No new objects, people, text or colour changes. Desired 1920x1080 landscape.",
+    "transparent_background": false,
+    "reference": "creative/art/source/ART-002_title_original_v05.png"
+  },
+  "guard": {
+    "prompt": "Edit this approved HALCYON mannequin face into NEUTRAL SECURITY GUARD variant. Preserve exact eye centres, overall face placement, scale and thick blue-grey graphic line style for same curved face card. Change mouth from smile to short firm horizontal closed mouth with slightly downturned ends, brows near-horizontal and steady, eyes attentive but emotionally neutral. Remove star twinkles; keep one modest pale mint round catchlight in each eye. No anger, evil grin or tired bags; professional unamused security guard. Preserve simple nose. Facial features ONLY, flat front-facing, genuine transparent background, no skin/head silhouette, hair, hat, neck, body, text or emblem. Thick brows, mouth and eye outlines readable on small head at 2-5m, matching existing production face thickness. One face, desired 1024x1024 RGBA.",
+    "transparent_background": true,
+    "reference": "creative/art/source/ART-001_face_calm_v03.png"
+  },
+  "frown": {
+    "prompt": "Edit this approved cheerful HALCYON mannequin face to make a clear FROWN reaction after being struck by a thrown object during normal office state. Preserve exact eye centres, overall feature placement/scale, simple nose and thick dark blue-grey lines matching the source. Mouth must become unmistakable DOWNWARD-CORNER FROWN: a broad inverted-U curve, highest at centre and lowest at the two ends. Brows lower and angle slightly inward for annoyed offended expression, eyes mildly narrowed, one modest mint-white round catchlight each, remove star sparkles. Annoyed human workplace reaction, not terror, sad crying, sinister grin or evil. No bruising, tears or Fear eye bags. Flat front-facing facial FEATURES ONLY, no skin/head silhouette, hair, hat, body, text or background. Genuine transparent alpha background. Thick mouth/brows/eye outlines readable from 2-5 metres. One face, desired 1024x1024 RGBA. Same card mapping as original.",
+    "transparent_background": true,
+    "reference": "creative/art/source/ART-001_face_calm_v03.png"
+  }
+}

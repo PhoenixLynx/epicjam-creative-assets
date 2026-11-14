@@ -1,0 +1,46 @@
+{
+  "asset_id": "ART-001-FROWN-V01",
+  "descriptive_filename": "creative/art/exports/ART-001_face_frown_1024_v01.png",
+  "purpose_and_usage": "frown review draft",
+  "human_contributors": [
+    "PhoenixLynx: direction and request; output approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing exact-size export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact original time not supplied by tool",
+  "first_recorded_utc": "2026-11-14T21:28:37.206931+00:00",
+  "source_prompt": {
+    "prompt": "Edit this approved cheerful HALCYON mannequin face to make a clear FROWN reaction after being struck by a thrown object during normal office state. Preserve exact eye centres, overall feature placement/scale, simple nose and thick dark blue-grey lines matching the source. Mouth must become unmistakable DOWNWARD-CORNER FROWN: a broad inverted-U curve, highest at centre and lowest at the two ends. Brows lower and angle slightly inward for annoyed offended expression, eyes mildly narrowed, one modest mint-white round catchlight each, remove star sparkles. Annoyed human workplace reaction, not terror, sad crying, sinister grin or evil. No bruising, tears or Fear eye bags. Flat front-facing facial FEATURES ONLY, no skin/head silhouette, hair, hat, body, text or background. Genuine transparent alpha background. Thick mouth/brows/eye outlines readable from 2-5 metres. One face, desired 1024x1024 RGBA. Same card mapping as original.",
+    "transparent_background": true,
+    "reference": "creative/art/source/ART-001_face_calm_v03.png"
+  },
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-001_face_calm_v03.png",
+    "creative/art/export_faces.ps1"
+  ],
+  "origin_classification": "AI-generated derivative of preserved prior project art",
+  "license_and_attribution": "No public license assigned. Preserve prior source provenance; title ancestry includes user-supplied external references with unverified rights. No new external image inputs this revision.",
+  "revision_history": [
+    {
+      "revision": "ART-001-FROWN-V01",
+      "change": "Human-requested title simplification/chair correction or new neutral/frown face variant"
+    }
+  ],
+  "source_dimensions": [
+    1254,
+    1254
+  ],
+  "export_dimensions": [
+    1024,
+    1024
+  ],
+  "export_mode": "RGBA",
+  "sha256": "2527c652e2bb2f776f5e2f4bca7dd9c2c62925f5eb8834e231d320c2113e2e8d",
+  "source_sha256": "a3115a394b04b613d6cd3e60009b83d5c3aef6c6c0d0cba70abab81f9603d0da",
+  "git_commit_hash": null,
+  "integration_status": "awaiting human review and in-game test"
+}

@@ -1,0 +1,46 @@
+{
+  "asset_id": "ART-001-GUARD-V01",
+  "descriptive_filename": "creative/art/exports/ART-001_face_guard_1024_v01.png",
+  "purpose_and_usage": "guard review draft",
+  "human_contributors": [
+    "PhoenixLynx: direction and request; output approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing exact-size export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact original time not supplied by tool",
+  "first_recorded_utc": "2026-11-14T21:28:37.193399+00:00",
+  "source_prompt": {
+    "prompt": "Edit this approved HALCYON mannequin face into NEUTRAL SECURITY GUARD variant. Preserve exact eye centres, overall face placement, scale and thick blue-grey graphic line style for same curved face card. Change mouth from smile to short firm horizontal closed mouth with slightly downturned ends, brows near-horizontal and steady, eyes attentive but emotionally neutral. Remove star twinkles; keep one modest pale mint round catchlight in each eye. No anger, evil grin or tired bags; professional unamused security guard. Preserve simple nose. Facial features ONLY, flat front-facing, genuine transparent background, no skin/head silhouette, hair, hat, neck, body, text or emblem. Thick brows, mouth and eye outlines readable on small head at 2-5m, matching existing production face thickness. One face, desired 1024x1024 RGBA.",
+    "transparent_background": true,
+    "reference": "creative/art/source/ART-001_face_calm_v03.png"
+  },
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-001_face_calm_v03.png",
+    "creative/art/export_faces.ps1"
+  ],
+  "origin_classification": "AI-generated derivative of preserved prior project art",
+  "license_and_attribution": "No public license assigned. Preserve prior source provenance; title ancestry includes user-supplied external references with unverified rights. No new external image inputs this revision.",
+  "revision_history": [
+    {
+      "revision": "ART-001-GUARD-V01",
+      "change": "Human-requested title simplification/chair correction or new neutral/frown face variant"
+    }
+  ],
+  "source_dimensions": [
+    1254,
+    1254
+  ],
+  "export_dimensions": [
+    1024,
+    1024
+  ],
+  "export_mode": "RGBA",
+  "sha256": "0301266dd5e82806f1d9f23190de7d2eca57ffa8bf8bab4abbd746489895d6fe",
+  "source_sha256": "0bd18275f962de663d2a50350ae7082c5032ad8f9371690ad27a98dc73ee216e",
+  "git_commit_hash": null,
+  "integration_status": "awaiting human review and in-game test"
+}

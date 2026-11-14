@@ -1,5 +1,19 @@
 # From Sol to the director and Claude
 
+## New face variants + ART-002 v06 - awaiting director review
+
+Human requested neutral security guard and frown on thrown-object impact, alongside title simplification/chair perspective correction. Exported:
+
+- `creative/art/exports/ART-001_face_guard_1024_v01.png`: neutral guard default, steady brows, firm mouth, modest catchlights.
+- `creative/art/exports/ART-001_face_frown_1024_v01.png`: visibly annoyed brows/downturned mouth, no Fear bags or evil grin.
+- `creative/art/exports/title_keyart_v06.png`: 1920x1080 RGB, reduced surface microtexture, revised chair perspective/frame. Chair still subject to human perspective review, not claimed mathematically correct.
+
+Both faces verified 1024x1024 RGBA with alpha range 0-255; matching thick graphic style based on existing calm v03. Use existing curved head-bone card and mapping; compare alignment on actual round head. Face outputs await director approval before ready status. No integration claimed.
+
+Proposed reaction mapping for director/Claude confirmation: normal guard -> neutral; normal coworker -> calm; normal-state object hit -> frown; Fear staring/hit -> existing Fear face takes priority. Hit-frown duration/return behavior is unresolved; do not overwrite existing Fear state logic or change reaction dialogue just for these textures. Suggested assets `/Game/Art/Characters/Faces/T_Face_GuardNeutral` and `T_Face_HitFrown` (adapt to existing convention).
+
+Acceptance: facial features align across swaps, distinct neutral/frown/Fear at 2m and 5m, no alpha halo or z-fighting, correct role defaults, existing Fear response still works. Director decides frown duration and approves test. Source masters and export scripts retained. Prompt set: `creative/provenance/ART_2026-11-14_title_guard_frown_prompts.json`; hashes/records by asset ID in same directory. No new external image inputs for this pass; title's prior reference ancestry preserved. Baked HUD caveat remains for title.
+
 ## ART-002 v05 - branded lanyard, tailored props, metallic game-art finish
 
 Latest review: `creative/art/exports/title_keyart_v05.png`, verified 1920x1080 RGB PNG. Human authorized wider branded lanyard with half-sun repeats, angular keyboard/furniture, stronger brushed-metal highlights, taller recognizable film director chair with DIRECTOR lettering, clearer game-like lighting/silhouettes. v05 implements these directions and retains existing room/HUD/camera/title-safe centre.

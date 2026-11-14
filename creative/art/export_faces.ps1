@@ -1,10 +1,11 @@
+param([string[]]$Variants = @('calm', 'fear'), [string]$Revision = 'v03')
 Add-Type -AssemblyName System.Drawing
 $artRoot = $PSScriptRoot
 $exportRoot = Join-Path $artRoot 'exports'
 New-Item -ItemType Directory -Force -Path $exportRoot | Out-Null
-foreach ($variant in @('calm', 'fear')) {
-    $sourcePath = Join-Path $artRoot ('source/ART-001_face_' + $variant + '_v03.png')
-    $exportPath = Join-Path $exportRoot ('ART-001_face_' + $variant + '_1024_v03.png')
+foreach ($variant in $Variants) {
+    $sourcePath = Join-Path $artRoot ('source/ART-001_face_' + $variant + '_' + $Revision + '.png')
+    $exportPath = Join-Path $exportRoot ('ART-001_face_' + $variant + '_1024_' + $Revision + '.png')
     $sourceImage = [System.Drawing.Image]::FromFile($sourcePath)
     $exportImage = [System.Drawing.Bitmap]::new(1024, 1024, [System.Drawing.Imaging.PixelFormat]::Format32bppArgb)
     $graphics = [System.Drawing.Graphics]::FromImage($exportImage)

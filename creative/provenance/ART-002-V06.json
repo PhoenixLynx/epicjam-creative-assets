@@ -1,0 +1,46 @@
+{
+  "asset_id": "ART-002-V06",
+  "descriptive_filename": "creative/art/exports/title_keyart_v06.png",
+  "purpose_and_usage": "title review draft",
+  "human_contributors": [
+    "PhoenixLynx: direction and request; output approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing exact-size export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact original time not supplied by tool",
+  "first_recorded_utc": "2026-11-14T21:28:37.171346+00:00",
+  "source_prompt": {
+    "prompt": "Edit this HALCYON title background v05. Preserve overall composition, colour palette, empty central wall for menu, HUD text and layout, security camera, branded mint mug, wide logo lanyard, badge 4471, squared keyboard/desk and metallic baseboard. Two changes ONLY: (1) correct the tall DIRECTOR chair perspective: plausible three-quarter rear view, rectangular seat/back planes share consistent vanishing directions with room floor; exactly four ground-contact feet forming stable rectangle; two coherent folding side frames, no duplicated/interpenetrating diagonal bars or impossible hinges; proper footrest, back canvas reads DIRECTOR; sits naturally on carpet above aligned X. Tall real film director chair with restrained silver hardware. (2) REDUCE texture detail and photographic perfection across room: simplify carpet to broad matte blue-grey with barely visible weave, lanyard to simple woven suggestion not enlarged microfibres, reduce woodgrain, leaf veins and wall grain. Slight material roughness variation and restrained imperfect finish, clean stylized real-time game art with readable broad planes; NOT grungy, dirty, photoreal product render or flat cartoon. Keep metallic accents but soften mirror-like glints. No new objects, people, text or colour changes. Desired 1920x1080 landscape.",
+    "transparent_background": false,
+    "reference": "creative/art/source/ART-002_title_original_v05.png"
+  },
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-002_title_original_v05.png",
+    "creative/art/export_title.ps1"
+  ],
+  "origin_classification": "AI-generated derivative of preserved prior project art",
+  "license_and_attribution": "No public license assigned. Preserve prior source provenance; title ancestry includes user-supplied external references with unverified rights. No new external image inputs this revision.",
+  "revision_history": [
+    {
+      "revision": "ART-002-V06",
+      "change": "Human-requested title simplification/chair correction or new neutral/frown face variant"
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "4490c4dae258fb8ecb0397d8e24905040609ce6f3d201ac1be11ef266f2e92cb",
+  "source_sha256": "a3bd158478a31a6954e2b0c6afd79ff30ff12f48ce83b33f228f8b3396487c0e",
+  "git_commit_hash": null,
+  "integration_status": "awaiting human review and in-game test"
+}
