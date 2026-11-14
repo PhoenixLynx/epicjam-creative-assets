@@ -14,3 +14,12 @@
 - Created two v02 imagegen edits and preserved both original versions. Confirmed 1254x1254 RGBA with true transparent pixels.
 - Saved full prompts, hashes and reference dependencies; updated Sol handoff. No finished-asset approval or integration claimed.
 - Final 1024 exports remain pending. Next: director reviews v02 eye treatments.
+
+## Approved production export - v03
+
+- Decision: director approved v02 and relayed ~1.5x thicker mouth/brow/eye outline requirement for 2-5m visibility.
+- Created v03 thick-stroke edits via built-in imagegen; exported exact 1024x1024 RGBA PNGs using reproducible System.Drawing script. No Python image editing performed.
+- Checked full export images visually and validated dimensions, alpha range and transparent corners. Stroke multiplier is approximate; in-game readability remains untested.
+- Saved prompts, source/export hashes and approval evidence; marked ART-001 ready for Claude and documented curved head-bone face-card integration.
+- Suggested Act 3 first, then face integration. No gameplay files edited.
+- Next: Claude integrates; director playtests at 2m and 5m. Commit hashes can be resolved from Git history of recorded asset paths.

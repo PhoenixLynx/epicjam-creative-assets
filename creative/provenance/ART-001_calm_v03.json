@@ -1,0 +1,55 @@
+{
+  "asset_id": "ART-001-CALM-V03",
+  "descriptive_filename": "creative/art/exports/ART-001_face_calm_1024_v03.png",
+  "purpose_and_usage": "Mannequin face review revision: fresh twinkle",
+  "human_contributors": [
+    "PhoenixLynx: requested revision; final approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing: exact-size PNG export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated this session; exact timestamp not supplied by image tool",
+  "first_recorded_utc": "2026-11-14T20:34:26.417382+00:00",
+  "source_prompt": "Edit this approved cheerful HALCYON mannequin face texture for final game readability. ONLY thicken the existing dark blue-grey mouth, eyebrows and eye outline strokes to approximately 1.5 TIMES their current thickness, symmetrically around their existing centre lines. Preserve exact feature locations, eye centres, facial proportions, nose, cheerful expression, bright mint-white eye twinkles, clean fresh lower lids and colours. Do not enlarge entire face, move features, add a head or skin or change style. True transparent background must remain transparent. Flat facial-feature texture, one face. Request exact 1024x1024 PNG with alpha. Thick lines readable on a small round head at 2-5 metres. No lettering, frame or backdrop.",
+  "settings": {
+    "transparent_background": true,
+    "requested_dimensions": [
+      1024,
+      1024
+    ]
+  },
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "actual_mode": "RGBA",
+  "alpha_extrema": [
+    0,
+    255
+  ],
+  "input_references_and_dependencies": [
+    "creative/art/source/ART-001_face_calm_v02.png",
+    "creative/art/source/ART-001_face_calm_v03.png",
+    "creative/art/export_faces.ps1"
+  ],
+  "origin_classification": "Derivative of original AI-generated draft",
+  "license_and_attribution": "No external likeness references; no public license assigned; retain AI provenance",
+  "revision_history": [
+    {
+      "revision": "v02",
+      "change": "Human-directed eye treatment revision; v01 preserved"
+    },
+    {
+      "revision": "v03",
+      "change": "Imagegen thickened strokes approximately 1.5x (visual target, not an exact measured multiplier); deterministic export to 1024 RGBA"
+    }
+  ],
+  "git_commit_hash": null,
+  "sha256": "dce657335e454741ce4078f67534289351ea4593fa64250199b70ebc62c7e9b4",
+  "integration_status": "ready for Claude; in-game test pending",
+  "human_approval": "Human explicitly approved v02 and requested approx 1.5x thicker lines with 1024 export in chat; v03 implements this authorized production adjustment",
+  "source_sha256": "38b4d5a6846624b44aceaf5b094cec59abe3d8f3c5fddf146828382cacc98e2e"
+}

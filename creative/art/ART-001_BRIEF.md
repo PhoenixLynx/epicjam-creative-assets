@@ -1,5 +1,7 @@
 # ART-001 mannequin faces - review draft
 
+UPDATE: v02 approved by director. v03 thick-stroke 1024x1024 RGBA exports are ready for Claude under `creative/art/exports/`; see latest `handoff/FROM_SOL.md`. Earlier draft limitations below are retained as revision history, not current export status. In-game mapping/readability test remains pending.
+
 Date: November 14, 2026. Human director requested generation from handoff specs.
 
 Purpose: give HALCYON coworkers an overly rehearsed polite expression, paired with a hostile Fear expression. Tone remains stylized corporate horror, teen-appropriate.

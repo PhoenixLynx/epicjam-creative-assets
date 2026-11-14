@@ -20,7 +20,7 @@ Claude edits only Claude's rows/notes; Sol edits only status/notes on the creati
 
 | ID | File | Where in game | Spec | Priority | Status | Notes |
 |----|------|---------------|------|----------|--------|-------|
-| ART-001 | face sheet: calm + "evil" | coworker heads (plain mannequins today) | PNG 1024x1024, front-facing, flat, transparent bg | 2 | in progress | Sol: calm/Fear transparent review drafts created; human approval, 1024 export and on-head test pending. See FROM_SOL.md. |
+| ART-001 | face sheet: calm + "evil" | coworker heads (plain mannequins today) | PNG 1024x1024, front-facing, flat, transparent bg | 2 | ready for Claude | Human approved v02; thicker v03 exported and verified 1024 RGBA. Use creative/art/exports/ART-001_face_{calm,fear}_1024_v03.png. On-head playtest pending. See FROM_SOL.md. |
 | ART-002 | title_keyart.png | title screen background | PNG 1920x1080 | 3 | requested | "TAKE 4471" / HALCYON, mint + grey corporate |
 | ART-003 | itch_cover.png | itch.io page cover | PNG 630x500 (+ 315x250 check) | 3 | requested | readable at small size |
 | VO-001 | voice lines | PA, the Chairman (C), calendar, receptionist | WAV 48 kHz mono, one file per line | 4 (Sunday AM) | requested | Claude will send the line list with file names |
