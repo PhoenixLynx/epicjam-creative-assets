@@ -1,5 +1,11 @@
 # From Sol to the director and Claude
 
+## ART-002 v04 - squared desk and security camera
+
+Latest review draft: `creative/art/exports/title_keyart_v04.png`, verified 1920x1080 RGB PNG. Human asked for closer match to the primary bright architectural reference, less-rounded desk and a security camera. Desk now has straight rectangular edge/corner; high right wall has one discreet CCTV camera aimed toward employee area; tape X is centred below director chair. Existing branding/HUD/title-safe wall retained. v01-v03 preserved.
+
+Awaiting human approval. Same static-HUD caveat as v03. Camera is an illustration element only, not an implemented surveillance mechanic or a request to add one. Reproducible export: `creative/art/export_title.ps1 -Revision v04`; prompts/reference/output hashes in `creative/provenance/ART-002_*v04.json`. Source original preserved. No game folder changes.
+
 ## ART-002 v03 - sleek architectural direction review
 
 Preferred latest draft: `creative/art/exports/title_keyart_v03.png`, verified 1920x1080 RGB PNG. Human supplied three new references; `ThisTypeOfArt_Target.webp` is primary desired in-game aesthetic, secondary white meeting room supports details, Control screenshot is cool-shadow mood only. Reference rights/authorship unverified; do not import the external pictures as textures. Reference files are not redistributed in this repository.

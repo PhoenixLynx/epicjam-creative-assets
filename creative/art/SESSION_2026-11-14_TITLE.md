@@ -24,3 +24,10 @@
 - Preserved generated original and exact-size 1920x1080 PNG export, full prompt, hashes, reference provenance and rights uncertainties. External source images remain outside repository.
 - Wrote HALCYON_SLEEK_DIRECTION.md: proposed small material/lighting pass for Claude, no office rebuild or new system. Updated Sol handoff.
 - Render and in-game scope await human review; prior versions preserved. No game changes. Next: review aesthetic and decide scope before title finalization/cover adaptation.
+
+## v04 architectural refinement
+
+- Human requested another pass toward primary office reference, less-rounded desk and a security camera; noted floor X alignment.
+- Built-in imagegen edit: squared desk edges, high wall-mounted CCTV camera, X beneath director chair, brighter architectural finish. Reviewed source and exact 1920x1080 export visually.
+- Saved original/output, full prompt, reference and output SHA-256 records; updated Sol handoff. Earlier versions retained.
+- Render approval pending; no gameplay camera system or game-folder edits. Next: human review before final title/background integration.

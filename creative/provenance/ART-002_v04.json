@@ -1,0 +1,65 @@
+{
+  "asset_id": "ART-002-V04",
+  "descriptive_filename": "creative/art/exports/title_keyart_v04.png",
+  "purpose_and_usage": "Title-screen background, centre title/menu overlay in Unreal",
+  "human_contributors": [
+    "PhoenixLynx: creative direction and authorization; render approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing PNG export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated in current session; exact generation time not provided by tool",
+  "first_recorded_utc": "2026-11-14T21:14:30.397875+00:00",
+  "source_prompts_and_settings": "creative/provenance/ART-002_prompt_v04.json",
+  "input_references_and_dependencies": [
+    {
+      "path": "C:\\Users\\casse\\Downloads\\ThisTypeOfArt_Target.webp",
+      "sha256": "95b74abb061eb97d16abe04af56c592cccc5a547423923e0c9c677ada7b9dcd9",
+      "rights_status": "User supplied; authorship/license unverified; reference only"
+    },
+    "creative/art/source/ART-002_title_original_v03.png",
+    "creative/art/export_title.ps1 -Revision v04"
+  ],
+  "origin_classification": "AI-generated derivative of v02 with user-supplied external visual style references",
+  "license_and_attribution": "External references are reference-only, with unverified ownership/license; no reference files redistributed here; generated output not asserted to clear all rights",
+  "revision_history": [
+    {
+      "revision": "v01",
+      "change": "Mint office title artwork; exact-size centre-crop/resample export"
+    },
+    {
+      "revision": "v02",
+      "change": "Human requested mug company logo, HUD accents and flatter corporate style using devlog screenshots. Existing source versions preserved."
+    },
+    {
+      "revision": "v03",
+      "change": "Human requested sleek architecture, primary target office image; smooth materials, frosted glass and continuous ceiling; existing layout/branding/HUD retained"
+    },
+    {
+      "revision": "v04",
+      "change": "Human requested closer architectural feel, less-rounded desk corners and security camera; moved floor X beneath chair"
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "32177027403f9119ee6781f2074351b9d8d3c0568d544c22592ff4b78b98e2d7",
+  "source_sha256": "a6b501afe05089b50057e151a6d427d24db4b257c7da313e6fce17da47c84b41",
+  "git_commit_hash": null,
+  "integration_status": "awaiting human review",
+  "unresolved": [
+    "human approval",
+    "static HUD versus live UI clean plate",
+    "concept art is not gameplay footage",
+    "reference rights remain unverified"
+  ]
+}
