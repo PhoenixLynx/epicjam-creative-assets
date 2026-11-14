@@ -1,5 +1,15 @@
 # From Sol to the director and Claude
 
+## ART-002 v02 - flat corporate style, mug logo and HUD review
+
+New preferred review file: `creative/art/exports/title_keyart_v02.png`, verified 1920x1080 RGB PNG. v01 preserved. Human liked original direction/palette and requested company logo on mug, HUD details and flatter corporate design based on devlog references. Inspected actual office screenshot, poster sheet, HUD mockup and existing HALCYON logo read-only. Reference paths and hashes recorded in `creative/provenance/ART-002_v02.json`; full built-in imagegen edit prompt in `ART-002_prompt_v02.json`.
+
+Changes: simplified colour planes/geometric props and angular plants, logo-guided mug print, compact employee 4471 card at upper-left, 08:59/TAKE 01 at upper-right, lower-left recording accent. Central wall retained for live title/menu. Existing logo was regenerated in context, not pixel-perfect compositing; director should review brand match.
+
+Status: awaiting director review, not ready for implementation. HUD elements are baked in THIS review PNG, so do not add duplicate live widgets over them. On approval, agree whether these remain static title decoration or export a clean plate and rebuild HUD as live widgets. Do not use this as dynamic gameplay HUD or present it as a gameplay screenshot. Menu contrast/layout and viewport cropping still require integration testing.
+
+Exact-size export: `creative/art/export_title.ps1 -Revision v02`. Native 1672x941 source retained at `creative/art/source/ART-002_title_original_v02.png`, then centre-cropped/resampled to 1920x1080. No game files modified.
+
 ## ART-002 title background v01 - awaiting director review
 
 - File: `creative/art/exports/title_keyart_v01.png` (1920x1080 RGB PNG, verified).

@@ -1,0 +1,71 @@
+{
+  "asset_id": "ART-002-V02",
+  "descriptive_filename": "creative/art/exports/title_keyart_v02.png",
+  "purpose_and_usage": "Title-screen background, centre title/menu overlay in Unreal",
+  "human_contributors": [
+    "PhoenixLynx: creative direction and authorization; render approval pending"
+  ],
+  "ai_systems_and_tools": [
+    "ChatGPT / Sol",
+    "built-in image_gen",
+    "System.Drawing PNG export"
+  ],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Generated in current session; exact generation time not provided by tool",
+  "first_recorded_utc": "2026-11-14T21:00:26.759388+00:00",
+  "source_prompts_and_settings": "creative/provenance/ART-002_prompt_v02.json",
+  "input_references_and_dependencies": [
+    {
+      "path": "C:\\Users\\casse\\Documents\\Agentic\\EpicJam\\DirectorsCut_58\\devlog\\screenshots\\2026-11-14_lunch_is_served.png",
+      "sha256": "54f7880ffb297011ab24d19260a8c73bfc2feea70dd324cc14757a41fd2d7633",
+      "role": "project visual reference; read-only; prior authorship per game devlog, not newly attributed to Sol"
+    },
+    {
+      "path": "C:\\Users\\casse\\Documents\\Agentic\\EpicJam\\DirectorsCut_58\\devlog\\screenshots\\2026-11-13_poster_sheet.png",
+      "sha256": "9777808c8bdf9260bf82c4cb4e6eca87b603f4bceb957f11a71f9d26ac5f6d14",
+      "role": "project visual reference; read-only; prior authorship per game devlog, not newly attributed to Sol"
+    },
+    {
+      "path": "C:\\Users\\casse\\Documents\\Agentic\\EpicJam\\DirectorsCut_58\\devlog\\screenshots\\2026-11-13_mockup_hud.png",
+      "sha256": "9e560e41bba7098e95aed69f3e2d6a3d09e0a05fc3b5a224f21a9644ad114596",
+      "role": "project visual reference; read-only; prior authorship per game devlog, not newly attributed to Sol"
+    },
+    {
+      "path": "C:\\Users\\casse\\Documents\\Agentic\\EpicJam\\DirectorsCut_58\\SourceArt\\Textures\\Props\\T_HalcyonLogo.png",
+      "sha256": "76bd6b95687313773257ec1d8e6070243d9f2464134df6cb87b44f092fbe73fb",
+      "role": "project visual reference; read-only; prior authorship per game devlog, not newly attributed to Sol"
+    },
+    "creative/art/source/ART-002_title_original_v01.png",
+    "creative/art/export_title.ps1 -Revision v02"
+  ],
+  "origin_classification": "AI-generated derivative of v01 and supplied project visual references",
+  "license_and_attribution": "Existing project references used with human authorization; retain their original provenance and AI contribution records; no new external image sources or public license",
+  "revision_history": [
+    {
+      "revision": "v01",
+      "change": "Mint office title artwork; exact-size centre-crop/resample export"
+    },
+    {
+      "revision": "v02",
+      "change": "Human requested mug company logo, HUD accents and flatter corporate style using devlog screenshots. Existing source versions preserved."
+    }
+  ],
+  "source_dimensions": [
+    1672,
+    941
+  ],
+  "export_dimensions": [
+    1920,
+    1080
+  ],
+  "export_mode": "RGB",
+  "sha256": "01945d69300cadf2a9e520e90a303b0d79a92b9086274c3a194e268f8dd71a12",
+  "source_sha256": "f3f52c5529c451f415a86ba50462de87f94385736a5f9cb35a5e73e930495770",
+  "git_commit_hash": null,
+  "integration_status": "awaiting human review",
+  "unresolved": [
+    "HUD baked into this review image; requires reconstruction as live UI if dynamic",
+    "not a gameplay screenshot",
+    "generated mug logo is reference-guided, not pixel-identical source compositing"
+  ]
+}

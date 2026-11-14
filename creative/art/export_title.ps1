@@ -1,6 +1,7 @@
+param([ValidateSet('v01', 'v02')][string]$Revision = 'v01')
 Add-Type -AssemblyName System.Drawing
-$sourcePath = Join-Path $PSScriptRoot 'source/ART-002_title_original_v01.png'
-$exportPath = Join-Path $PSScriptRoot 'exports/title_keyart_v01.png'
+$sourcePath = Join-Path $PSScriptRoot ('source/ART-002_title_original_' + $Revision + '.png')
+$exportPath = Join-Path $PSScriptRoot ('exports/title_keyart_' + $Revision + '.png')
 $sourceImage = [System.Drawing.Image]::FromFile($sourcePath)
 $outputImage = [System.Drawing.Bitmap]::new(1920, 1080, [System.Drawing.Imaging.PixelFormat]::Format24bppRgb)
 $graphics = [System.Drawing.Graphics]::FromImage($outputImage)
