@@ -13,7 +13,7 @@
   "origin_classification": "User-supplied project; musical content and dependency provenance pending review",
   "license_and_attribution": "No public license granted; dependency rights pending review",
   "revision_history": [{"date": "2026-11-14", "change": "Recorded saved project hash before initial Git staging; source file not modified by Sol"}],
-  "git_commit_hash": null,
+  "git_commit_hash": "8436719a6c6b1d2a5e2413f8fe75b7c7996b8479",
   "commit_lookup": "Use git log --follow on descriptive_filename to identify the snapshot commit after commit creation",
   "sha256": "5c7da9e374475e6de4e3e92dc756967b3ebd4c07866739e2cc2acacde5420e31",
   "integration_status": "source_in_progress",

@@ -14,6 +14,7 @@ Sol treats the separate `DirectorsCut_58` game folder as strictly read-only. Int
 
 - `creative/STUDIO_BRIEF.md`: direction, boundaries and initial audio handoff.
 - `creative/provenance/`: source, tool, prompt, revision and approval records.
+- `handoff/`: user-designated exchange for Claude's tasks and integration notes. Sol preserves Claude's files and writes creative deliverables under `creative/`.
 - `creative/audio/source/`: proposed location for future original audio sources.
 - `creative/audio/exports/`: proposed location for reviewed audio deliverables.
 - Existing Ableton project folders remain in their current locations; no music is presumed composed merely because a project exists.

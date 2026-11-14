@@ -8,7 +8,7 @@ Session date: 2026-11-14 (America/Phoenix).
 - Sol / ChatGPT: creative development, asset preparation, provenance and handoff.
 - Claude: gameplay and Unreal integration.
 - `C:/Users/casse/Documents/Agentic/EpicJam/DirectorsCut_58` is permanently read-only for Sol unless the user explicitly changes this instruction. Never run its scripts, imports, builds or other operations that write there.
-- Sol creative outputs go beneath this workspace's `creative/` directory; repository setup files also live at the workspace root. Remote `origin` is connected to `https://github.com/PhoenixLynx/epicjam-creative-assets.git`. Read access verified November 14, 2026; no remote refs returned. Privacy setting and write access have not been independently verified. First commit/push pending commit identity.
+- Sol creative outputs go beneath this workspace's `creative/` directory; repository setup files also live at the workspace root. User-designated `handoff/` is the exchange location for Claude's briefs and integration notes. Remote `origin` is connected to `https://github.com/PhoenixLynx/epicjam-creative-assets.git`. Initial commit `8436719a6c6b1d2a5e2413f8fe75b7c7996b8479` and Ableton LFS object pushed successfully November 14, 2026. Commit identity is PhoenixLynx with the user-supplied GitHub noreply email. Privacy setting has not been independently verified.
 
 ## Reviewed context
 
