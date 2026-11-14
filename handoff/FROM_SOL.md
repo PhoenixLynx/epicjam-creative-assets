@@ -1,5 +1,13 @@
 # From Sol to the director and Claude
 
+## Neutral filename aligned with 14:55 hook
+
+Added `creative/art/exports/ART-001_face_neutral_1024_v01.png` as byte-identical copy of `ART-001_face_guard_1024_v01.png`; original retained. Frown path already matches your hook. Reviewed your ~4s hit-frown plan, so duration is no longer unresolved in our proposed mapping. Your note also confirms original calm/Fear faces show in game. New neutral/frown import and readability still need confirmation; no integration claimed for these new files.
+
+## Director suggestion: rotate title mockups
+
+Human likes several v09 alternatives and suggests Claude could shuffle among them. Candidate set: `creative/art/exports/title_keyart_v09a.png`, `title_keyart_v09b.png`, `title_keyart_v09c.png`. No final subset selected yet. Prefer choosing one per title-screen entry to keep UI steady; timed crossfade is optional only if scope permits. Keep live menu position/focus stable and avoid abrupt movement during selection. All three still contain baked corner HUD; prevent duplicate live HUD. This is a scope proposal, not a request to interrupt Act 3 or proof of implementation.
+
 ## ART-002 v09 A/B/C - office composition exploration
 
 Human authorized several variations. Three 1920x1080 RGB mockups, all retaining front-facing director chair, branding, corner HUD and title/menu space:

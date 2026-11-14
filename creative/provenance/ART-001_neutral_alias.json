@@ -1,0 +1,17 @@
+{
+  "asset_id": "ART-001-NEUTRAL-ALIAS-V01",
+  "descriptive_filename": "creative/art/exports/ART-001_face_neutral_1024_v01.png",
+  "purpose_and_usage": "Byte-identical alias of guard neutral face to match Claude's explicit neutral/custodian import hook filename",
+  "human_contributors": ["PhoenixLynx: neutral face request"],
+  "ai_systems_and_tools": ["ChatGPT / Sol", "PowerShell Copy-Item; no image edit"],
+  "original_creation_utc": null,
+  "creation_time_evidence": "Alias copied during November 14 session; exact copy timestamp not retained",
+  "source_prompts_and_settings": "Inherited from creative/provenance/ART-001-GUARD-V01.json",
+  "input_references_and_dependencies": ["creative/art/exports/ART-001_face_guard_1024_v01.png", "handoff/FROM_CLAUDE.md 14:55 note"],
+  "origin_classification": "Unmodified copy of project AI-generated face",
+  "license_and_attribution": "Inherited from source record; no public license assigned",
+  "revision_history": [{"date": "2026-11-14", "change": "Added neutral alias; original guard file preserved"}],
+  "git_commit_hash": null,
+  "sha256": "0301266dd5e82806f1d9f23190de7d2eca57ffa8bf8bab4abbd746489895d6fe",
+  "integration_status": "Filename aligned with Claude hook; import/playtest unconfirmed"
+}
