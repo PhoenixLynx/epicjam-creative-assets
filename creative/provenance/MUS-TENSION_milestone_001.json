@@ -1,0 +1,175 @@
+{
+  "asset_id": "MUS-TENSION-MILESTONE-001",
+  "descriptive_filename": "OriginalCompositions\\PhoenixLynx - Halycion_Melody_Tension_11-14_2026.wav",
+  "purpose": "Human tension composition source milestone; gameplay cue mapping pending",
+  "human_contributors": [
+    "PhoenixLynx: supplied tension composition and requested commit"
+  ],
+  "ai_systems_and_tools": [
+    "Sol / ChatGPT: read-only inspection, byte-preserving archive, metadata and hashes",
+    "Python wave/numpy/hashlib/XML"
+  ],
+  "original_creation_utc": null,
+  "first_observed_utc": "2026-11-15T06:09:30Z",
+  "snapshot_recorded_utc": "2026-11-15T06:10:10.004329+00:00",
+  "timestamp_limits": "Observation time from clock tool, not original creation time or independent timestamp certificate",
+  "source_prompts": [
+    "User: I have a new one to commit, tension"
+  ],
+  "settings": {
+    "sample_rate_hz": 44100,
+    "pcm_bits": 24,
+    "channels": 2,
+    "frames": 6145549,
+    "duration_seconds": 139.35485260770974,
+    "sample_peak_dbfs": -5.219045463891332,
+    "full_scale_samples": 0,
+    "ableton_creator": "Ableton Live 12.2.7",
+    "tempo_manual_values": [
+      {
+        "Value": "62"
+      }
+    ]
+  },
+  "input_references_and_dependencies": [
+    "../../../../../../mre/Documents/Ableton/User Library/Presets/Instruments/SubZero/sz_rhodish.adv",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/Compressor",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/EQ Eight",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/Limiter",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/Resonators",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/Saturator",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Instruments/Operator",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Compressor",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Dynamic Tube",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Glue Compressor",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Reverb",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Simple Delay",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Instruments/Sampler",
+    "Devices/Audio Effects/Compressor/Mix Gel.adv",
+    "Devices/Audio Effects/Delay/Clean Delay/16th Dub.adv",
+    "Devices/Audio Effects/EQ Eight",
+    "Devices/Audio Effects/Limiter",
+    "Devices/Audio Effects/Limiter/Maximizer.adv",
+    "Devices/Audio Effects/Multiband Dynamics/Multiband Compression.adv",
+    "Devices/Audio Effects/Roar/Mix Fat Tape.adv",
+    "Devices/Audio Effects/Saturator/A Bit Warmer.adv",
+    "Devices/Audio Effects/Simple Delay/Dotted Eighth Note.adv",
+    "Devices/Audio Effects/Utility",
+    "Devices/Audio Effects/Utility/Bass Mono.adv",
+    "Devices/Instruments/Meld/Synth Lead/Happy Chords.adv",
+    "Devices/Instruments/Operator/Synth Pad/5ths Glass Motion Pad.adv",
+    "Devices/Instruments/Wavetable/Synth Pad/Analog Soft Pad.adv",
+    "Drums/Drum Hits/Clap/Clappers.adg",
+    "Drums/Drum Hits/Cymbal/Short Mean Crash.adg",
+    "Drums/Drum Hits/Hihat/Clang Open.adg",
+    "Drums/Drum Hits/Hihat/Tight Hat.adg",
+    "Drums/Drum Hits/Kick/Thump.adg",
+    "Drums/Drum Hits/Ride/Short Mean Ride.adg",
+    "Drums/Drum Hits/Rim/Pitch Stick.adg",
+    "Drums/Drum Hits/Snare/Ringy Snare.adg",
+    "Drums/Drum Hits/Synth Percussion/Clang Pedal.adg",
+    "Drums/Drum Hits/Synth Percussion/Whip It.adg",
+    "Drums/Drum Hits/Tom/Hi-Mid Tom.adg",
+    "Drums/Drum Hits/Tom/High Floor.adg",
+    "Drums/Drum Hits/Tom/High Tom.adg",
+    "Drums/Drum Hits/Tom/Low Floor.adg",
+    "Drums/Drum Hits/Tom/Low Tom.adg",
+    "Drums/Drum Hits/Tom/Low-Mid Tom.adg",
+    "Drums/Effected Drum Kits/Kit-606 Body Electric.adg",
+    "Drums/Kit-Pitchy.adg",
+    "Presets/Audio Effects/Audio Effect Rack/DystopiaMaster.adg",
+    "Racks/Instrument Racks/Mallets/Obelisk Bells.adg",
+    "Racks/Instrument Racks/Pad/After Glow Pad.adg",
+    "Samples/Closed Hihat/Hihat-606-Closed.aif",
+    "Samples/Cymbal/Cymbal-606.aif",
+    "Samples/Hybrid/ImpulseResponses/Hybrid_Early_Reflections_Deep Stone L.aif",
+    "Samples/Hybrid/ImpulseResponses/Hybrid_Early_Reflections_Deep Stone R.aif",
+    "Samples/Kick/Kick-606-Mod.aif",
+    "Samples/Kick/Kick-606.aif",
+    "Samples/Open Hihat/Hihat-606-Combo.aif",
+    "Samples/Open Hihat/Hihat-606-Open.aif",
+    "Samples/Snare/Snare-606.aif",
+    "Samples/Tom/Tom-606-Hi.aif",
+    "Samples/Tom/Tom-606-Low.aif",
+    "Sound Browser/3 Drum Kits/Kit/Kit-Pitchy.adg"
+  ],
+  "dependency_limits": "Available collected samples archived; external preset/plugin files not copied. Matching source association inferred from filenames, not reproduced by rendering.",
+  "origin_classification": "User-supplied human composition; dependency origin and pre-jam content confirmation pending",
+  "license_and_attribution": "No public license granted; sample/preset attribution and applicable terms pending confirmation",
+  "revision_history": [
+    "Original tension render, matching-named Ableton set and collected samples preserved unchanged"
+  ],
+  "git_commit_hash": null,
+  "commit_lookup": "git log --follow -- creative/provenance/MUS-TENSION_milestone_001.json",
+  "sha256": "0e9272b7c38ed7c74e6ebe5a87cb1ea94e5f0973b3e0a6b722d674ba8377584b",
+  "files": [
+    {
+      "source": "OriginalCompositions\\PhoenixLynx - Halycion_Melody_Tension_11-14_2026.wav",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\PhoenixLynx - Halycion_Melody_Tension_11-14_2026.wav",
+      "sha256": "0e9272b7c38ed7c74e6ebe5a87cb1ea94e5f0973b3e0a6b722d674ba8377584b",
+      "bytes": 36873374
+    },
+    {
+      "source": "Halycion Project\\Halycion_Melody_Tension.als",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Halycion_Melody_Tension.als",
+      "sha256": "3b8f1d8b3cb728c2b087758b77fe5a18e2c944fdc1a0cafa148878c46804e8d2",
+      "bytes": 442649
+    },
+    {
+      "source": "Halycion Project\\Samples\\Closed Hihat\\Hihat-606-Closed.aif",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Samples\\Closed Hihat\\Hihat-606-Closed.aif",
+      "sha256": "872e6fda209b04533c1a747a86aa1531a0eef1c25ca14db679acf6789d9b23db",
+      "bytes": 208313
+    },
+    {
+      "source": "Halycion Project\\Samples\\Cymbal\\Cymbal-606.aif",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Samples\\Cymbal\\Cymbal-606.aif",
+      "sha256": "2dfeea17182d91f00023b5d90ee40dab0400acec8de2c5037fe4e33e74d57309",
+      "bytes": 669938
+    },
+    {
+      "source": "Halycion Project\\Samples\\Kick\\Kick-606-Mod.aif",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Samples\\Kick\\Kick-606-Mod.aif",
+      "sha256": "bc11b25b2f2dd230b9b0440467ef4c0703ed4bd0343d2d30cbf4240870fb37d0",
+      "bytes": 786779
+    },
+    {
+      "source": "Halycion Project\\Samples\\Kick\\Kick-606.aif",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Samples\\Kick\\Kick-606.aif",
+      "sha256": "75e381546351b694e990dbb61e8c95dc5ac2f2199b16cabc07a67d9e469d20b0",
+      "bytes": 311291
+    },
+    {
+      "source": "Halycion Project\\Samples\\Open Hihat\\Hihat-606-Combo.aif",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Samples\\Open Hihat\\Hihat-606-Combo.aif",
+      "sha256": "a441f65400df057776630688b01bc32d36dd24ccb67e9c3ca81ef4326194f064",
+      "bytes": 256778
+    },
+    {
+      "source": "Halycion Project\\Samples\\Open Hihat\\Hihat-606-Open.aif",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Samples\\Open Hihat\\Hihat-606-Open.aif",
+      "sha256": "9707b162dbba346d5fbddbee9a2472969e59f0a4f91d2f51acc76b1b7a206414",
+      "bytes": 346475
+    },
+    {
+      "source": "Halycion Project\\Samples\\Snare\\Snare-606.aif",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Samples\\Snare\\Snare-606.aif",
+      "sha256": "aea93e1adccfce6e064344040a746345da3a51ad19c41282739c4440803ec994",
+      "bytes": 66629
+    },
+    {
+      "source": "Halycion Project\\Samples\\Tom\\Tom-606-Hi.aif",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Samples\\Tom\\Tom-606-Hi.aif",
+      "sha256": "b30e3176fae864e184377de57af21731032517be3075495af9eecb31205e1cee",
+      "bytes": 246020
+    },
+    {
+      "source": "Halycion Project\\Samples\\Tom\\Tom-606-Low.aif",
+      "snapshot": "creative\\audio\\source\\MUS-TENSION_milestone_2026-11-15T060930Z\\Halycion Project\\Samples\\Tom\\Tom-606-Low.aif",
+      "sha256": "8f9fb13b80b95cd847007a3eadbc7cf9c5c716fa66cacb38474043c230ed7848",
+      "bytes": 293948
+    }
+  ],
+  "integration_status": "Source milestone; not an approved loop or integrated cue",
+  "validation": "Full WAV payload read; source and snapshot hashes match. No listening, key estimate, true peak or loop-seam test performed."
+}

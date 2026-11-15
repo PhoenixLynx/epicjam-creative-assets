@@ -1,0 +1,11 @@
+0e9272b7c38ed7c74e6ebe5a87cb1ea94e5f0973b3e0a6b722d674ba8377584b  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\PhoenixLynx - Halycion_Melody_Tension_11-14_2026.wav
+3b8f1d8b3cb728c2b087758b77fe5a18e2c944fdc1a0cafa148878c46804e8d2  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Halycion_Melody_Tension.als
+872e6fda209b04533c1a747a86aa1531a0eef1c25ca14db679acf6789d9b23db  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Samples\Closed Hihat\Hihat-606-Closed.aif
+2dfeea17182d91f00023b5d90ee40dab0400acec8de2c5037fe4e33e74d57309  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Samples\Cymbal\Cymbal-606.aif
+bc11b25b2f2dd230b9b0440467ef4c0703ed4bd0343d2d30cbf4240870fb37d0  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Samples\Kick\Kick-606-Mod.aif
+75e381546351b694e990dbb61e8c95dc5ac2f2199b16cabc07a67d9e469d20b0  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Samples\Kick\Kick-606.aif
+a441f65400df057776630688b01bc32d36dd24ccb67e9c3ca81ef4326194f064  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Samples\Open Hihat\Hihat-606-Combo.aif
+9707b162dbba346d5fbddbee9a2472969e59f0a4f91d2f51acc76b1b7a206414  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Samples\Open Hihat\Hihat-606-Open.aif
+aea93e1adccfce6e064344040a746345da3a51ad19c41282739c4440803ec994  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Samples\Snare\Snare-606.aif
+b30e3176fae864e184377de57af21731032517be3075495af9eecb31205e1cee  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Samples\Tom\Tom-606-Hi.aif
+8f9fb13b80b95cd847007a3eadbc7cf9c5c716fa66cacb38474043c230ed7848  creative\audio\source\MUS-TENSION_milestone_2026-11-15T060930Z\Halycion Project\Samples\Tom\Tom-606-Low.aif
