@@ -1,0 +1,50 @@
+{
+  "file": "OriginalCompositions\\PhoenixLynx - Halycion_Melody_Positive_11-14_2026.wav",
+  "sample_rate_hz": 44100,
+  "pcm_bits": 16,
+  "channels": 2,
+  "duration_seconds": 92.90324263038549,
+  "bpm_human_confirmed": 62,
+  "bpm_ableton_manual": 62,
+  "key_candidates": [
+    {
+      "key": "C major",
+      "correlation": 0.7183386852576149
+    },
+    {
+      "key": "G major",
+      "correlation": 0.5584346964015074
+    },
+    {
+      "key": "C minor",
+      "correlation": 0.5147186759771908
+    },
+    {
+      "key": "F major",
+      "correlation": 0.45952235904513
+    },
+    {
+      "key": "A minor",
+      "correlation": 0.43216952140674336
+    }
+  ],
+  "pitch_class_strength": {
+    "C": 0.12537737139982602,
+    "C#": 0.05272061345945694,
+    "D": 0.08550551914382902,
+    "D#": 0.05731549920665349,
+    "E": 0.07498020467072443,
+    "F": 0.07453130893006796,
+    "F#": 0.07180036915203898,
+    "G": 0.10575884777271782,
+    "G#": 0.08199972090396307,
+    "A": 0.08371730061229822,
+    "A#": 0.09555501354079553,
+    "B": 0.0907382312076284
+  },
+  "sample_peak_dbfs": -7.363512700957505,
+  "rms_dbfs": -24.18451045153151,
+  "full_scale_samples": 0,
+  "method": "Read-only numpy FFT local-peak chroma, square-root spectral weighting, major/minor profile correlation; 65-2100 Hz, 8192 frame, 4096 hop, downsample4. Tempo not estimated from audio.",
+  "limitations": "Rough tonal estimate, not a transcription or listening judgment. Harmonics/drums/mix and unfiltered downsampling can bias scores. Correlation is not probability. No LUFS or true-peak measurement. No audio modified."
+}
