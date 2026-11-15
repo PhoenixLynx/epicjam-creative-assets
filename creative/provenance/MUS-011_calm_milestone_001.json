@@ -1,0 +1,236 @@
+{
+  "asset_id": "MUS-011-CALM-MILESTONE-001",
+  "descriptive_filename": "OriginalCompositions\\PhoenixLynx - Halycion_Melody_Calm_48KHz_11-14_2026.wav",
+  "purpose": "Human calm melody source candidate; not yet approved game loop",
+  "human_contributors": [
+    "PhoenixLynx: composition/render; confirms same 62 BPM and suggests C minor"
+  ],
+  "ai_systems_and_tools": [
+    "Sol / ChatGPT: archival copy, metadata and spectral analysis only",
+    "Python wave/numpy/hashlib/XML"
+  ],
+  "original_creation_utc": null,
+  "first_observed_utc": "2026-11-15T02:45:21Z",
+  "snapshot_recorded_utc": "2026-11-15T02:47:02.615501+00:00",
+  "timestamp_limits": "Clock tool observation time, not proof of original composition date or independent timestamp certificate",
+  "completion_evidence": "Stable size/mtime across observations; user confirmed render is there; full declared WAV payload read; hash unchanged after analysis and copy",
+  "source_prompts": [
+    "User requests formal asset recording and key estimate after render finishes"
+  ],
+  "settings": {
+    "ableton_creator": "Ableton Live 12.2.7",
+    "bpm_human": 62,
+    "tempo_manual_values": [
+      {
+        "Value": "62"
+      }
+    ],
+    "audio": {
+      "rate_hz": 44100,
+      "pcm_bits": 24,
+      "channels": 2,
+      "frames": 4438452,
+      "duration_seconds": 100.64517006802721,
+      "sample_peak_dbfs": -7.00640844490962,
+      "rms_dbfs": -20.22179327567165,
+      "full_scale_samples": 0,
+      "key_candidates": [
+        {
+          "key": "C# major",
+          "correlation": 0.9473761255197545
+        },
+        {
+          "key": "Bb minor",
+          "correlation": 0.6680865235553766
+        },
+        {
+          "key": "F minor",
+          "correlation": 0.5548169441432278
+        },
+        {
+          "key": "F# major",
+          "correlation": 0.5544213285295299
+        },
+        {
+          "key": "Ab major",
+          "correlation": 0.5266436984376827
+        }
+      ],
+      "key_by_thirds": [
+        [
+          {
+            "key": "C# major",
+            "correlation": 0.9472290671078298
+          },
+          {
+            "key": "Bb minor",
+            "correlation": 0.6377784093463389
+          }
+        ],
+        [
+          {
+            "key": "C# major",
+            "correlation": 0.942722252407348
+          },
+          {
+            "key": "Bb minor",
+            "correlation": 0.6844984395291527
+          }
+        ],
+        [
+          {
+            "key": "C# major",
+            "correlation": 0.9464520891905098
+          },
+          {
+            "key": "Bb minor",
+            "correlation": 0.6783270257692169
+          }
+        ]
+      ],
+      "method": "Native-rate FFT local-peak pitch-class profile, 32768 frame/16384 hop, 65-2100Hz, square-root magnitude weighting, major/minor profile correlation.",
+      "limitations": "Rough spectral estimate, not listening or transcription. Harmonics and mix can bias key. Scores are correlations, not probabilities. Sample peak is not true peak; no LUFS measurement. Loop seams not tested."
+    }
+  },
+  "input_references_and_dependencies": [
+    "../../../../../../mre/Documents/Ableton/User Library/Presets/Instruments/SubZero/sz_rhodish.adv",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/Compressor",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/EQ Eight",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/Limiter",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/Resonators",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Audio Effects/Saturator",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Designer Drums/Devices/Instruments/Operator",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Compressor",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Dynamic Tube",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Glue Compressor",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Reverb",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Audio Effects/Simple Delay",
+    "../../../../../OneDrive/Documents/Ableton/Factory Packs/Drum Machines/Devices/Instruments/Sampler",
+    "Devices/Audio Effects/Compressor/Mix Gel.adv",
+    "Devices/Audio Effects/Delay/Clean Delay/16th Dub.adv",
+    "Devices/Audio Effects/EQ Eight",
+    "Devices/Audio Effects/Limiter",
+    "Devices/Audio Effects/Limiter/Maximizer.adv",
+    "Devices/Audio Effects/Multiband Dynamics/Multiband Compression.adv",
+    "Devices/Audio Effects/Roar/Mix Fat Tape.adv",
+    "Devices/Audio Effects/Saturator/A Bit Warmer.adv",
+    "Devices/Audio Effects/Simple Delay/Dotted Eighth Note.adv",
+    "Devices/Audio Effects/Utility",
+    "Devices/Audio Effects/Utility/Bass Mono.adv",
+    "Devices/Instruments/Meld/Synth Lead/Happy Chords.adv",
+    "Devices/Instruments/Operator/Synth Pad/5ths Glass Motion Pad.adv",
+    "Devices/Instruments/Wavetable/Synth Pad/Analog Soft Pad.adv",
+    "Drums/Drum Hits/Clap/Clappers.adg",
+    "Drums/Drum Hits/Cymbal/Short Mean Crash.adg",
+    "Drums/Drum Hits/Hihat/Clang Open.adg",
+    "Drums/Drum Hits/Hihat/Tight Hat.adg",
+    "Drums/Drum Hits/Kick/Thump.adg",
+    "Drums/Drum Hits/Ride/Short Mean Ride.adg",
+    "Drums/Drum Hits/Rim/Pitch Stick.adg",
+    "Drums/Drum Hits/Snare/Ringy Snare.adg",
+    "Drums/Drum Hits/Synth Percussion/Clang Pedal.adg",
+    "Drums/Drum Hits/Synth Percussion/Whip It.adg",
+    "Drums/Drum Hits/Tom/Hi-Mid Tom.adg",
+    "Drums/Drum Hits/Tom/High Floor.adg",
+    "Drums/Drum Hits/Tom/High Tom.adg",
+    "Drums/Drum Hits/Tom/Low Floor.adg",
+    "Drums/Drum Hits/Tom/Low Tom.adg",
+    "Drums/Drum Hits/Tom/Low-Mid Tom.adg",
+    "Drums/Effected Drum Kits/Kit-606 Body Electric.adg",
+    "Drums/Kit-Pitchy.adg",
+    "Presets/Audio Effects/Audio Effect Rack/DystopiaMaster.adg",
+    "Racks/Instrument Racks/Mallets/Obelisk Bells.adg",
+    "Racks/Instrument Racks/Pad/After Glow Pad.adg",
+    "Racks/Instrument Racks/Pad/Basic Mellow Pad.adg",
+    "Samples/Closed Hihat/Hihat-606-Closed.aif",
+    "Samples/Cymbal/Cymbal-606.aif",
+    "Samples/Hybrid/ImpulseResponses/Hybrid_Early_Reflections_Deep Stone L.aif",
+    "Samples/Hybrid/ImpulseResponses/Hybrid_Early_Reflections_Deep Stone R.aif",
+    "Samples/Kick/Kick-606-Mod.aif",
+    "Samples/Kick/Kick-606.aif",
+    "Samples/Open Hihat/Hihat-606-Combo.aif",
+    "Samples/Open Hihat/Hihat-606-Open.aif",
+    "Samples/Snare/Snare-606.aif",
+    "Samples/Tom/Tom-606-Hi.aif",
+    "Samples/Tom/Tom-606-Low.aif",
+    "Sound Browser/3 Drum Kits/Kit/Kit-Pitchy.adg"
+  ],
+  "dependency_limits": "Only available collected samples copied; external presets/plugins not copied. Source-to-render association inferred from naming/timing; not reproduced.",
+  "origin_classification": "User-created calm composition; dependency attribution pending human confirmation",
+  "license_and_attribution": "No public license granted; sample/preset rights and pre-jam source material not yet confirmed",
+  "revision_history": [
+    "First calm render snapshot; original unchanged",
+    "Header verification found 44100Hz despite 48KHz filename; director informed."
+  ],
+  "git_commit_hash": null,
+  "sha256": "2f9dd4b36cdde0eac3167147bd175f8156c94a3c0b1149ecb99420dce97124ac",
+  "files": [
+    {
+      "source": "OriginalCompositions\\PhoenixLynx - Halycion_Melody_Calm_48KHz_11-14_2026.wav",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\PhoenixLynx - Halycion_Melody_Calm_48KHz_11-14_2026.wav",
+      "sha256": "2f9dd4b36cdde0eac3167147bd175f8156c94a3c0b1149ecb99420dce97124ac",
+      "bytes": 26630792
+    },
+    {
+      "source": "Halycion Project\\Halycion_Melody_Calm.als",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Halycion_Melody_Calm.als",
+      "sha256": "58f73d0cee920431ecfc6c30fa7809b122936e048da7e8e94d42f65de86da513",
+      "bytes": 427964
+    },
+    {
+      "source": "Halycion Project\\Samples\\Closed Hihat\\Hihat-606-Closed.aif",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Samples\\Closed Hihat\\Hihat-606-Closed.aif",
+      "sha256": "872e6fda209b04533c1a747a86aa1531a0eef1c25ca14db679acf6789d9b23db",
+      "bytes": 208313
+    },
+    {
+      "source": "Halycion Project\\Samples\\Cymbal\\Cymbal-606.aif",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Samples\\Cymbal\\Cymbal-606.aif",
+      "sha256": "2dfeea17182d91f00023b5d90ee40dab0400acec8de2c5037fe4e33e74d57309",
+      "bytes": 669938
+    },
+    {
+      "source": "Halycion Project\\Samples\\Kick\\Kick-606-Mod.aif",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Samples\\Kick\\Kick-606-Mod.aif",
+      "sha256": "bc11b25b2f2dd230b9b0440467ef4c0703ed4bd0343d2d30cbf4240870fb37d0",
+      "bytes": 786779
+    },
+    {
+      "source": "Halycion Project\\Samples\\Kick\\Kick-606.aif",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Samples\\Kick\\Kick-606.aif",
+      "sha256": "75e381546351b694e990dbb61e8c95dc5ac2f2199b16cabc07a67d9e469d20b0",
+      "bytes": 311291
+    },
+    {
+      "source": "Halycion Project\\Samples\\Open Hihat\\Hihat-606-Combo.aif",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Samples\\Open Hihat\\Hihat-606-Combo.aif",
+      "sha256": "a441f65400df057776630688b01bc32d36dd24ccb67e9c3ca81ef4326194f064",
+      "bytes": 256778
+    },
+    {
+      "source": "Halycion Project\\Samples\\Open Hihat\\Hihat-606-Open.aif",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Samples\\Open Hihat\\Hihat-606-Open.aif",
+      "sha256": "9707b162dbba346d5fbddbee9a2472969e59f0a4f91d2f51acc76b1b7a206414",
+      "bytes": 346475
+    },
+    {
+      "source": "Halycion Project\\Samples\\Snare\\Snare-606.aif",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Samples\\Snare\\Snare-606.aif",
+      "sha256": "aea93e1adccfce6e064344040a746345da3a51ad19c41282739c4440803ec994",
+      "bytes": 66629
+    },
+    {
+      "source": "Halycion Project\\Samples\\Tom\\Tom-606-Hi.aif",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Samples\\Tom\\Tom-606-Hi.aif",
+      "sha256": "b30e3176fae864e184377de57af21731032517be3075495af9eecb31205e1cee",
+      "bytes": 246020
+    },
+    {
+      "source": "Halycion Project\\Samples\\Tom\\Tom-606-Low.aif",
+      "snapshot": "creative\\audio\\source\\MUS-011_calm_milestone_2026-11-15T024521Z\\Halycion Project\\Samples\\Tom\\Tom-606-Low.aif",
+      "sha256": "8f9fb13b80b95cd847007a3eadbc7cf9c5c716fa66cacb38474043c230ed7848",
+      "bytes": 293948
+    }
+  ],
+  "integration_status": "Archived source candidate; actual rate 44100Hz, awaiting 48000Hz export plus human approval and loop test"
+}

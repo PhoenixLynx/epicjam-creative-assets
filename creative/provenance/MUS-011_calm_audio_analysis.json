@@ -1,0 +1,66 @@
+{
+  "rate_hz": 44100,
+  "pcm_bits": 24,
+  "channels": 2,
+  "frames": 4438452,
+  "duration_seconds": 100.64517006802721,
+  "sample_peak_dbfs": -7.00640844490962,
+  "rms_dbfs": -20.22179327567165,
+  "full_scale_samples": 0,
+  "key_candidates": [
+    {
+      "key": "C# major",
+      "correlation": 0.9473761255197545
+    },
+    {
+      "key": "Bb minor",
+      "correlation": 0.6680865235553766
+    },
+    {
+      "key": "F minor",
+      "correlation": 0.5548169441432278
+    },
+    {
+      "key": "F# major",
+      "correlation": 0.5544213285295299
+    },
+    {
+      "key": "Ab major",
+      "correlation": 0.5266436984376827
+    }
+  ],
+  "key_by_thirds": [
+    [
+      {
+        "key": "C# major",
+        "correlation": 0.9472290671078298
+      },
+      {
+        "key": "Bb minor",
+        "correlation": 0.6377784093463389
+      }
+    ],
+    [
+      {
+        "key": "C# major",
+        "correlation": 0.942722252407348
+      },
+      {
+        "key": "Bb minor",
+        "correlation": 0.6844984395291527
+      }
+    ],
+    [
+      {
+        "key": "C# major",
+        "correlation": 0.9464520891905098
+      },
+      {
+        "key": "Bb minor",
+        "correlation": 0.6783270257692169
+      }
+    ]
+  ],
+  "method": "Native-rate FFT local-peak pitch-class profile, 32768 frame/16384 hop, 65-2100Hz, square-root magnitude weighting, major/minor profile correlation.",
+  "limitations": "Rough spectral estimate, not listening or transcription. Harmonics and mix can bias key. Scores are correlations, not probabilities. Sample peak is not true peak; no LUFS measurement. Loop seams not tested."
+}
