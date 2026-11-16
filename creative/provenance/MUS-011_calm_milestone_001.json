@@ -11,7 +11,7 @@
   ],
   "original_creation_utc": null,
   "first_observed_utc": "2026-11-15T02:45:21Z",
-  "snapshot_recorded_utc": "2026-11-15T02:47:02.615501+00:00",
+  "snapshot_recorded_utc": "2026-11-14T19:47:02.615501-07:00",
   "timestamp_limits": "Clock tool observation time, not proof of original composition date or independent timestamp certificate",
   "completion_evidence": "Stable size/mtime across observations; user confirmed render is there; full declared WAV payload read; hash unchanged after analysis and copy",
   "source_prompts": [
@@ -162,7 +162,7 @@
     "First calm render snapshot; original unchanged",
     "Header verification found 44100Hz despite 48KHz filename; director informed."
   ],
-  "git_commit_hash": null,
+  "git_commit_hash": "7b2d69f5d49225a577552390c595b8cd80e9648d",
   "sha256": "2f9dd4b36cdde0eac3167147bd175f8156c94a3c0b1149ecb99420dce97124ac",
   "files": [
     {

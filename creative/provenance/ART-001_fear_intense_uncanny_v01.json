@@ -1,0 +1,46 @@
+{
+  "asset_id": "ART-001-FEAR-INTENSE-UNCANNY-V01",
+  "filename": "creative\\art\\exports\\ART-001_face_fear_intense_1024_uncanny_v01.png",
+  "purpose": "Intensified mannequin Fear face candidate",
+  "human_contributors": [
+    "PhoenixLynx: requested scariest Fear variant and stronger dark circles"
+  ],
+  "ai_systems": [
+    "Sol / ChatGPT",
+    "OpenAI built-in image_gen"
+  ],
+  "tools": [
+    "image_gen",
+    "System.Drawing export_faces.ps1",
+    "Pillow validation"
+  ],
+  "original_creation_utc": null,
+  "recorded_utc": "2026-11-14T22:54:52.637540+00:00",
+  "source_prompts": "creative/provenance/ART-001_fear_intense_uncanny_v01_prompt.json",
+  "settings": {
+    "transparent_background": true,
+    "source_size": [
+      1254,
+      1254
+    ],
+    "export_size": [
+      1024,
+      1024
+    ]
+  },
+  "input_references": [
+    "creative/art/source/ART-001_face_fear_uncanny_v01.png"
+  ],
+  "classification": "Derivative revision of original AI-assisted project face artwork",
+  "license_attribution": "Retain project provenance ancestry and AI disclosure; no new external reference images or third-party license assertions",
+  "revision_history": [
+    "Larger darker charcoal-violet eye circles, bone-white eyes, fixed pupils and tense smile"
+  ],
+  "source_file": "creative\\art\\source\\ART-001_face_fear_intense_uncanny_v01.png",
+  "source_sha256": "44c6fb79f088b427bf914fd25f9dc71fcc865a67823d7126f9a96699950ac632",
+  "sha256": "0cce3bcb1246bd19bab76587bc697fc2116efc054a9beb610f5119482664dfd7",
+  "reference_sha256": "22e0038b363a48ebb7cadb5b8f0a1fabf37f054256fa050fd970077c3c992f1a",
+  "git_commit": null,
+  "integration_status": "Exported, awaiting human review; not integrated",
+  "validation": "1024x1024 RGBA, alpha 0..255, all corners transparent. In-game fit/readability pending"
+}

@@ -1,0 +1,56 @@
+{
+  "asset_id": "ART-001-FEAR-INTENSE-UNCANNY-V05",
+  "filename": "creative\\art\\exports\\ART-001_face_fear_intense_1024_uncanny_v05.png",
+  "purpose": "Charcoal curled doll grin and red glowing eyes without whites",
+  "human_contributors": [
+    "PhoenixLynx: requested neutral mouth color, no eye whites, more curved smile ends"
+  ],
+  "ai_systems": [
+    "Sol / ChatGPT",
+    "OpenAI built-in image_gen"
+  ],
+  "tools": [
+    "image_gen",
+    "System.Drawing export_faces.ps1",
+    "Pillow validation"
+  ],
+  "original_creation_utc": null,
+  "recorded_utc": "2026-11-14T23:11:57.558793+00:00",
+  "source_prompts": "creative/provenance/ART-001_fear_intense_uncanny_v05_prompt.json",
+  "settings": {
+    "transparent_background": true,
+    "source_size": [
+      1254,
+      1254
+    ],
+    "export_size": [
+      1024,
+      1024
+    ]
+  },
+  "input_references": [
+    {
+      "path": "creative\\art\\source\\ART-001_face_fear_intense_uncanny_v04.png",
+      "sha256": "ad85d494d8f953e1fb312c700604c02c024db13a4c9867be6bf76b22e11ed8ea"
+    },
+    {
+      "path": "C:\\Users\\casse\\Downloads\\images (3).jpg",
+      "sha256": "bba4a2fc51b5604e9965cdc68a4013d45e72e4cee021bff4741147538d682b72"
+    }
+  ],
+  "classification": "AI-assisted derivative revision of project face; external image used as mood reference",
+  "license_attribution": "External reference authorship and license unverified; reference not redistributed. Retain AI disclosure and source ancestry; no rights clearance asserted.",
+  "revision_history": [
+    "v01: oversized eye bags rejected as panda-like",
+    "v02: earlier Fear layout reference, thin tapered shadows, sharper eyes and pointed teeth",
+    "v03: replace fangs with stretched asymmetric crescent smile and small central tooth sliver; preserve eyes and thin shadows",
+    "v04: deeper tapered open smile, layered thin under-eye rings, compact red glowing irises",
+    "v05: charcoal mouth, upward curled smile corners, dark eye sockets with red glow and no whites"
+  ],
+  "source_file": "creative\\art\\source\\ART-001_face_fear_intense_uncanny_v05.png",
+  "source_sha256": "1d569b23bddb17cf59693f2a70b489cd61a637813aab056091243498a32e7a5c",
+  "sha256": "79949acfe2193cd2f8235b24d5cc481c5cd93b5b84e6e48b0984017303bfbb21",
+  "git_commit": null,
+  "integration_status": "Exported for human review; not integrated",
+  "validation": "1024x1024 RGBA, alpha 0..255, transparent corners. UV fit and readability pending. Glow is painted into PNG; Unreal emission/bloom not implemented."
+}

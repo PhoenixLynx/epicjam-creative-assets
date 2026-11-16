@@ -1,0 +1,289 @@
+[
+  {
+    "asset_id": "ART-002_title_original_v11",
+    "filename": "creative/art/source/ART-002_title_original_v11.png",
+    "purpose": "Title background or itch cover key-pass revision",
+    "human_contributors": [
+      "PhoenixLynx: creative direction, references, revision request"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export scripts"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:12:31.8415465Z",
+    "prompts": "creative/provenance/ART_keypass_prompts.json",
+    "settings": {
+      "dimensions": [
+        1672,
+        941
+      ],
+      "transparent_background": false
+    },
+    "classification": "AI-generated derivative revision of prior project artwork",
+    "dependencies": [
+      "ART-002 v10 or ART-003 v01 source",
+      "Game Witness/Reel/Eye glyph references",
+      "Lanyard.avif cord reference; converted preview",
+      "images.jpg inspected hardware reference; not sent to generator"
+    ],
+    "license_attribution": "External reference rights unverified; references used for construction only, not distributed as game assets. Retain AI disclosure and prior artwork ancestry. Project glyph source attribution inherited; not independently verified.",
+    "revision_history": [
+      "2026-11-14: thin portrait key pass, mint cord, small clasp and three cyan glyphs; previous versions preserved"
+    ],
+    "git_commit": null,
+    "sha256": "26c0549c30c62b31a68a6ccec836301b812d413b4450f6ce7963e5e6c1368280",
+    "integration_status": "Awaiting human review; not imported",
+    "notes": "Glyphs are generated approximations, not exact UI glyph textures. TAKE 4471 remains provisional; title overlay is separate."
+  },
+  {
+    "asset_id": "ART-003_cover_original_v02",
+    "filename": "creative/art/source/ART-003_cover_original_v02.png",
+    "purpose": "Title background or itch cover key-pass revision",
+    "human_contributors": [
+      "PhoenixLynx: creative direction, references, revision request"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export scripts"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:12:31.8900569Z",
+    "prompts": "creative/provenance/ART_keypass_prompts.json",
+    "settings": {
+      "dimensions": [
+        1408,
+        1117
+      ],
+      "transparent_background": false
+    },
+    "classification": "AI-generated derivative revision of prior project artwork",
+    "dependencies": [
+      "ART-002 v10 or ART-003 v01 source",
+      "Game Witness/Reel/Eye glyph references",
+      "Lanyard.avif cord reference; converted preview",
+      "images.jpg inspected hardware reference; not sent to generator"
+    ],
+    "license_attribution": "External reference rights unverified; references used for construction only, not distributed as game assets. Retain AI disclosure and prior artwork ancestry. Project glyph source attribution inherited; not independently verified.",
+    "revision_history": [
+      "2026-11-14: thin portrait key pass, mint cord, small clasp and three cyan glyphs; previous versions preserved"
+    ],
+    "git_commit": null,
+    "sha256": "f0269636273d5ec36479a4a9a46d3804853713379e3ac96fc05f79ebd2d8cc4e",
+    "integration_status": "Awaiting human review; not imported",
+    "notes": "Glyphs are generated approximations, not exact UI glyph textures. TAKE 4471 remains provisional; title overlay is separate."
+  },
+  {
+    "asset_id": "title_keyart_v11",
+    "filename": "creative/art/exports/title_keyart_v11.png",
+    "purpose": "Title background or itch cover key-pass revision",
+    "human_contributors": [
+      "PhoenixLynx: creative direction, references, revision request"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export scripts"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:12:31.9330840Z",
+    "prompts": "creative/provenance/ART_keypass_prompts.json",
+    "settings": {
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "transparent_background": false
+    },
+    "classification": "AI-generated derivative revision of prior project artwork",
+    "dependencies": [
+      "ART-002 v10 or ART-003 v01 source",
+      "Game Witness/Reel/Eye glyph references",
+      "Lanyard.avif cord reference; converted preview",
+      "images.jpg inspected hardware reference; not sent to generator"
+    ],
+    "license_attribution": "External reference rights unverified; references used for construction only, not distributed as game assets. Retain AI disclosure and prior artwork ancestry. Project glyph source attribution inherited; not independently verified.",
+    "revision_history": [
+      "2026-11-14: thin portrait key pass, mint cord, small clasp and three cyan glyphs; previous versions preserved"
+    ],
+    "git_commit": null,
+    "sha256": "ba72be2a91a813fce152db2dee2e296b8b3fc17a4189d7383f3678214680b0a1",
+    "integration_status": "Awaiting human review; not imported",
+    "notes": "Glyphs are generated approximations, not exact UI glyph textures. TAKE 4471 remains provisional; title overlay is separate."
+  },
+  {
+    "asset_id": "itch_cover_art_v02",
+    "filename": "creative/art/exports/itch_cover_art_v02.png",
+    "purpose": "Title background or itch cover key-pass revision",
+    "human_contributors": [
+      "PhoenixLynx: creative direction, references, revision request"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export scripts"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:12:31.9548719Z",
+    "prompts": "creative/provenance/ART_keypass_prompts.json",
+    "settings": {
+      "dimensions": [
+        630,
+        500
+      ],
+      "transparent_background": false
+    },
+    "classification": "AI-generated derivative revision of prior project artwork",
+    "dependencies": [
+      "ART-002 v10 or ART-003 v01 source",
+      "Game Witness/Reel/Eye glyph references",
+      "Lanyard.avif cord reference; converted preview",
+      "images.jpg inspected hardware reference; not sent to generator"
+    ],
+    "license_attribution": "External reference rights unverified; references used for construction only, not distributed as game assets. Retain AI disclosure and prior artwork ancestry. Project glyph source attribution inherited; not independently verified.",
+    "revision_history": [
+      "2026-11-14: thin portrait key pass, mint cord, small clasp and three cyan glyphs; previous versions preserved"
+    ],
+    "git_commit": null,
+    "sha256": "4b8c7cb0be9b2dc536661e3cc7db9f9e8022995ed5e32ce000c8452d0b9d9b8b",
+    "integration_status": "Awaiting human review; not imported",
+    "notes": "Glyphs are generated approximations, not exact UI glyph textures. TAKE 4471 remains provisional; title overlay is separate."
+  },
+  {
+    "asset_id": "itch_cover_art_315_v02",
+    "filename": "creative/art/exports/itch_cover_art_315_v02.png",
+    "purpose": "Title background or itch cover key-pass revision",
+    "human_contributors": [
+      "PhoenixLynx: creative direction, references, revision request"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export scripts"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:12:31.9690212Z",
+    "prompts": "creative/provenance/ART_keypass_prompts.json",
+    "settings": {
+      "dimensions": [
+        315,
+        250
+      ],
+      "transparent_background": false
+    },
+    "classification": "AI-generated derivative revision of prior project artwork",
+    "dependencies": [
+      "ART-002 v10 or ART-003 v01 source",
+      "Game Witness/Reel/Eye glyph references",
+      "Lanyard.avif cord reference; converted preview",
+      "images.jpg inspected hardware reference; not sent to generator"
+    ],
+    "license_attribution": "External reference rights unverified; references used for construction only, not distributed as game assets. Retain AI disclosure and prior artwork ancestry. Project glyph source attribution inherited; not independently verified.",
+    "revision_history": [
+      "2026-11-14: thin portrait key pass, mint cord, small clasp and three cyan glyphs; previous versions preserved"
+    ],
+    "git_commit": null,
+    "sha256": "8afbc75e12f2a1e11d02d499c6f1a9265aec6d39841f733ad85353e535999b73",
+    "integration_status": "Awaiting human review; not imported",
+    "notes": "Glyphs are generated approximations, not exact UI glyph textures. TAKE 4471 remains provisional; title overlay is separate."
+  },
+  {
+    "asset_id": "itch_cover_working_title_v02",
+    "filename": "creative/art/exports/itch_cover_working_title_v02.png",
+    "purpose": "Title background or itch cover key-pass revision",
+    "human_contributors": [
+      "PhoenixLynx: creative direction, references, revision request"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export scripts"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:12:31.9880265Z",
+    "prompts": "creative/provenance/ART_keypass_prompts.json",
+    "settings": {
+      "dimensions": [
+        630,
+        500
+      ],
+      "transparent_background": false
+    },
+    "classification": "AI-generated derivative revision of prior project artwork",
+    "dependencies": [
+      "ART-002 v10 or ART-003 v01 source",
+      "Game Witness/Reel/Eye glyph references",
+      "Lanyard.avif cord reference; converted preview",
+      "images.jpg inspected hardware reference; not sent to generator"
+    ],
+    "license_attribution": "External reference rights unverified; references used for construction only, not distributed as game assets. Retain AI disclosure and prior artwork ancestry. Project glyph source attribution inherited; not independently verified.",
+    "revision_history": [
+      "2026-11-14: thin portrait key pass, mint cord, small clasp and three cyan glyphs; previous versions preserved"
+    ],
+    "git_commit": null,
+    "sha256": "ffe0967534ff05c98d3a74ebf0a551afd7f7e3c3d466ab3600e8ecd37754f471",
+    "integration_status": "Awaiting human review; not imported",
+    "notes": "Glyphs are generated approximations, not exact UI glyph textures. TAKE 4471 remains provisional; title overlay is separate."
+  },
+  {
+    "asset_id": "itch_cover_working_title_315_v02",
+    "filename": "creative/art/exports/itch_cover_working_title_315_v02.png",
+    "purpose": "Title background or itch cover key-pass revision",
+    "human_contributors": [
+      "PhoenixLynx: creative direction, references, revision request"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export scripts"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:12:32.0037070Z",
+    "prompts": "creative/provenance/ART_keypass_prompts.json",
+    "settings": {
+      "dimensions": [
+        315,
+        250
+      ],
+      "transparent_background": false
+    },
+    "classification": "AI-generated derivative revision of prior project artwork",
+    "dependencies": [
+      "ART-002 v10 or ART-003 v01 source",
+      "Game Witness/Reel/Eye glyph references",
+      "Lanyard.avif cord reference; converted preview",
+      "images.jpg inspected hardware reference; not sent to generator"
+    ],
+    "license_attribution": "External reference rights unverified; references used for construction only, not distributed as game assets. Retain AI disclosure and prior artwork ancestry. Project glyph source attribution inherited; not independently verified.",
+    "revision_history": [
+      "2026-11-14: thin portrait key pass, mint cord, small clasp and three cyan glyphs; previous versions preserved"
+    ],
+    "git_commit": null,
+    "sha256": "0f58142b43fc002dcb49b3adee843eacf8ef253a4bbf1fa813d2aad4705856e7",
+    "integration_status": "Awaiting human review; not imported",
+    "notes": "Glyphs are generated approximations, not exact UI glyph textures. TAKE 4471 remains provisional; title overlay is separate."
+  }
+]

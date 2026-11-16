@@ -1,0 +1,9 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "prompt": "Precise edit of image 1 HALCYON transparent mannequin face decal. Make ONLY these changes: (1) Mouth entirely neutral deep charcoal/near-black, with subtle blue-charcoal edge matching eyebrows. NO red, burgundy, purple or pink lips. Preserve deep doll-smile opening but replace the straight pointed outer ends with distinctly CURVED upward sweeping hooks, soft S-curve at BOTH corners curling toward cheeks, like a stretched sinister doll smile. Ends taper smoothly, no straight triangular wedge corners. Center remains deep softly rounded, subtle asymmetry. No teeth. (2) Remove ALL white/cream from eyes, including sclera and highlight dots. Eye sockets completely dark charcoal, containing compact saturated luminous RED centers with red/crimson glow only, NO WHITE or yellow pixels/glints. Red glowing stare in darkness, no visible white eye surround. (3) Preserve three slim dark violet-grey under-eye crescents, brows, approximate UV feature centers, scale and simple clean uncanny minimalist graphic aesthetic. Image 2 is expression reference only for curled doll grin geometry; do not reproduce the doll, watermark, skin, hair or clothing. Facial marks only on genuine transparent background; no head outline, skin fill, nose, text or background. 1024x1024 square desired. Bold legibility on small round head 2–5m away. No extra details.",
+  "transparent_background": true,
+  "reference_images": [
+    "creative/art/source/ART-001_face_fear_intense_uncanny_v04.png",
+    "C:/Users/casse/Downloads/images (3).jpg"
+  ]
+}

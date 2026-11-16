@@ -1,0 +1,12 @@
+{
+  "tool": "built-in image_gen",
+  "common_prompt": "Use case: precise-object-edit. Edit image 1 only; retain its composition, camera, office architecture, lighting, front-facing DIRECTOR chair, floor X, CCTV, mug, HALCYON branding and exactly its current restrained stylized video-game detail level. Replace ONLY the clunky foreground lanyard and badge: a much narrower supple mint braided cord loosely resting naturally on desk, a single small realistic polished metal swivel clasp through a slot at top of a THIN portrait-oriented credit-card-sized access key pass. No giant double hinges, thick slab, chunky strap or bulky badge frame. Reference 2 is ONLY cord/clasp/pass construction references: do not copy blue color, droplet logo, photo background or water-brand design. Pass uses HALCYON half-sun logo and HALCYON lettering, off-white and mint/blue-grey design, employee number 4471 smaller, subtle cyan holographic glyphs beneath logo. References 3,4,5 are actual game glyphs: Witness (two upright slots with central line and dot), Reel (concentric circles), Eye (triangle with oval). Reproduce these three distinctive simple symbols on pass in a small orderly row, gentle cyan light, no huge bloom. Preserve empty wall for separately rendered title and menu. No new HUD, no main title. Match original image aspect ratio. This is an original game illustration revision.",
+  "lobby_suffix": " Output a wide 16:9 reception-lobby background.",
+  "cover_suffix": " Output same 1.26:1 landscape cover composition as image 1. Keep the empty left wall entirely clear for separate title typography.",
+  "references": [
+    "C:/Users/casse/Documents/Agentic/EpicJam/Music_Video_Assets/creative/art/source/lanyard_reference_preview.png",
+    "C:/Users/casse/Documents/Agentic/EpicJam/DirectorsCut_58/SourceArt/Textures/UI/Glyphs/T_Glyph0_Witness_Lit.png",
+    "C:/Users/casse/Documents/Agentic/EpicJam/DirectorsCut_58/SourceArt/Textures/UI/Glyphs/T_Glyph1_Reel_Lit.png",
+    "C:/Users/casse/Documents/Agentic/EpicJam/DirectorsCut_58/SourceArt/Textures/UI/Glyphs/T_Glyph2_Eye_Lit.png"
+  ]
+}

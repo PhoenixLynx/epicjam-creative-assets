@@ -11,7 +11,7 @@
   "original_creation_utc": null,
   "first_observed_utc": "2026-11-15T02:01:59Z",
   "observation_source": "clock.curr_time tool during first file inventory",
-  "snapshot_recorded_utc": "2026-11-15T02:02:55.398409+00:00",
+  "snapshot_recorded_utc": "2026-11-14T19:02:55.398409-07:00",
   "timestamp_limits": "Observation time, not proof of composition date. Filesystem mtime is recorded metadata, not trusted creation evidence. No independent timestamp authority receipt obtained.",
   "source_prompts": [
     "User: I made an original melody happy render, it is a new folder; record a timestamp and supporting evidence."
@@ -94,84 +94,84 @@
   "revision_history": [
     "First observed happy render and current Ableton set preserved unchanged; earlier source history retained"
   ],
-  "git_commit_hash": null,
+  "git_commit_hash": "b170b8362c7a85ed2032526acc9e52be22a81ca4",
   "files": [
     {
       "source": "OriginalCompositions\\PhoenixLynx - Halycion_Melody_Positive_11-14_2026.wav",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\PhoenixLynx - Halycion_Melody_Positive_11-14_2026.wav",
       "sha256": "b2efec281c0cb06494ac97332e0bbb51793123cea94a01070746ba8ed9f647bb",
       "bytes": 16388212,
-      "source_mtime_utc": "2026-11-15T02:00:59.343071+00:00"
+      "source_mtime_utc": "2026-11-14T19:00:59.343071-07:00"
     },
     {
       "source": "Halycion Project\\Halycion_Melody_Positive.als",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Halycion_Melody_Positive.als",
       "sha256": "ac66456d001985d2d327335fabde892969b401d49eb0900e12fec950dfc24443",
       "bytes": 359415,
-      "source_mtime_utc": "2026-11-15T02:01:08.764958+00:00"
+      "source_mtime_utc": "2026-11-14T19:01:08.764958-07:00"
     },
     {
       "source": "Halycion Project\\Samples\\Closed Hihat\\Hihat-606-Closed.aif",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Samples\\Closed Hihat\\Hihat-606-Closed.aif",
       "sha256": "872e6fda209b04533c1a747a86aa1531a0eef1c25ca14db679acf6789d9b23db",
       "bytes": 208313,
-      "source_mtime_utc": "2025-09-29T23:23:23.858418+00:00"
+      "source_mtime_utc": "2025-09-29T16:23:23.858418-07:00"
     },
     {
       "source": "Halycion Project\\Samples\\Cymbal\\Cymbal-606.aif",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Samples\\Cymbal\\Cymbal-606.aif",
       "sha256": "2dfeea17182d91f00023b5d90ee40dab0400acec8de2c5037fe4e33e74d57309",
       "bytes": 669938,
-      "source_mtime_utc": "2025-09-29T23:23:29.011641+00:00"
+      "source_mtime_utc": "2025-09-29T16:23:29.011641-07:00"
     },
     {
       "source": "Halycion Project\\Samples\\Kick\\Kick-606-Mod.aif",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Samples\\Kick\\Kick-606-Mod.aif",
       "sha256": "bc11b25b2f2dd230b9b0440467ef4c0703ed4bd0343d2d30cbf4240870fb37d0",
       "bytes": 786779,
-      "source_mtime_utc": "2025-09-29T23:23:29.112033+00:00"
+      "source_mtime_utc": "2025-09-29T16:23:29.112033-07:00"
     },
     {
       "source": "Halycion Project\\Samples\\Kick\\Kick-606.aif",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Samples\\Kick\\Kick-606.aif",
       "sha256": "75e381546351b694e990dbb61e8c95dc5ac2f2199b16cabc07a67d9e469d20b0",
       "bytes": 311291,
-      "source_mtime_utc": "2025-09-29T23:23:29.146099+00:00"
+      "source_mtime_utc": "2025-09-29T16:23:29.146099-07:00"
     },
     {
       "source": "Halycion Project\\Samples\\Open Hihat\\Hihat-606-Combo.aif",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Samples\\Open Hihat\\Hihat-606-Combo.aif",
       "sha256": "a441f65400df057776630688b01bc32d36dd24ccb67e9c3ca81ef4326194f064",
       "bytes": 256778,
-      "source_mtime_utc": "2025-09-29T23:23:29.407457+00:00"
+      "source_mtime_utc": "2025-09-29T16:23:29.407457-07:00"
     },
     {
       "source": "Halycion Project\\Samples\\Open Hihat\\Hihat-606-Open.aif",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Samples\\Open Hihat\\Hihat-606-Open.aif",
       "sha256": "9707b162dbba346d5fbddbee9a2472969e59f0a4f91d2f51acc76b1b7a206414",
       "bytes": 346475,
-      "source_mtime_utc": "2025-09-29T23:23:29.439879+00:00"
+      "source_mtime_utc": "2025-09-29T16:23:29.439879-07:00"
     },
     {
       "source": "Halycion Project\\Samples\\Snare\\Snare-606.aif",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Samples\\Snare\\Snare-606.aif",
       "sha256": "aea93e1adccfce6e064344040a746345da3a51ad19c41282739c4440803ec994",
       "bytes": 66629,
-      "source_mtime_utc": "2025-09-29T23:23:30.603116+00:00"
+      "source_mtime_utc": "2025-09-29T16:23:30.603116-07:00"
     },
     {
       "source": "Halycion Project\\Samples\\Tom\\Tom-606-Hi.aif",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Samples\\Tom\\Tom-606-Hi.aif",
       "sha256": "b30e3176fae864e184377de57af21731032517be3075495af9eecb31205e1cee",
       "bytes": 246020,
-      "source_mtime_utc": "2025-09-29T23:23:31.080873+00:00"
+      "source_mtime_utc": "2025-09-29T16:23:31.080873-07:00"
     },
     {
       "source": "Halycion Project\\Samples\\Tom\\Tom-606-Low.aif",
       "snapshot": "creative\\audio\\source\\MUS-001_happy_milestone_2026-11-15T020159Z\\Halycion Project\\Samples\\Tom\\Tom-606-Low.aif",
       "sha256": "8f9fb13b80b95cd847007a3eadbc7cf9c5c716fa66cacb38474043c230ed7848",
       "bytes": 293948,
-      "source_mtime_utc": "2025-09-29T23:23:31.167402+00:00"
+      "source_mtime_utc": "2025-09-29T16:23:31.167402-07:00"
     }
   ],
   "integration_status": "Source milestone preserved; not an approved loop or Unreal import. Current render differs from requested 48kHz/24-bit delivery spec.",

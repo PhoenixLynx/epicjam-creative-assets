@@ -1,0 +1,9 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "prompt": "Precisely revise image 1 HALCYON scary mannequin face decal. User correction: smile tips curl the WRONG WAY and eyebrows and mouth are too heavy. Replace the inward-curling smile hooks: each smile end must sweep AWAY from center and upward toward the outer cheek, flaring outward, never turning back toward nose. Left tip points up-left, right tip up-right, gracefully curved like stretched doll lips in image 2. NO inward hooks or handlebar-moustache curls. Make grin a slender dark curved opening: reduce its central vertical thickness by about 50 percent, retain unnatural raised corners and slightly asymmetric doll-smile curve. Mouth neutral charcoal near-black, thin subtle outline; no red/purple mouth, no teeth, no lip gloss. Reduce each eyebrow's thickness by roughly 55 percent and shorten slightly, tapered clean restrained lines rather than large wedges; keep their ominous inward slant and position. Preserve red luminous centers in DARK eye sockets with ABSOLUTELY NO white sclera or white/yellow highlights. Preserve slim layered under-eye rings, approximate eye centers, overall canvas, transparent margins, palette and uncanny minimalist aesthetic. Image 2 is doll expression reference only, not doll identity, skin, hair, clothing, text or watermark to copy. Only floating facial features on TRUE TRANSPARENT background. No face/head outline, nose, ears or background. Desired 1024x1024 square. Keep strokes readable at2–5m but visibly lighter than input.",
+  "transparent_background": true,
+  "reference_images": [
+    "creative/art/source/ART-001_face_fear_intense_uncanny_v05.png",
+    "C:/Users/casse/Downloads/images (3).jpg"
+  ]
+}

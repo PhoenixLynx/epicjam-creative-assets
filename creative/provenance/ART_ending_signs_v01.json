@@ -1,0 +1,158 @@
+[
+  {
+    "asset_id": "ART-010_wrap_banner_2048x512_v01",
+    "descriptive_filename": "creative\\art\\exports\\ART-010_wrap_banner_2048x512_v01.png",
+    "purpose": "Ending prop/sign texture; see ending signs handoff",
+    "human_contributors": [
+      "PhoenixLynx: overall creative direction and authorization; final review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT: design and export script",
+      "PowerShell System.Drawing: geometry and typography; no image generation used"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:25:46Z",
+    "source_prompts": [
+      "Claude ART-010, ART-013, ART-016 specifications in handoff/FROM_CLAUDE.md",
+      "Human authorized artwork session",
+      "Sol direction: mint/charcoal corporate wrap banner, canvas chair backs, formal overtime notice"
+    ],
+    "settings": {
+      "size": [
+        2048,
+        512
+      ],
+      "mode": "RGBA",
+      "font": "Arial system font; rendered pixels only, no font file distributed"
+    },
+    "input_references_and_dependencies": [
+      "Read-only project T_HalcyonLogo.png and T_LunchSpecials.png for visual continuity",
+      "creative/art/export_ending_signs_v01.ps1; redraws logo geometry, not pixel-identical logo"
+    ],
+    "origin_classification": "AI-assisted code-authored project artwork derived from existing project visual system",
+    "license_and_attribution": "Retain AI disclosure and existing logo ancestry; no external image reference added; no public license granted",
+    "revision_history": [
+      "v01 drafted from approved project visual direction; no final human asset approval yet"
+    ],
+    "git_commit_hash": null,
+    "sha256": "910b42d74407e01eff85e8c7c59bf92970348590f083694db9403c411d58c134",
+    "integration_status": "Draft exported, awaiting director review and Claude import test"
+  },
+  {
+    "asset_id": "ART-013_director_card_blank_1024x256_v01",
+    "descriptive_filename": "creative\\art\\exports\\ART-013_director_card_blank_1024x256_v01.png",
+    "purpose": "Ending prop/sign texture; see ending signs handoff",
+    "human_contributors": [
+      "PhoenixLynx: overall creative direction and authorization; final review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT: design and export script",
+      "PowerShell System.Drawing: geometry and typography; no image generation used"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:25:46Z",
+    "source_prompts": [
+      "Claude ART-010, ART-013, ART-016 specifications in handoff/FROM_CLAUDE.md",
+      "Human authorized artwork session",
+      "Sol direction: mint/charcoal corporate wrap banner, canvas chair backs, formal overtime notice"
+    ],
+    "settings": {
+      "size": [
+        1024,
+        256
+      ],
+      "mode": "RGBA",
+      "font": "Arial system font; rendered pixels only, no font file distributed"
+    },
+    "input_references_and_dependencies": [
+      "Read-only project T_HalcyonLogo.png and T_LunchSpecials.png for visual continuity",
+      "creative/art/export_ending_signs_v01.ps1; redraws logo geometry, not pixel-identical logo"
+    ],
+    "origin_classification": "AI-assisted code-authored project artwork derived from existing project visual system",
+    "license_and_attribution": "Retain AI disclosure and existing logo ancestry; no external image reference added; no public license granted",
+    "revision_history": [
+      "v01 drafted from approved project visual direction; no final human asset approval yet"
+    ],
+    "git_commit_hash": null,
+    "sha256": "9f42121cb2220f79a0c09067a3a0f180a40ae1e44dbd69f1c833095fb8d767fe",
+    "integration_status": "Draft exported, awaiting director review and Claude import test"
+  },
+  {
+    "asset_id": "ART-013_director_card_4471_1024x256_v01",
+    "descriptive_filename": "creative\\art\\exports\\ART-013_director_card_4471_1024x256_v01.png",
+    "purpose": "Ending prop/sign texture; see ending signs handoff",
+    "human_contributors": [
+      "PhoenixLynx: overall creative direction and authorization; final review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT: design and export script",
+      "PowerShell System.Drawing: geometry and typography; no image generation used"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:25:46Z",
+    "source_prompts": [
+      "Claude ART-010, ART-013, ART-016 specifications in handoff/FROM_CLAUDE.md",
+      "Human authorized artwork session",
+      "Sol direction: mint/charcoal corporate wrap banner, canvas chair backs, formal overtime notice"
+    ],
+    "settings": {
+      "size": [
+        1024,
+        256
+      ],
+      "mode": "RGBA",
+      "font": "Arial system font; rendered pixels only, no font file distributed"
+    },
+    "input_references_and_dependencies": [
+      "Read-only project T_HalcyonLogo.png and T_LunchSpecials.png for visual continuity",
+      "creative/art/export_ending_signs_v01.ps1; redraws logo geometry, not pixel-identical logo"
+    ],
+    "origin_classification": "AI-assisted code-authored project artwork derived from existing project visual system",
+    "license_and_attribution": "Retain AI disclosure and existing logo ancestry; no external image reference added; no public license granted",
+    "revision_history": [
+      "v01 drafted from approved project visual direction; no final human asset approval yet"
+    ],
+    "git_commit_hash": null,
+    "sha256": "731cda85505579539c67e7a3584bbde191b49fa7a7c304c84f336ed0bdf5f4f3",
+    "integration_status": "Draft exported, awaiting director review and Claude import test"
+  },
+  {
+    "asset_id": "ART-016_overtime_menu_1024_v01",
+    "descriptive_filename": "creative\\art\\exports\\ART-016_overtime_menu_1024_v01.png",
+    "purpose": "Ending prop/sign texture; see ending signs handoff",
+    "human_contributors": [
+      "PhoenixLynx: overall creative direction and authorization; final review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT: design and export script",
+      "PowerShell System.Drawing: geometry and typography; no image generation used"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:25:46Z",
+    "source_prompts": [
+      "Claude ART-010, ART-013, ART-016 specifications in handoff/FROM_CLAUDE.md",
+      "Human authorized artwork session",
+      "Sol direction: mint/charcoal corporate wrap banner, canvas chair backs, formal overtime notice"
+    ],
+    "settings": {
+      "size": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "font": "Arial system font; rendered pixels only, no font file distributed"
+    },
+    "input_references_and_dependencies": [
+      "Read-only project T_HalcyonLogo.png and T_LunchSpecials.png for visual continuity",
+      "creative/art/export_ending_signs_v01.ps1; redraws logo geometry, not pixel-identical logo"
+    ],
+    "origin_classification": "AI-assisted code-authored project artwork derived from existing project visual system",
+    "license_and_attribution": "Retain AI disclosure and existing logo ancestry; no external image reference added; no public license granted",
+    "revision_history": [
+      "v01 drafted from approved project visual direction; no final human asset approval yet"
+    ],
+    "git_commit_hash": null,
+    "sha256": "581ff3d460184bdf0a8b8128b553a9365cb09e5b9254db286158c4568ca8051d",
+    "integration_status": "Draft exported, awaiting director review and Claude import test"
+  }
+]

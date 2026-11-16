@@ -1,0 +1,53 @@
+{
+  "asset_id": "ART-001-FEAR-INTENSE-UNCANNY-V02",
+  "filename": "creative\\art\\exports\\ART-001_face_fear_intense_1024_uncanny_v02.png",
+  "purpose": "Scary mannequin Fear candidate with thin eye shadows and pointed-tooth grin",
+  "human_contributors": [
+    "PhoenixLynx: rejected panda-like circles, supplied monster mood reference, selected earlier shading balance"
+  ],
+  "ai_systems": [
+    "Sol / ChatGPT",
+    "OpenAI built-in image_gen"
+  ],
+  "tools": [
+    "image_gen",
+    "System.Drawing export_faces.ps1",
+    "Pillow validation"
+  ],
+  "original_creation_utc": null,
+  "recorded_utc": "2026-11-14T23:02:07.204610+00:00",
+  "source_prompts": "creative/provenance/ART-001_fear_intense_uncanny_v02_prompt.json",
+  "settings": {
+    "transparent_background": true,
+    "source_size": [
+      1254,
+      1254
+    ],
+    "export_size": [
+      1024,
+      1024
+    ]
+  },
+  "input_references": [
+    {
+      "path": "creative\\art\\exports\\ART-001_face_fear_1024_v03.png",
+      "sha256": "b2a9159225bb14cca9ab1b62e587757dcb206e9e44d49a8cdda1554a55c3a82b"
+    },
+    {
+      "path": "C:\\Users\\casse\\Downloads\\spooky-monster-face-illustration-with-sharp-teeth-and-glowing-eyes-flat-design-vector.webp",
+      "sha256": "85fc8c96ac26701201dc6212d5b654fa9fa42f9242d9c10efa990f21cae917f3"
+    }
+  ],
+  "classification": "AI-assisted derivative revision of project face; external image used as mood reference",
+  "license_attribution": "External reference authorship and license unverified; reference not redistributed. Retain AI disclosure and source ancestry; no rights clearance asserted.",
+  "revision_history": [
+    "v01: oversized eye bags rejected as panda-like",
+    "v02: earlier Fear layout reference, thin tapered shadows, sharper eyes and pointed teeth"
+  ],
+  "source_file": "creative\\art\\source\\ART-001_face_fear_intense_uncanny_v02.png",
+  "source_sha256": "8e78e9cbe26ab8d1acfc79ba610789a1db64b64d0b38a7d38896b66098bf3760",
+  "sha256": "16f687813122c8333154292928ce78de4ba1b92cf609c4e4a45fceb534b502f6",
+  "git_commit": null,
+  "integration_status": "Exported for human review; not integrated",
+  "validation": "1024x1024 RGBA; alpha 0..255; transparent corners. Larger facial footprint than earlier variants: mesh/UV scale and swap alignment require testing."
+}

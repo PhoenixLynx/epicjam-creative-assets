@@ -1,4 +1,94 @@
 # From Sol to the director and Claude
+## Ending plates second batch — all remaining requested slots have review drafts
+
+Cake ART-011, four dailies ART-012a–d, dusk skyline ART-014 and optional soundstage ART-015 exported. Exact paths/dimensions/integration notes: creative/art/CLAUDE_HANDOFF_ENDING_PLATES_V01.md. Full prompts, source masters and hashes saved. All await individual director approval and in-game tests; no imports or game changes by Sol. Ward is illustrative and needs continuity check. Cake alpha cannot remove solid cylinder geometry; generated wedge is a partial edge bite, not exact radial geometry. Skyline is flat/non-seamless. Monitor timecodes are fictional, and the central live camera should remain live. This follows the earlier banner/cards/menu batch; nothing asks for a level rebuild.
+
+## Ending signs first batch — four exports awaiting director review
+
+ART-010 wrap banner, ART-013 blank/revealed director cards, ART-016 overtime menu are exported. Exact paths, dimensions, proposed Unreal texture names and tests: creative/art/CLAUDE_HANDOFF_ENDING_SIGNS_V01.md. Source is editable export_ending_signs_v01.ps1; no imagegen used for these typography/geometry assets. Human approved doing the work; individual drafts await approval. Menu includes proposed additional copy. Check square menu against existing portrait board UVs. No game changes or imports by Sol. Cake, dailies, skyline and optional soundstage remain pending.
+
+## APPROVED BY DIRECTOR: Stalker face v01 — use this for the stalker
+
+The director selected the curled-grin Fear exploration v07 specifically as the STALKER face: "Yeah that looks much better...I think we should use this for the stalker's face." This approval is for the stalker, not a replacement for ordinary coworker Fear.
+
+Claude Integration Handoff
+- Asset: approved stalker face v01.
+- Exact creative repo path: creative/art/exports/ART-001_face_stalker_1024_v01.png.
+- Format: 1024x1024 RGBA PNG; transparent corners, red eyes without whites, thin brows, dark under-eye rings, slim charcoal grin with outward-curled ends.
+- Function: stalker character face. Assign only to stalker; preserve existing coworker Calm/Fear/Neutral/Frown mapping.
+- Proposed game names: T_Face_Stalker / MI_Face_Stalker (adapt to your existing stalker asset convention). Reuse curved head-bone face-card material pipeline where compatible; confirm actual stalker mesh/UVs first.
+- Dependencies: byte-identical labeled copy of creative/art/exports/ART-001_face_fear_intense_1024_uncanny_v07.png; original source master is creative/art/source/ART-001_face_fear_intense_uncanny_v07.png. Earlier versions retained.
+- Glow: red glow is painted in the texture. For actual emission, isolate red eye pixels in material or request a dedicated mask. No emissive material has been implemented by Sol.
+- Acceptance: stalker uses this face only; compare alignment/scale on actual head, curls and thin strokes readable at 2m/5m, alpha edges clean with existing cutoff (reported 0.12), no regressions to other character faces.
+- Unresolved: actual stalker import/assignment, UV fit, emissive setup and in-game playtest. Human art selection approved; integration NOT confirmed. Please report integration status in FROM_CLAUDE.md.
+
+Source, prompt and reference ancestry: creative/provenance/ART-001_fear_intense_uncanny_v07*.json. Labeled asset record: creative/provenance/ART-001_stalker_v01.json. Local files available now; no git commit/push claimed. No game files changed by Sol.
+
+## Intense Fear v06 — lighter strokes, corrected smile ends
+
+Human requested thinner mouth/eyebrows and reversal of inward smile curl. Export: creative/art/exports/ART-001_face_fear_intense_1024_uncanny_v06.png (1024x1024 RGBA PNG, transparent corners verified). Source: creative/art/source/ART-001_face_fear_intense_uncanny_v06.png. Slender eyebrows and charcoal smile with outward/upward tips; red eyes without whites and layered under-eye rings retained. Candidate awaiting human approval; earlier versions preserved.
+
+Claude Integration Handoff: alternative for existing T_Face_Fear / MI_Face_Fear on curved M_Face card, existing triggers unchanged. Check thinner strokes at 2m and 5m, UV/feature alignment during swaps, smile shape on round head, alpha halos at existing cutoff 0.12. Glow remains painted; actual emissive mask/material setup unresolved. No game edits or integration by Sol.
+
+Re-export: export_faces.ps1 -Variants fear_intense -Revision uncanny_v06. Built-in image_gen prompts, source/export/reference hashes and provenance: creative/provenance/ART-001_fear_intense_uncanny_v06*.json. Doll reference mood-only, rights unverified and not redistributed. Exact creation UTC unknown; observed UTC recorded; commit pending.
+
+## Intense Fear v05 — charcoal curled grin, no eye whites
+
+Human requested neutral charcoal mouth, red glowing eyes without any white, more curled doll-smile corners. Candidate export: creative/art/exports/ART-001_face_fear_intense_1024_uncanny_v05.png (1024x1024 RGBA PNG; transparent corners checked). Source: creative/art/source/ART-001_face_fear_intense_uncanny_v05.png. Prior variants preserved; awaiting human approval.
+
+Claude Integration Handoff: alternative for existing T_Face_Fear / MI_Face_Fear on curved head-bone M_Face card. Existing Fear behavior only; no new state/trigger. Glow is painted into color, actual emission not implemented. Optional emissive mask must isolate red eyes, not entire face. Acceptance: human approves on head; verify UV footprint, swap alignment, curled smile ends, ring readability and alpha halos at 2m/5m using existing cutoff 0.12. Final selection and emissive setup unresolved. No game edits by Sol.
+
+Re-export: export_faces.ps1 -Variants fear_intense -Revision uncanny_v05. Built-in image_gen prompt, source/export/reference hashes and provenance: creative/provenance/ART-001_fear_intense_uncanny_v05*.json. External doll reference remains mood-only, rights unverified, not redistributed. Observed record UTC saved, exact creation time unknown, commit pending.
+
+## Intense Fear v04 — deeper doll grin and red eye glow
+
+Human requested closer doll-reference grin geometry, additional dark circles and glowing eyes. New review candidate: creative/art/exports/ART-001_face_fear_intense_1024_uncanny_v04.png (1024x1024 RGBA PNG; transparent corners verified). Source: creative/art/source/ART-001_face_fear_intense_uncanny_v04.png. Deep tapered open smile, layered slim under-eye rings and red glowing irises. Prior candidates retained; human approval pending.
+
+Claude Integration Handoff: candidate for existing T_Face_Fear / MI_Face_Fear on curved M_Face head card. Keep existing Fear trigger/state; no new gameplay mode implemented. Glow is PAINTED into base-color PNG, not an emissive map. For actual emission, isolate red iris pixels in a material mask or request a dedicated mask; do not make the entire face emissive. Bloom depends on rendering/postprocess settings. Sol has not changed any materials or game files.
+
+Acceptance: director approves on-head appearance; verify broad footprint fits UVs and swaps align, grin and rings readable at 2m/5m, masked-alpha cutoff 0.12 produces no halos, and any optional emission stays confined to eyes. Actual emissive implementation and final selection unresolved.
+
+Re-export: export_faces.ps1 -Variants fear_intense -Revision uncanny_v04. Built-in image_gen prompt and source/export/reference hashes: creative/provenance/ART-001_fear_intense_uncanny_v04*.json. Both external doll references used for expression only, rights unverified, not redistributed. Exact original creation UTC unknown; observed record UTC saved; commit pending.
+
+## Intense Fear v03 — creepy doll smile candidate
+
+Human requested a stretched creepy doll-like smile using supplied mood reference. Export: creative/art/exports/ART-001_face_fear_intense_1024_uncanny_v03.png — 1024x1024 RGBA PNG, verified transparent corners. Source: creative/art/source/ART-001_face_fear_intense_uncanny_v03.png. Replaces triangular fangs with a dark asymmetric crescent smile and a small central off-white sliver. Eyes and thin under-eye shadows retained. Earlier variants preserved; final human approval pending.
+
+Claude Integration Handoff: alternative for existing T_Face_Fear / MI_Face_Fear, existing curved M_Face head card and masked alpha cutoff 0.12. No extra gameplay state requested. Check broad facial footprint/UV fit, smile corner clipping, swap alignment, readability at 2m/5m and alpha halos. Human chooses candidate before replacement; no game edits or imports by Sol.
+
+Re-export: export_faces.ps1 -Variants fear_intense -Revision uncanny_v03. Built-in image_gen used. Prompt, source/export/reference hashes, recorded UTC and provenance: creative/provenance/ART-001_fear_intense_uncanny_v03*.json. External doll reference is mood-only, rights unverified, not redistributed. Exact generation UTC unknown; commit pending.
+
+## Intense Fear v02 — thinner shadows and sharp grin
+
+Human rejected v01 eye bags as panda-like and requested earlier Fear shading balance plus scary monster reference. New candidate: creative/art/exports/ART-001_face_fear_intense_1024_uncanny_v02.png (1024x1024 RGBA PNG, transparent corners). Slim tapered under-eye crescents, pointed eyes, sharp-toothed grin. Previous versions retained. Human approval pending.
+
+Claude Integration Handoff: potential replacement for existing T_Face_Fear / MI_Face_Fear; use existing curved M_Face card and alpha-mask settings. No new state/trigger requested. IMPORTANT: generated face occupies a larger texture footprint than the previous set; check face-card bounds and UV scale, swap alignment, teeth and eye readability at 2m/5m, and edge halos before accepting. Do not blindly replace current import. Final choice remains unresolved; no game-folder edits by Sol.
+
+Original: creative/art/source/ART-001_face_fear_intense_uncanny_v02.png. Reproduce export: export_faces.ps1 -Variants fear_intense -Revision uncanny_v02. Prompts, source/export/reference SHA-256 and provenance: creative/provenance/ART-001_fear_intense_uncanny_v02*.json. External monster image used as mood reference, authorship/license unverified, not redistributed. Built-in image_gen used. Exact creation UTC unknown; record UTC saved; commit pending.
+
+## Intense Fear mannequin-mask candidate — uncanny v01
+
+Human requested a scarier alternative with more noticeable dark circles. Export: creative/art/exports/ART-001_face_fear_intense_1024_uncanny_v01.png (1024x1024 RGBA PNG, transparent corners). Source: creative/art/source/ART-001_face_fear_intense_uncanny_v01.png. Larger dark charcoal-violet eye circles, pale eye slivers, fixed pupils and tense smile. Original Fear remains intact.
+
+Claude Integration Handoff: alternative for existing T_Face_Fear / MI_Face_Fear on curved head-bone M_Face card. This is an art candidate, not authorization to introduce another gameplay state or new trigger. Human must choose replacement versus a separate intensity stage. Existing masked alpha cutoff reported 0.12; check circle silhouette, white eyes and edge halos at 2m and 5m, plus UV alignment during swaps. Final approval and integration pending. No game-folder changes by Sol.
+
+Built-in image_gen prompt, source/reference/export hashes and provenance: creative/provenance/ART-001_fear_intense_uncanny_v01*.json. Re-export: export_faces.ps1 -Variants fear_intense -Revision uncanny_v01. Exact original creation timestamp unknown; observed record UTC saved; git commit pending.
+
+
+## Uncanny minimalist face set v01 — ready for review
+
+Four new transparent 1024x1024 expressions: calm, fear, neutral and frown. Exact paths, existing material mapping and acceptance checks: creative/art/CLAUDE_HANDOFF_UNCANNY_FACES_V01.md. New suffix _1024_uncanny_v01.png; old filenames deliberately preserved, so current hooks will NOT auto-select these. Human requested generation; final approval and on-head test pending. No game changes by Sol. Full provenance and prompts saved under creative/provenance/ART-001_uncanny_v01*.json.
+
+
+## Key-pass revision: lobby v11 and cover v02
+
+Human prefers v10 level of detail; requested lighter pass/cord and glyphs. New review exports:
+- creative/art/exports/title_keyart_v11.png: 1920x1080 PNG, no HUD or main title.
+- creative/art/exports/itch_cover_art_v02.png: 630x500 art-only, plus itch_cover_art_315_v02.png at 315x250.
+- creative/art/exports/itch_cover_working_title_v02.png: 630x500 provisional TAKE 4471 overlay, plus itch_cover_working_title_315_v02.png at 315x250.
+
+Claude Integration Handoff: use as title texture / itch cover only after human selection. Same proposed /Game/UI/Title/T_TitleLobby destination; no level geometry changes implied. Generated originals preserved; export_title.ps1 -Revision v11 and export_cover.ps1 -Revision v02 reproduce exact-size exports. Branding retained on card; Witness/Reel/Eye markings are illustrative approximations, NOT functional puzzle clues or replacements for glyph UI. No baked HUD. Acceptance: human approval of pass design, menu contrast and crop tested in game, cover readable at 315x250. Final title remains unresolved. No integration claimed. Full prompts, dimensions, source/export/reference hashes recorded in creative/provenance/ART_keypass*.json. External references are construction references only; rights unverified.
+
 
 ## New lobby background v10 and ART-003 cover draft
 

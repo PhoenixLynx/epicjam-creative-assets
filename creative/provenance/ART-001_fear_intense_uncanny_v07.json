@@ -1,0 +1,54 @@
+{
+  "asset_id": "ART-001-FEAR-INTENSE-UNCANNY-V07",
+  "filename": "creative\\art\\exports\\ART-001_face_fear_intense_1024_uncanny_v07.png",
+  "purpose": "Fear decal with small outward curls at grin ends",
+  "human_contributors": [
+    "PhoenixLynx: requested curls restored at grin ends"
+  ],
+  "ai_systems": [
+    "Sol / ChatGPT",
+    "OpenAI built-in image_gen"
+  ],
+  "tools": [
+    "image_gen",
+    "System.Drawing export_faces.ps1",
+    "Pillow validation"
+  ],
+  "original_creation_utc": null,
+  "recorded_utc": "2026-11-15T00:25:05.808954+00:00",
+  "source_prompts": "creative/provenance/ART-001_fear_intense_uncanny_v07_prompt.json",
+  "settings": {
+    "transparent_background": true,
+    "source_size": [
+      1254,
+      1254
+    ],
+    "export_size": [
+      1024,
+      1024
+    ]
+  },
+  "input_references": [
+    {
+      "path": "creative\\art\\source\\ART-001_face_fear_intense_uncanny_v06.png",
+      "sha256": "4785232dea335895f045641a18b33ac8e4a97235b7b95baad8dd2a072ab08a8e"
+    }
+  ],
+  "classification": "AI-assisted derivative revision of project face; external image used as mood reference",
+  "license_attribution": "External reference authorship and license unverified; reference not redistributed. Retain AI disclosure and source ancestry; no rights clearance asserted.",
+  "revision_history": [
+    "v01: oversized eye bags rejected as panda-like",
+    "v02: earlier Fear layout reference, thin tapered shadows, sharper eyes and pointed teeth",
+    "v03: replace fangs with stretched asymmetric crescent smile and small central tooth sliver; preserve eyes and thin shadows",
+    "v04: deeper tapered open smile, layered thin under-eye rings, compact red glowing irises",
+    "v05: charcoal mouth, upward curled smile corners, dark eye sockets with red glow and no whites",
+    "v06: thinner tapered eyebrows and mouth, removed inward hooks for outward/upward smile tips",
+    "v07: small outward curls added to both grin ends; lighter strokes retained"
+  ],
+  "source_file": "creative\\art\\source\\ART-001_face_fear_intense_uncanny_v07.png",
+  "source_sha256": "77c6d3a7b19fa61863609e157823e1ef356ad83720e4729f9dcac378ab9a656a",
+  "sha256": "61783eba37b30c1cd45183ead3b7483f566aaeb322148dc96da4bc934de813e2",
+  "git_commit": null,
+  "integration_status": "Exported for human review; not integrated",
+  "validation": "1024x1024 RGBA, alpha 0..255, transparent corners. UV fit and readability pending. Glow is painted into PNG; Unreal emission/bloom not implemented."
+}

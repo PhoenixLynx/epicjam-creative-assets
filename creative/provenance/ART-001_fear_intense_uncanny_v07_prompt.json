@@ -1,0 +1,8 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "prompt": "Precise localized edit of this transparent HALCYON mannequin face decal: change ONLY the outer tips of the smile. Add a small but clearly visible elegant CURL at BOTH ends of the grin. The smile rises from center toward the cheeks and its final tip bends OUTWARD away from the center into a short curved hook, like a sinister doll's cheek crease. Left end curls toward left edge, right end toward right edge, small mirrored S-shaped flourishes. Not an inward curl toward nose, not just straight pointed tips. Curl must be readable but restrained, about 3-4 percent canvas width. Preserve the existing slender charcoal smile body and thickness, its position and central shape; do not enlarge mouth or add teeth. Preserve all other pixels/appearance as closely as possible: thin tapered eyebrows, dark eye sockets with red glow and NO whites, three slim under-eye rings, palette, face scale, layout and margins. Original uncanny minimalist game art, isolated facial marks only. TRUE transparent background, no head outline, skin fill, nose, text or background. Desired square1024x1024 RGBA.",
+  "transparent_background": true,
+  "reference_images": [
+    "creative/art/source/ART-001_face_fear_intense_uncanny_v06.png"
+  ]
+}

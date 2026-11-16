@@ -1,0 +1,182 @@
+[
+  {
+    "asset_id": "ART-001-CALM-UNCANNY-V01",
+    "filename": "creative\\art\\exports\\ART-001_face_calm_1024_uncanny_v01.png",
+    "purpose": "calm face decal on curved head-bone face card",
+    "human_contributors": [
+      "PhoenixLynx: aesthetic and expression direction, final approval pending"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export_faces.ps1",
+      "Pillow read-only validation"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:26:10.753811+00:00",
+    "prompts": "creative/provenance/ART-001_uncanny_v01_prompts.json",
+    "settings": {
+      "transparent_background": true,
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "export_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "inputs": [
+      "Existing project calm v03 for initial layout; new calm uncanny v01 for expression variants"
+    ],
+    "classification": "Original AI-assisted project artwork; derivative revision of earlier project faces",
+    "license_attribution": "Retain AI disclosure and inherited project asset provenance; no new external references. No third-party license determination asserted.",
+    "revision_history": [
+      "Uncanny minimalism redesign; earlier toy-like faces preserved"
+    ],
+    "source_file": "creative\\art\\source\\ART-001_face_calm_uncanny_v01.png",
+    "source_sha256": "4817e8d30692f857829a340f30d2f87a188d70d8fcaf6cae745d8c638e7a082b",
+    "sha256": "c34a1460291a202a623bd1522e636ee350711c0857236fc7482414b08ac90c1c",
+    "git_commit": null,
+    "integration_status": "Generated and exported; awaiting human review and Claude in-game test",
+    "validation": "1024x1024 RGBA; alpha 0..255; four corners transparent; visual generation review complete; UV registration and distance readability not tested in Unreal"
+  },
+  {
+    "asset_id": "ART-001-FEAR-UNCANNY-V01",
+    "filename": "creative\\art\\exports\\ART-001_face_fear_1024_uncanny_v01.png",
+    "purpose": "fear face decal on curved head-bone face card",
+    "human_contributors": [
+      "PhoenixLynx: aesthetic and expression direction, final approval pending"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export_faces.ps1",
+      "Pillow read-only validation"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:26:10.768828+00:00",
+    "prompts": "creative/provenance/ART-001_uncanny_v01_prompts.json",
+    "settings": {
+      "transparent_background": true,
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "export_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "inputs": [
+      "Existing project calm v03 for initial layout; new calm uncanny v01 for expression variants"
+    ],
+    "classification": "Original AI-assisted project artwork; derivative revision of earlier project faces",
+    "license_attribution": "Retain AI disclosure and inherited project asset provenance; no new external references. No third-party license determination asserted.",
+    "revision_history": [
+      "Uncanny minimalism redesign; earlier toy-like faces preserved"
+    ],
+    "source_file": "creative\\art\\source\\ART-001_face_fear_uncanny_v01.png",
+    "source_sha256": "22e0038b363a48ebb7cadb5b8f0a1fabf37f054256fa050fd970077c3c992f1a",
+    "sha256": "a6065d4f3b9e9be8f4972a3d0c3133d1e521d82cc86de9b21c105428ccf8798d",
+    "git_commit": null,
+    "integration_status": "Generated and exported; awaiting human review and Claude in-game test",
+    "validation": "1024x1024 RGBA; alpha 0..255; four corners transparent; visual generation review complete; UV registration and distance readability not tested in Unreal"
+  },
+  {
+    "asset_id": "ART-001-NEUTRAL-UNCANNY-V01",
+    "filename": "creative\\art\\exports\\ART-001_face_neutral_1024_uncanny_v01.png",
+    "purpose": "neutral face decal on curved head-bone face card",
+    "human_contributors": [
+      "PhoenixLynx: aesthetic and expression direction, final approval pending"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export_faces.ps1",
+      "Pillow read-only validation"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:26:10.782342+00:00",
+    "prompts": "creative/provenance/ART-001_uncanny_v01_prompts.json",
+    "settings": {
+      "transparent_background": true,
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "export_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "inputs": [
+      "Existing project calm v03 for initial layout; new calm uncanny v01 for expression variants"
+    ],
+    "classification": "Original AI-assisted project artwork; derivative revision of earlier project faces",
+    "license_attribution": "Retain AI disclosure and inherited project asset provenance; no new external references. No third-party license determination asserted.",
+    "revision_history": [
+      "Uncanny minimalism redesign; earlier toy-like faces preserved"
+    ],
+    "source_file": "creative\\art\\source\\ART-001_face_neutral_uncanny_v01.png",
+    "source_sha256": "d6fb92a60b4ddec2ec8cefa6405f72f3806ff79119351e2fa28f5f0b3b7fd54c",
+    "sha256": "221ffd06d9288a995fa1c511b0a543ef922baa561049a8da9a17c316bb3de99c",
+    "git_commit": null,
+    "integration_status": "Generated and exported; awaiting human review and Claude in-game test",
+    "validation": "1024x1024 RGBA; alpha 0..255; four corners transparent; visual generation review complete; UV registration and distance readability not tested in Unreal"
+  },
+  {
+    "asset_id": "ART-001-FROWN-UNCANNY-V01",
+    "filename": "creative\\art\\exports\\ART-001_face_frown_1024_uncanny_v01.png",
+    "purpose": "frown face decal on curved head-bone face card",
+    "human_contributors": [
+      "PhoenixLynx: aesthetic and expression direction, final approval pending"
+    ],
+    "ai_systems": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen"
+    ],
+    "tools": [
+      "image_gen",
+      "System.Drawing export_faces.ps1",
+      "Pillow read-only validation"
+    ],
+    "original_creation_utc": null,
+    "recorded_utc": "2026-11-14T22:26:10.795354+00:00",
+    "prompts": "creative/provenance/ART-001_uncanny_v01_prompts.json",
+    "settings": {
+      "transparent_background": true,
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "export_dimensions": [
+        1024,
+        1024
+      ]
+    },
+    "inputs": [
+      "Existing project calm v03 for initial layout; new calm uncanny v01 for expression variants"
+    ],
+    "classification": "Original AI-assisted project artwork; derivative revision of earlier project faces",
+    "license_attribution": "Retain AI disclosure and inherited project asset provenance; no new external references. No third-party license determination asserted.",
+    "revision_history": [
+      "Uncanny minimalism redesign; earlier toy-like faces preserved"
+    ],
+    "source_file": "creative\\art\\source\\ART-001_face_frown_uncanny_v01.png",
+    "source_sha256": "7c9d333e782b9fd2c27face530b0c640ad4132e6384c5b54127e779e26454111",
+    "sha256": "f867e6cf156288c653335c07f21a6edd386bb97b77386053ec7cc0932fead9ce",
+    "git_commit": null,
+    "integration_status": "Generated and exported; awaiting human review and Claude in-game test",
+    "validation": "1024x1024 RGBA; alpha 0..255; four corners transparent; visual generation review complete; UV registration and distance readability not tested in Unreal"
+  }
+]

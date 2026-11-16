@@ -1,0 +1,9 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "prompt": "Create an original scary HALCYON mannequin face decal by revising image 1. Image 1 is our existing project face: preserve its approximate eye/brow/mouth placement, dark blue-charcoal palette, bold readable graphic weight and balanced SMALL under-eye shadows. Image 2 is mood reference ONLY for threatening angular eyes and a sinister sharp-toothed smile, not an image to trace or reproduce. UNCANNY MINIMALISM, original clean simplified graphic shapes. Square 1024x1024 desired, genuine transparent background, facial marks ONLY, no head outline or white face fill, skin, ears, hair, neck, background, captions. Eye centers around x32% and68% y46%; mouth centered x50% y71%. Eyes become sharply tapered narrow off-white almond slits with tiny fixed dark pupils and heavy menacing slanted upper lids. Under-eye shadows are thin muted dark violet-grey crescents hugging lower eyelids, at most about one third of eye height deep, taper to pointed ends: NOT large rounded circles, not panda patches, no drooping oval sacks. Omit nose. Mouth is a wide unsettling upward crescent grin, dark interior and 8-10 large simple off-white pointed teeth, visible separated tooth shapes, intimidating rather than cheerful. Minimal controlled asymmetry. No scratchy spikes, fur, excessive linework, gore or microdetails. Flat vector-like art with crisp strong silhouettes readable on a small round mannequin head 2–5m away; retain corporate minimalism while making the expression unmistakably hostile. All surrounding space and gaps between facial features transparent.",
+  "transparent_background": true,
+  "reference_images": [
+    "creative/art/exports/ART-001_face_fear_1024_v03.png",
+    "C:/Users/casse/Downloads/spooky-monster-face-illustration-with-sharp-teeth-and-glowing-eyes-flat-design-vector.webp"
+  ]
+}

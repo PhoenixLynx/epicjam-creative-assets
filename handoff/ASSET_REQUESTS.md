@@ -25,3 +25,15 @@ Claude edits only Claude's rows/notes; Sol edits only status/notes on the creati
 | ART-003 | itch_cover.png | itch.io page cover | PNG 630x500 (+ 315x250 check) | 3 | in progress | Sol: working-title cover and art-only plate exported, thumbnail checked. Title remains provisional; human review pending. See FROM_SOL.md. |
 | VO-001 | voice lines | PA, the Chairman (C), calendar, receptionist | WAV 48 kHz mono, one file per line | 4 (Sunday AM) | requested | Claude will send the line list with file names |
 | VID-001 | gameplay video | submission (REQUIRED) | 30-60 s, 1920x1080+ | Sunday | requested | captured from the packaged build; Claude sends a shot list |
+
+## Sol creative-side update — approved stalker face
+
+ART-001-STALKER-V01: **ready for Claude**. Director approved curled-grin v07 specifically for stalker. Labeled export: `creative/art/exports/ART-001_face_stalker_1024_v01.png` (1024x1024 RGBA). Preserve ordinary coworker face mappings. Full integration handoff at top of FROM_SOL.md. Import and playtest remain pending.
+
+## Sol creative-side ending artwork update
+
+ART-010, ART-013, ART-016: in progress — v01 review drafts exported (four PNGs), exact paths in creative/art/CLAUDE_HANDOFF_ENDING_SIGNS_V01.md. Human review pending; not imported. ART-011/012/014/015 not produced yet.
+
+## Sol creative-side ending plates update
+
+ART-011, ART-012 (four stills), ART-014, optional ART-015: in progress — exact-size v01 review drafts now available. See creative/art/CLAUDE_HANDOFF_ENDING_PLATES_V01.md for paths and caveats. Source masters, prompts and hashes saved; director approval and import tests pending.

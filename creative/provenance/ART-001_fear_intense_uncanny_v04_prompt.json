@@ -1,0 +1,10 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "prompt": "Edit image 1, an original HALCYON mannequin facial decal. Images 2 and 3 are expression references ONLY: study their stretched doll grin geometry and red glowing eyes, do not reproduce dolls, photographic texture, clothing, text or watermarks. Primary correction: previous mouth is a broad shallow crescent like a moustache. Replace it with a NARROWER, DEEPER doll-like open smile: mouth spans roughly x26% to74%, corners sharply lifted to y58%, central upper lip dips to y68%, lower lip forms a deep soft V / rounded tapered point at y80%. Dark wine-charcoal interior, subtle restrained dark lip rim; slight asymmetric upward hook at one corner. Looks like a small natural doll mouth stretched impossibly high at cheeks, ominously pleased, more faithful to reference smile SHAPE. No fangs, no toothy monster grin, no large tooth band, no moustache shape. Keep eye centers and existing face scale, simplify brows slightly if needed to fit uncanny minimalist doll expression. Add GLOWING RED pupils/irises: bright red compact cores with tiny orange-white central glints and tightly controlled soft crimson glow inside the eye area, off-white almond eye slivers still visible. Add 2-3 slim layered dark charcoal-violet crescents directly beneath each eye, clearly visible tired rings, tapering ends, total depth modest (about half an eye height), NOT large circular panda patches. Preserve minimal bold graphic silhouette and strong legibility at 2–5m. Only isolated facial marks on TRUE TRANSPARENT background, all gaps transparent, NO head outline, nose, face fill, hair, ears, body or frame. Original game art, flat stylized dark blue-charcoal palette with restrained violet shadow and red eye accents. Square desired1024x1024. Single expression.",
+  "transparent_background": true,
+  "reference_images": [
+    "creative/art/source/ART-001_face_fear_intense_uncanny_v03.png",
+    "C:/Users/casse/Downloads/images (3).jpg",
+    "C:/Users/casse/Downloads/images (2).jpg"
+  ]
+}

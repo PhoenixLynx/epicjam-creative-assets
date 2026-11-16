@@ -1,0 +1,330 @@
+[
+  {
+    "asset_id": "ART-011_cake_top-V01",
+    "descriptive_filename": "creative\\art\\exports\\ART-011_cake_top_1024x1024_v01.png",
+    "purpose": "Ending environment prop or in-world monitor illustration; see Claude handoff",
+    "human_contributors": [
+      "PhoenixLynx: game vision, visual direction and authorization to continue; individual asset review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen",
+      "System.Drawing crop/resample and exact lettering"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:33:22Z",
+    "source_prompts": "creative/provenance/ART_ending_plates_v01_prompts.json",
+    "settings": {
+      "transparent_background": true,
+      "source_dimensions": [
+        1254,
+        1254
+      ],
+      "export_dimensions": [
+        1024,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ]
+    },
+    "input_references_and_dependencies": [],
+    "origin_classification": "Original AI-assisted game illustration; monitor scenes inspired by supplied project screenshot, not actual captures",
+    "license_and_attribution": "Retain AI disclosure and inherited project screenshot provenance. No new external image inputs. No public license granted.",
+    "revision_history": [
+      "v01 generated; original master preserved; exact-size export and text overlays added where applicable"
+    ],
+    "source_file": "creative\\art\\source\\ART-011_cake_top_original_v01.png",
+    "source_sha256": "7e473e771a686562377f1181d032cb0de0a06aa3faf38f241a37a523cc5a5608",
+    "sha256": "ba8d0cdd86dae0a884ae038875949046fb531b14f5dbe96f7cd01366949555c0",
+    "git_commit_hash": null,
+    "integration_status": "Draft exported; awaiting human review and Claude import/continuity test",
+    "limitations": "Resampled to requested size, not native resolution. Monitor labels/timecodes are fictional. Ward geometry not verified against built game. Cake cutout is alpha only; mesh must support missing slice. Skyline not seamless."
+  },
+  {
+    "asset_id": "ART-014_skyline-V01",
+    "descriptive_filename": "creative\\art\\exports\\ART-014_skyline_4096x1024_v01.png",
+    "purpose": "Ending environment prop or in-world monitor illustration; see Claude handoff",
+    "human_contributors": [
+      "PhoenixLynx: game vision, visual direction and authorization to continue; individual asset review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen",
+      "System.Drawing crop/resample and exact lettering"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:33:22Z",
+    "source_prompts": "creative/provenance/ART_ending_plates_v01_prompts.json",
+    "settings": {
+      "transparent_background": false,
+      "source_dimensions": [
+        2172,
+        724
+      ],
+      "export_dimensions": [
+        4096,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        143,
+        255
+      ]
+    },
+    "input_references_and_dependencies": [],
+    "origin_classification": "Original AI-assisted game illustration; monitor scenes inspired by supplied project screenshot, not actual captures",
+    "license_and_attribution": "Retain AI disclosure and inherited project screenshot provenance. No new external image inputs. No public license granted.",
+    "revision_history": [
+      "v01 generated; original master preserved; exact-size export and text overlays added where applicable"
+    ],
+    "source_file": "creative\\art\\source\\ART-014_skyline_original_v01.png",
+    "source_sha256": "3b2cd18d8e5795a9a49e49baa726ce23c96a355877867307257db8ac7f33b14d",
+    "sha256": "bc0df61c846133af9578b596160985a334a354b083d12faeb704027f7a12995e",
+    "git_commit_hash": null,
+    "integration_status": "Draft exported; awaiting human review and Claude import/continuity test",
+    "limitations": "Resampled to requested size, not native resolution. Monitor labels/timecodes are fictional. Ward geometry not verified against built game. Cake cutout is alpha only; mesh must support missing slice. Skyline not seamless."
+  },
+  {
+    "asset_id": "ART-012a_desk-V01",
+    "descriptive_filename": "creative\\art\\exports\\ART-012a_desk_1920x1080_v01.png",
+    "purpose": "Ending environment prop or in-world monitor illustration; see Claude handoff",
+    "human_contributors": [
+      "PhoenixLynx: game vision, visual direction and authorization to continue; individual asset review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen",
+      "System.Drawing crop/resample and exact lettering"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:33:22Z",
+    "source_prompts": "creative/provenance/ART_ending_plates_v01_prompts.json",
+    "settings": {
+      "transparent_background": false,
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "export_dimensions": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        226,
+        255
+      ]
+    },
+    "input_references_and_dependencies": [
+      {
+        "path": "C:\\Users\\casse\\Documents\\Agentic\\EpicJam\\DirectorsCut_58\\devlog\\screenshots\\2026-11-13_dressed_campus.png",
+        "sha256": "1d60e4d17e63b3e73abcbc0197b16ed539bd61921b6b5be625e4f6ae11e0b0ec"
+      }
+    ],
+    "origin_classification": "Original AI-assisted game illustration; monitor scenes inspired by supplied project screenshot, not actual captures",
+    "license_and_attribution": "Retain AI disclosure and inherited project screenshot provenance. No new external image inputs. No public license granted.",
+    "revision_history": [
+      "v01 generated; original master preserved; exact-size export and text overlays added where applicable"
+    ],
+    "source_file": "creative\\art\\source\\ART-012a_desk_original_v01.png",
+    "source_sha256": "eff0710a9e45c4cf601889b39de4642e06fe78c542926041ff629bb42d7798af",
+    "sha256": "fb4085c64a870b06030cc90af4bdc4b25760a1f531dbd514f8cf7e7fd79b07e2",
+    "git_commit_hash": null,
+    "integration_status": "Draft exported; awaiting human review and Claude import/continuity test",
+    "limitations": "Resampled to requested size, not native resolution. Monitor labels/timecodes are fictional. Ward geometry not verified against built game. Cake cutout is alpha only; mesh must support missing slice. Skyline not seamless."
+  },
+  {
+    "asset_id": "ART-012b_conference-V01",
+    "descriptive_filename": "creative\\art\\exports\\ART-012b_conference_1920x1080_v01.png",
+    "purpose": "Ending environment prop or in-world monitor illustration; see Claude handoff",
+    "human_contributors": [
+      "PhoenixLynx: game vision, visual direction and authorization to continue; individual asset review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen",
+      "System.Drawing crop/resample and exact lettering"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:33:22Z",
+    "source_prompts": "creative/provenance/ART_ending_plates_v01_prompts.json",
+    "settings": {
+      "transparent_background": false,
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "export_dimensions": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        226,
+        255
+      ]
+    },
+    "input_references_and_dependencies": [
+      {
+        "path": "C:\\Users\\casse\\Documents\\Agentic\\EpicJam\\DirectorsCut_58\\devlog\\screenshots\\2026-11-13_dressed_campus.png",
+        "sha256": "1d60e4d17e63b3e73abcbc0197b16ed539bd61921b6b5be625e4f6ae11e0b0ec"
+      }
+    ],
+    "origin_classification": "Original AI-assisted game illustration; monitor scenes inspired by supplied project screenshot, not actual captures",
+    "license_and_attribution": "Retain AI disclosure and inherited project screenshot provenance. No new external image inputs. No public license granted.",
+    "revision_history": [
+      "v01 generated; original master preserved; exact-size export and text overlays added where applicable"
+    ],
+    "source_file": "creative\\art\\source\\ART-012b_conference_original_v01.png",
+    "source_sha256": "2ed5d5b8a067de68c0cf3d62d14e307abbce312745732e0d23839415057f0233",
+    "sha256": "e55f88f5f89b5141b042a94527cc4818710d10294edda92fe108a3c47827eff2",
+    "git_commit_hash": null,
+    "integration_status": "Draft exported; awaiting human review and Claude import/continuity test",
+    "limitations": "Resampled to requested size, not native resolution. Monitor labels/timecodes are fictional. Ward geometry not verified against built game. Cake cutout is alpha only; mesh must support missing slice. Skyline not seamless."
+  },
+  {
+    "asset_id": "ART-012c_corridor-V01",
+    "descriptive_filename": "creative\\art\\exports\\ART-012c_corridor_1920x1080_v01.png",
+    "purpose": "Ending environment prop or in-world monitor illustration; see Claude handoff",
+    "human_contributors": [
+      "PhoenixLynx: game vision, visual direction and authorization to continue; individual asset review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen",
+      "System.Drawing crop/resample and exact lettering"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:33:22Z",
+    "source_prompts": "creative/provenance/ART_ending_plates_v01_prompts.json",
+    "settings": {
+      "transparent_background": false,
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "export_dimensions": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        226,
+        255
+      ]
+    },
+    "input_references_and_dependencies": [
+      {
+        "path": "C:\\Users\\casse\\Documents\\Agentic\\EpicJam\\DirectorsCut_58\\devlog\\screenshots\\2026-11-13_dressed_campus.png",
+        "sha256": "1d60e4d17e63b3e73abcbc0197b16ed539bd61921b6b5be625e4f6ae11e0b0ec"
+      }
+    ],
+    "origin_classification": "Original AI-assisted game illustration; monitor scenes inspired by supplied project screenshot, not actual captures",
+    "license_and_attribution": "Retain AI disclosure and inherited project screenshot provenance. No new external image inputs. No public license granted.",
+    "revision_history": [
+      "v01 generated; original master preserved; exact-size export and text overlays added where applicable"
+    ],
+    "source_file": "creative\\art\\source\\ART-012c_corridor_original_v01.png",
+    "source_sha256": "68688294bc2a1e7bb6f3d6af7ea02b24543bc30e6cc928253b3d6ab293fae24a",
+    "sha256": "f0b6fcc2a411a4a38931c2aca399d11e19b191d9a1b2b61753bbf772e74fab0d",
+    "git_commit_hash": null,
+    "integration_status": "Draft exported; awaiting human review and Claude import/continuity test",
+    "limitations": "Resampled to requested size, not native resolution. Monitor labels/timecodes are fictional. Ward geometry not verified against built game. Cake cutout is alpha only; mesh must support missing slice. Skyline not seamless."
+  },
+  {
+    "asset_id": "ART-012d_ward-V01",
+    "descriptive_filename": "creative\\art\\exports\\ART-012d_ward_1920x1080_v01.png",
+    "purpose": "Ending environment prop or in-world monitor illustration; see Claude handoff",
+    "human_contributors": [
+      "PhoenixLynx: game vision, visual direction and authorization to continue; individual asset review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen",
+      "System.Drawing crop/resample and exact lettering"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:33:22Z",
+    "source_prompts": "creative/provenance/ART_ending_plates_v01_prompts.json",
+    "settings": {
+      "transparent_background": false,
+      "source_dimensions": [
+        1672,
+        941
+      ],
+      "export_dimensions": [
+        1920,
+        1080
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        226,
+        255
+      ]
+    },
+    "input_references_and_dependencies": [
+      {
+        "path": "C:\\Users\\casse\\Documents\\Agentic\\EpicJam\\DirectorsCut_58\\devlog\\screenshots\\2026-11-13_dressed_campus.png",
+        "sha256": "1d60e4d17e63b3e73abcbc0197b16ed539bd61921b6b5be625e4f6ae11e0b0ec"
+      }
+    ],
+    "origin_classification": "Original AI-assisted game illustration; monitor scenes inspired by supplied project screenshot, not actual captures",
+    "license_and_attribution": "Retain AI disclosure and inherited project screenshot provenance. No new external image inputs. No public license granted.",
+    "revision_history": [
+      "v01 generated; original master preserved; exact-size export and text overlays added where applicable"
+    ],
+    "source_file": "creative\\art\\source\\ART-012d_ward_original_v01.png",
+    "source_sha256": "c2f283ce5f0abc02b21e3305ab2d2bb3b4577e9ed47c5fea2b2065a15c0fd232",
+    "sha256": "dc9fb3ea010f5e745ccc186b1291d44e63e55c11b478f342e4961ec552d20463",
+    "git_commit_hash": null,
+    "integration_status": "Draft exported; awaiting human review and Claude import/continuity test",
+    "limitations": "Resampled to requested size, not native resolution. Monitor labels/timecodes are fictional. Ward geometry not verified against built game. Cake cutout is alpha only; mesh must support missing slice. Skyline not seamless."
+  },
+  {
+    "asset_id": "ART-015_soundstage-V01",
+    "descriptive_filename": "creative\\art\\exports\\ART-015_soundstage_2048x1024_v01.png",
+    "purpose": "Ending environment prop or in-world monitor illustration; see Claude handoff",
+    "human_contributors": [
+      "PhoenixLynx: game vision, visual direction and authorization to continue; individual asset review pending"
+    ],
+    "ai_systems_and_tools": [
+      "Sol / ChatGPT",
+      "OpenAI built-in image_gen",
+      "System.Drawing crop/resample and exact lettering"
+    ],
+    "original_creation_utc": null,
+    "observed_complete_utc": "2026-11-15T06:33:22Z",
+    "source_prompts": "creative/provenance/ART_ending_plates_v01_prompts.json",
+    "settings": {
+      "transparent_background": false,
+      "source_dimensions": [
+        1774,
+        887
+      ],
+      "export_dimensions": [
+        2048,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        201,
+        255
+      ]
+    },
+    "input_references_and_dependencies": [],
+    "origin_classification": "Original AI-assisted game illustration; monitor scenes inspired by supplied project screenshot, not actual captures",
+    "license_and_attribution": "Retain AI disclosure and inherited project screenshot provenance. No new external image inputs. No public license granted.",
+    "revision_history": [
+      "v01 generated; original master preserved; exact-size export and text overlays added where applicable"
+    ],
+    "source_file": "creative\\art\\source\\ART-015_soundstage_original_v01.png",
+    "source_sha256": "3a59836a0b4272fda55b2c65f3e840f35cc4b5d7647c80c5723821a51bdcc5cc",
+    "sha256": "88407099b36b594612e36a863045940a732f651101cf8cd7e76cf5e4a15ba268",
+    "git_commit_hash": null,
+    "integration_status": "Draft exported; awaiting human review and Claude import/continuity test",
+    "limitations": "Resampled to requested size, not native resolution. Monitor labels/timecodes are fictional. Ward geometry not verified against built game. Cake cutout is alpha only; mesh must support missing slice. Skyline not seamless."
+  }
+]

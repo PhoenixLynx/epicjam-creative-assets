@@ -1,0 +1,38 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "prompts": [
+    {
+      "id": "ART-011",
+      "prompt": "Original HALCYON game texture, UNCANNY MINIMALISM corporate flat stylized art. Orthographic straight overhead view of a round mint-frosted celebration cake TOP ONLY, centered circle nearly filling square with transparent outer corners. A single clean triangular slice is missing at lower-right (about 45 degrees), missing wedge fully transparent, no side walls or plate or perspective. Simple restrained piped cream border and a few mint confetti dots. Center icing text EXACTLY \"THAT'S A WRAP, 4471\" in readable dark charcoal hand-piped lettering on three centered lines, away from missing wedge. Clean game-ready frosting shapes, low detail, subtle icing relief, not photoreal. No additional props, candles, logo, shadows outside cake or background. Desired1024square RGBA transparent. Intended top decal on cylinder; no mesh depicted."
+    },
+    {
+      "id": "ART-014",
+      "prompt": "Original game environment backdrop for HALCYON penthouse ending, uncanny minimalist corporate aesthetic, clean flat stylized 3D game art, restrained detail, blue-grey silhouettes of anonymous modern city buildings at dusk, low horizon occupying lower40 percent, pale muted peach horizon fading up to dusty lavender and deep blue sky, a few sparse mint-white windows, skyline feels eerily still, no landmarks or recognizable real city, no logos, text, foreground railing, balconies, cameras or UI. Very wide panoramic horizontal framing 4:1, intended4096x1024 texture. Darker buildings at bottom, quiet open dusk sky above. No photographic grunge, no overly detailed windows, no sun flare. Opaque background. This is a flat distant scenic backdrop, not a view of a penthouse room."
+    },
+    {
+      "id": "ART-012a",
+      "prompt": "Original HALCYON game dailies monitor still, widescreen16:9, stylized low-detail corporate office game art, uncanny minimalism, off-white walls, mint partitions, blue-grey carpet, pale wood desks, blank round-headed faceless mannequins, crisp architectural edges, restrained diffuse lighting, CCTV observational high-corner angle. Image reference is project screenshot for palette/geometry inspiration only; remove all gameplay HUD, editor UI, cursor and text. This is a reconstructed illustration, not an actual gameplay capture. No text, timecodes, borders or overlays (added separately). Scene: Desk view: camera behind and above a lone mint-shirted blank-headed employee seated at their workstation facing a monitor, back of head visible, orderly identical cubicles receding beyond. Off-white monitor, simple keyboard and mint mug; small desk badge, no legible writing. Office fully enclosed ceiling, not dollhouse view. Quiet sterile morning. Human mannequin proportions.",
+      "reference": "2026-11-13_dressed_campus.png"
+    },
+    {
+      "id": "ART-012b",
+      "prompt": "Original HALCYON game dailies monitor still, widescreen16:9, stylized low-detail corporate office game art, uncanny minimalism, off-white walls, mint partitions, blue-grey carpet, pale wood desks, blank round-headed faceless mannequins, crisp architectural edges, restrained diffuse lighting, CCTV observational high-corner angle. Image reference is project screenshot for palette/geometry inspiration only; remove all gameplay HUD, editor UI, cursor and text. This is a reconstructed illustration, not an actual gameplay capture. No text, timecodes, borders or overlays (added separately). Scene: Conference room on a video call: high corner surveillance view, long pale wood rectangular table, six mint upholstered angular chairs with seated blank round-headed office mannequins, glass wall, wall-mounted video call monitor with simple grid of six anonymous dark silhouettes, one tile black; no letters or app branding. One empty chair near camera. Fully enclosed simple room. Symmetrical corporate order, quiet unease.",
+      "reference": "2026-11-13_dressed_campus.png"
+    },
+    {
+      "id": "ART-012c",
+      "prompt": "Original HALCYON game dailies monitor still, widescreen16:9, stylized low-detail corporate office game art, uncanny minimalism, off-white walls, mint partitions, blue-grey carpet, pale wood desks, blank round-headed faceless mannequins, crisp architectural edges, restrained diffuse lighting, CCTV observational high-corner angle. Image reference is project screenshot for palette/geometry inspiration only; remove all gameplay HUD, editor UI, cursor and text. This is a reconstructed illustration, not an actual gameplay capture. No text, timecodes, borders or overlays (added separately). Scene: Corridor B: long empty sterile office corridor, off-white planar walls and muted mint door panels, blue-grey floor, fluorescent ceiling rectangles receding in strict rhythm, a closed grey metal door at far end, tiny red status lamp above it. One plain bench and wall notice panel with no text. High corner security camera viewpoint. Darker exposure and faint green cast than office scene, tension through architecture, no monsters, no people. Corridor fills the image, no dollhouse view.",
+      "reference": "2026-11-13_dressed_campus.png"
+    },
+    {
+      "id": "ART-012d",
+      "prompt": "Original HALCYON game dailies monitor still, widescreen16:9, stylized low-detail corporate office game art, uncanny minimalism, off-white walls, mint partitions, blue-grey carpet, pale wood desks, blank round-headed faceless mannequins, crisp architectural edges, restrained diffuse lighting, CCTV observational high-corner angle. Image reference is project screenshot for palette/geometry inspiration only; remove all gameplay HUD, editor UI, cursor and text. This is a reconstructed illustration, not an actual gameplay capture. No text, timecodes, borders or overlays (added separately). Scene: The ward: a cold, empty institutional observation room inside the same corporate facility, two simple narrow white beds with neatly folded mint blankets, one mint privacy screen, a closed grey door and large dark one-way observation window, sparse equipment trolley. No patients, blood, medical distress, signage or text. Clinical blue-white rectangular ceiling lighting, unsettling order, no high-tech complexity. High corner CCTV angle, simple flat surfaces. This is an illustrative ward concept pending exact game-location match.",
+      "reference": "2026-11-13_dressed_campus.png"
+    },
+    {
+      "id": "ART-015",
+      "prompt": "Original HALCYON game ending soundstage reveal plate. Uncanny minimalist stylized low-detail 3D game environment. Wide2:1 composition. View BEHIND an office film set: exposed backs of off-white set flats and their angled timber braces on left, black overhead lighting truss with simple studio lights, two C-stands and coiled cable, dark blue-grey concrete floor. On right wall a wooden horizontal strip holding SIX clearly separated metal badge hooks evenly spaced, five plain mint employee passes hang from first five hooks and last hook empty. Leave badge fronts and space below hooks BLANK, exact numbered labels added separately. NO text, numbers, logos, people, menu or HUD. Restrained mint, charcoal, cold white, subtle distant red worklight. Not photoreal, no intricate gear microdetail. Strong readable silhouettes, eerie emptiness, office illusion exposed. Desired2048x1024 opaque flat background illustration, not panorama wrap."
+    }
+  ],
+  "postprocessing": "System.Drawing export_ending_plates_v01.ps1: exact-size crop/resample, deterministic timecodes/slates/badge labels; original masters preserved"
+}

@@ -1,0 +1,59 @@
+{
+  "asset_id": "ART-001-FEAR-INTENSE-UNCANNY-V04",
+  "filename": "creative\\art\\exports\\ART-001_face_fear_intense_1024_uncanny_v04.png",
+  "purpose": "Deep doll-smile Fear decal with layered under-eye rings and painted red eye glow",
+  "human_contributors": [
+    "PhoenixLynx: requested closer reference smile shape, extra dark circles and glowing eyes; supplied two references"
+  ],
+  "ai_systems": [
+    "Sol / ChatGPT",
+    "OpenAI built-in image_gen"
+  ],
+  "tools": [
+    "image_gen",
+    "System.Drawing export_faces.ps1",
+    "Pillow validation"
+  ],
+  "original_creation_utc": null,
+  "recorded_utc": "2026-11-14T23:09:04.125319+00:00",
+  "source_prompts": "creative/provenance/ART-001_fear_intense_uncanny_v04_prompt.json",
+  "settings": {
+    "transparent_background": true,
+    "source_size": [
+      1254,
+      1254
+    ],
+    "export_size": [
+      1024,
+      1024
+    ]
+  },
+  "input_references": [
+    {
+      "path": "creative\\art\\source\\ART-001_face_fear_intense_uncanny_v03.png",
+      "sha256": "625f93b0775a9c3698b4ae28b1a8a95f81991f640712148c783241850bb9ea7c"
+    },
+    {
+      "path": "C:\\Users\\casse\\Downloads\\images (3).jpg",
+      "sha256": "bba4a2fc51b5604e9965cdc68a4013d45e72e4cee021bff4741147538d682b72"
+    },
+    {
+      "path": "C:\\Users\\casse\\Downloads\\images (2).jpg",
+      "sha256": "739e127c70c471ca8cc6bac929f0d51870e0d18b988d20c34f8f690a247ad0a2"
+    }
+  ],
+  "classification": "AI-assisted derivative revision of project face; external image used as mood reference",
+  "license_attribution": "External reference authorship and license unverified; reference not redistributed. Retain AI disclosure and source ancestry; no rights clearance asserted.",
+  "revision_history": [
+    "v01: oversized eye bags rejected as panda-like",
+    "v02: earlier Fear layout reference, thin tapered shadows, sharper eyes and pointed teeth",
+    "v03: replace fangs with stretched asymmetric crescent smile and small central tooth sliver; preserve eyes and thin shadows",
+    "v04: deeper tapered open smile, layered thin under-eye rings, compact red glowing irises"
+  ],
+  "source_file": "creative\\art\\source\\ART-001_face_fear_intense_uncanny_v04.png",
+  "source_sha256": "ad85d494d8f953e1fb312c700604c02c024db13a4c9867be6bf76b22e11ed8ea",
+  "sha256": "03fecf3b61f498280f6acceceece16b75564f03156aa96c8083725dd1399000f",
+  "git_commit": null,
+  "integration_status": "Exported for human review; not integrated",
+  "validation": "1024x1024 RGBA, alpha 0..255, transparent corners. UV fit and readability pending. Glow is painted into PNG; Unreal emission/bloom not implemented."
+}

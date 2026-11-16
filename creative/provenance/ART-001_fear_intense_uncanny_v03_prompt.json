@@ -1,0 +1,9 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Image 1 is the HALCYON game face decal to edit. Image 2 is ONLY mood reference for an unnaturally stretched doll smile, not a character to reproduce. Change ONLY image 1's mouth: remove ALL triangular teeth/fangs and replace the mouth with a creepy nearly human doll-like smile, a dark narrow crescent opening whose outer corners pull disturbingly high toward the cheeks, one corner subtly higher. The upper mouth edge gently curves down in the center, the lower edge sweeps up sharply to meet very tapered corners. A tiny subdued off-white sliver of upper teeth may sit at the center, but NO individually pointed teeth, no big white tooth band, no jagged grin. The smile should feel like forced friendliness stretched past normal, quiet malicious amusement, not a cartoon monster or happy smile. Preserve eyes, pupils, brows, thin violet-grey under-eye crescents, feature positions, canvas, palette, overall scale and clean bold uncanny-minimalist style from image 1. No red eyes added. Only floating facial marks; NO head, face outline, skin fill, hair, nose, clothing, text, watermark, border or backdrop. Original project design inspired by mood only; do not reproduce reference doll or watermark. Genuine transparent background including all spaces between facial marks. Square 1024x1024 desired, flat strong graphic shapes readable at 2–5m on a mannequin head.",
+  "transparent_background": true,
+  "reference_images": [
+    "creative/art/source/ART-001_face_fear_intense_uncanny_v02.png",
+    "C:/Users/casse/Downloads/images (1).jpg"
+  ]
+}
